@@ -1,0 +1,964 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_웹데이터 말뭉치 구축__7000036641",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "category": 0,
+      "type": 0,
+      "source_file": "BWIN217000036641",
+      "source": "0"
+    },
+    "text": [
+      {
+        "title": "美 재무부 반기 보고서, '韓·中은 통화절상 더 해야'",
+        "subtitle": "",
+        "content": "= 미 재무부가 15일(현지시간) 미국과의 주요 교역 대상국 중 환율조작국가는 없으며 다만 한국과 중국의 통화가 더 절상돼야 한다고 말했다.재무부는 이날 반기 국제경제 및 환율정책에 대한 보고서를 의회에 제출하면서 환율 조작국의 규정에 맞는 국가가 없었다고 말했으나 한국과 중국에는 원화절상 압력의 메시지를 보냈다. 미국은 1994년에 중국은 환율조작국이라고 언급한 바 있다. 한국에 대해서는 금융위기 전보다 더 큰 흑자를 누리는 몇 안되는 국가중 하나라면서 환율개입이 보고되지는 않았다고 말했다. 다만 재무부는 “시장 참가자들에 따르면 한국 외환당국은 지난해 12월말부터 올 8월까지 220억달러(약 23조4230억원) 규모로 외환시장 직접 개입에 나선 것으로 추정되고 있다”고 지적했다. 재무부는“대규모 경상수지 흑자와 외환보유고, 저평가된 통화가치를 고려할 때 원화는 추가 절상이 허용돼야 한다”고 밝혔다.미 재무부는 또한 한국에 대해 “순수출이 올해 경제성장의 전부를 차지했다”면서 “이는 한국이 대외부문에만 계속 의존하고 있고 내수는 취약하다는 뜻”이라고 말했다.한편 중국에 대해서는 “지난 7~8월에 위안화 가치가 점진적으로 상승했고 중국 정부의 외환시장 개입도 낮은 수준을 유지하고 있다”고 말했다. 재무부는 “이는 '중국 당국이 위안화 강세를 용인하고 시장개입을 줄이려는 새로운 의지를 보여준 것”이라고 높게 평가했다. 하지만 보고서는 여전히 위안화가 '상당히 저평가된 상태'라며 중국 당국이 위안화 절상을 추가로 허용해야 한다고 결론내렸다. 위안화 가치는 지난 2월 중순 이후 4월 중순까지 3.1% 하락한 후 1.9% 정도 반등했다. 달러대비 유로화는 지난해 말 이후 7%이상 절하됐다. 이에 재무부는 유로존(유로화 사용 18개국) 역내 수요를 증가시킬 조치를 취하라고 재차 독일 등에 요구했다. 재무부는 최근 유럽중앙은행의 경기부양책에 환영의 뜻을 나타냈지만 추가적 부양정책이 필요할 수 있다고 말했다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-16 08:20:53",
+        "url": "https://www.news1.kr/articles/?1906140",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "엔/달러 105.71엔 5년11개월來 최고치…ecb완화 영향",
+        "subtitle": "",
+        "content": "= . 엔/달러 환율이 5일 오전 도쿄 외환시장에서 5년 11개월만에 최고치를 기록했다. 밤사이 유럽중앙은행(ecb)이 추가 금융완화를 결정한 것이 영향을 미쳤다. 이로 인해 달러 매수, 유로 매도 흐름이 (이름)면서 달러 매수, 엔 매도에도 탄력이 붙었다. 이날 오전 한때 엔/달러 환율은 105.71엔까지 치솟았다고 오후 1시 16분 현재 105.31~105.34엔을 기록하고 있다. 환율은 전일 저녁에는 104.9엔 전후에서 움직였지만 이날 아침에 연고점(1월 2일, 105.45엔)을 넘어서서 105.71엔까지 상승했다. 환율은 지난 2월 이후 지속되고 있는 박스권에서 벗어나고 있는 모습이다.ecb가 전격적으로 기준금리를 인하하고 추가 부양책을 내놓은 것이 영향을 미쳤다. 발표 전에 달러/유로 환율은 1.31유로/달러 수준이었지만 발표 직후에는 1.29유로/달러까지 급락(유로약세)하며 2013년 7월 이후 최저치를 기록했다.아소 다로(麻生太?) 부총리 겸 재무장관은 이날 오전 기자회견에서 '급격하게 (환율이) 오르거나 내리는 것은 가장 바람직하지 않다'고 말했다고 니혼게이자이신문은 전했다. 그는 급격한 환율 변동은 '매우 위험하다'면서 기업 활동에 미치는 영향을 우려했다.미 연방준비제도(연준)는 양적완화(qe)를 오는 10월 완료할 예정이어서 기준금리 인상 시점이 점차 다가오고 있다. 미 금리 상승에 대한 기대로 미 국채 10년물 금리는 일시적으로 2.4%대 중반까지 상승했고, 달러는 강세를 지속하고 있다. 반면, 일본은행(boj)은 전일 통화정책결정회의에서 대규모 금융완화를 지속하기로 결정했다. 스미토모 미쓰이뱅킹그룹의 외환 트레이딩 부문의 대표 구레다 신지는 월스트리트저널(wsj)에 오늘 밤에 발표되는 미국의 고용 지표가 시장의 기대를 웃돌 것으로 가정한다면 엔/달러 환율은 106.5엔까지 오를 수 있다면서 그러면 '다음 타깃은 107엔이 된다'고 말했다. . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-05 14:26:26",
+        "url": "https://www.news1.kr/articles/?1847911",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美 s&p 500기업, 내수 증가 힘입어 3q 실적 '이상무'",
+        "subtitle": "",
+        "content": "= 미국 대기업들의 실적이 2분기때의 성장속도는 아니지만 3분기에도 국내 수요 개선에 힘입어 개선될 것으로 보인다고 월스트리트저널(wsj)이 28일(현지시간) 보도했다. wsj는 이날 톰슨로이터 조사결과를 인용해 스탠다드앤푸어스(s&p)500지수 편입 500대 기업의 3분기 실적이 3년동안의 기록 중 최고수준인 전년동기대비 8.1%증가를 기록할 것으로 전망된다고 밝혔다. wsj는 이는 2분기에 비하면 성장세가 둔화된 것이지만 글로벌 경제성장에 대한 우려가 대두되면서 암울한 분위기로 시작된 실적보고에서 기업들의 이같은 선전은 희소식이라고 평가했다. 톰슨로이터는 실적을 발표한 s&p기업 49%의 실제 결과와 나머지 기업들의 추정치를 기초로 이같이 집계했다. s&p 기업들의 3분기 실적은 맥주 캔에서부터 트럭, 난방기 등의 모든 부문의 수요증가 덕을 톡톡이 보고 있다. 이같은 호조에 힘입어 이번달 초 2011년 이후 가장 급격한 3일연속 하락을 기록한 다우존스산업평균지수는 28일 187.81포인트 상승해 지난달 19일 기록한 사상최고에서 불과 1.6%떨어진 수준을 회복했다. 건강관련 주와 에너지주가 상승을 이끌었다. 페인트 제조기업인 셔윈윌리엄스는 이날 부동산시장 반등으로 3분기 순익이 24%증가했다면서 '이같은 긍정적인 모멘텀이 지속될 것으로 확신한다'고 밝혔다. 톰슨로이터에 따르면 다른 기업들도 고용시장 개선, 주택시장의 반등, 소비심리가 회복되면서 상승모멘텀이 형성됐고 이것이 4분기에도 수요증가로 이어질 것으로 보고있다. 이로 인해 미국 시장에선 매출성장세가 다소 주춤하더라도 순익증가는 이어질 것이라는 긍정적인 전망이다.하지만 모든 기업들이 호조가 예상되는 것은 아니다. at&t, 제약사인 머크 등은 올해 매출목표를 하향했고 기중기 제조사인 테렉스는 올해 순익전망치를 내렸다. 웰스 파고 애널리스트들은 27일 올해의 순익전망을 올린 기업만큼 낮춘 기업도 많을 것이라고 예상했다. 특히 아직 실적발표가 시작되지 않은 소매기업들의 올해 순익이 하방압력을 받고 있다. 수익이 적은 저가의 소비재가 주로 팔리고 고객들의 점포 방문 수 자체가 줄고 있기 때문이다. 유럽의 경기침체와 중국시장의 성장둔화는 수출위주 미국 기업들의 향후 실적을 위협하는 요소다. 두 지역의 수요감소에 더해 유럽과 중국의 통화 대비 미 달러가 강세를 띠면서 해외에서 미국 상품의 경쟁력을 떨어뜨리기 때문이다. 이는 가뜩이나 6년째 회복세가 이어지면서 활력이 약해진 미 경제에 부담으로 작용하고 있다. 하지만 wsj는 전반적으로 기업활동이 호조로 나타나고 있다면서 물류기업들의 매출 증가를 예로 들었다. 즉 ups에 따르면 3분기 기업간 유통량은 수년래 최고를 나타냈으며 미 화물운송업체인 csx는 4분기에 수요가 96%증가할 것으로 보고 있다. 자동차전문 판매기업인 오토네이션과 알루미늄 전문 기업 알코아도 미국내 매출증가에 힘입은 성장를 예상하고 있고 있다. 유럽시장내 인공관절 판매 호조 덕을 보는 존슨앤존슨과 중국내 비행고도 완화에 대한 반사이익을 보고 있는 개인용 제트기 생산기업 텍스트론 등 유럽과 중국 시장을 겨냥한 일부 기업들 역시 전망이 밝다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-29 16:24:01",
+        "url": "https://www.news1.kr/articles/?1928549",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕개장전]지표발표 앞두고 약보합세",
+        "subtitle": "",
+        "content": "= 뉴욕증시 지수선물이 1일(현지시간) 약보합세를 나타내고 있다. 제조업 지표와 고용지표 등의 발표를 앞두고 관망세가 형성되고 있다. 뉴욕 현지시간으로 오전 7시51분 현재 다우존스산업평균 지수선물은 전장대비 30포인트 하락한 1만 6935.00을 나타내고 있다. 스탠다드앤푸어스(s&p) 500지수선물은 4.70밀린 1960.80을, 나스닥종합지수선물은 12.75 하락한 4032.00을 나타내고 있다.투자자들은 최근 지속되고 있는 달러 강세 현상에 촉각을 곤두세우고 있다. 내년의 금리인상을 앞두고 미 달러는 강세를 나타내 엔화에 대해서는 110엔대로 올랐고(엔화약세), 유로화는 지난 2012년 9월 이래 처음으로 1.26달러 아래로 추락(유로화 약세)했다. 이날 발표되는 지표들에서는 혼조세가 나타날 것으로 점쳐지고 있다.미 공급관리협회(ism)의 9월 제조업 지수는 전월 대비 0.1포인트 하락한 58.0이 예상되고 있다. 시장조사업체 마킷의 9월 제조업 구매관리자지수(pmi) 확정치는 속보치보다 0.1포인트 높은 58.0으로 개선될 것으로 전문가들은 전망했다.고용조사업체 오토매틱데이터프로세싱(adp)가 발표하는 9월 민간 부문 고용은 전월 대비 4000건 감소한 20만건이 예상된다.주목해야할 주식은 자동차주와 바이오테크 기업주들이다. 자동차회사들은 이날 미국내 판매량을 발표한다. 에볼라 바이러스 치료제 생산업체인 테크미라 파마수티컬은 전날 미국에서 첫 에볼라 바이러스 환자가 확인된 후 현재 30.09%급등중이다. 뉴링크 제네틱스는 12%넘게 급등하고 있다. 사렙타 테라퓨틱스도 8%넘게 오르고 있다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-01 21:12:37",
+        "url": "https://www.news1.kr/articles/?1885579",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "'제 살 길찾는' 중앙은행들…연준과 ecb 탈동조화 '뚜렷'",
+        "subtitle": "",
+        "content": "= . 미국 연방준비제도(연준)가 지표 개선에 힘입어 '출구전략'을 찾고 있는 가운데 유럽중앙은행(ecb)이 전격적으로 기준금리 인하를 포함한 금융완화책을 내놓았다. 시장에서는 ecb가 이에 그치지 않고 보다 추가적인 강력 대책을 내놓을 것으로 보고 있다. ecb의 굳건한 금융완화 프로그램이 미국의 경제 회복세와 대조를 보이면서 일부 전문가들은 연준이 오는 9월 연방공개시장위원회(fomc) 정례회의에서 '매파(인플레이션 억제 위해 금리 인상 필요)'적 기조를 강화할 것으로 예상하고 있다.성명에서 현재의 기준금리 기조를 '상당 기간' 지속할 것이란 문구를 수정, 금리 (이름) 시점에 대해 보다 분명한 입장을 전달할 수 있다는 관측이다.연준과 ecb의 상이한 정책 기조가 보다 선명해지면 달러 강세와 미 국채 금리 상승세는 탄력을 받을 것으로 전망된다. 반면 일본은행(boj)이 부양적 통화정책을 지속하고 있어 엔화는 유로화와 더불어 큰폭의 약세를 보일 것으로 예상된다.4일(현지시간) ecb가 기준금리인 재할인율(refinancing rate)을 10bp(bp=0.01%) 낮은 0.05%로 낮추고 한계대출금리도 10bp 인하한 0.3%로 (이름)며 시중은행이 ecb에 맡길 때 적용하는 예치금리는 마이너스(-) 0.1%에서 -0.2%로 낮추면서 미 국채 금리는 상승세를 보였다.마리오 드라기 총재는 경제를 부양하고 인플레이션을 촉진시키기 위해 ecb가 자산유동화증권(abs)와 커버드 본드(covered bond)도 매입할 것이라고 밝혔다. 매입 규모는 언급하지 않고 오는 10월에 구체적인 내용을 밝힐 것이라고 설명했다.시장에서는 연내에 ecb가 다음 조치로 양적완화(qe)를 발표할 것으로 보고 있다. 색소 캐피탈 마켓의 선임 시장 애널리스트 겸 회장 닉 비크로프트는 cnbc에 연말에 ecb가 qe를 발표할 것으로 전망했다. 그는 완고한 유로화 강세, 낮은 성장률, 낮은 실질 인플레이션이 지속된다면 qe를 시행할 수밖에 없을 것으로 진단했다.. . 이로 인해 달러/유로 환율은 2013년 7월 이후 처음으로 1.3유로/달러를 밑돌았다. 이날 미국의 지표 역시 달러 강세를 부추기고 국채 가격에 영향을 미쳤다. 전미공급관리자협회(ism)는 8월 비제조업 구매관리자지수(pmi)가 2005년 이후 최고인 59.6으로 전월 58.7에서 상승했다고 밝혔다.오토매틱 데이터 프로세싱(adp)이 발표한 8월 비농업 부문 신규 고용자 수(정부취업 제외)는 20만4000명으로 집계됐다. 이는 시장 예상치인 21만5000명을 하회한 것이지만 5일 발표되는 정부의 비농업 고용자수는 20만명을 웃돌 것이란 시장의 기대를 재확인했다. 8월 비농업 고용자수는 연준이 오는 16일 시작하는 fomc 회의에서 핵심 자료가 될 전망이다.노무라증권의 주요 10개국 외환 전략 부문 글로벌 대표 옌스 노드비그는 cnbc에 '미국의 지표는 견조하게 바닥을 찾고 있는 것으로 보인다'면서 '10년래 최고치를 기록하는 지표들이 많다. ism은 가장 최근의 것이다. 이것들은 지난 수년 동안의 범위에서 완전히 벗어나는 것들이다'고 말했다. 노드비그는 지표 때문에 연준이 기준금리를 '상당 기간 유지할 것'이란 중요한 문구를 없앰으로써 경제가 견조한 회복세를 보이고 있다는 것을 인정하지 않을 수 없을 것이라고 진단했다. 하지만 이것이 연준이 곧바로 금리 인상에 돌입하는 것은 아니며 회복세를 인정하면서 금리 인상 시점을 둘러싼 논의의 문을 열어두는 것이라고 설명했다.연준의 정책 운용은 지표를 중심으로 하기 때문에 지표가 실망스러운 결과를 보이면 노말라(이름)션((이름))과 기준금리 인상으로 가는 길은 멀어질 수 있다. 노드비그는 기준금리 인상 시점에 대해 '3월 혹은 6월, 혹은 9월인지는 내년이 되기 전까지는 알지 못할 것이다'고 말했다.연준은 양적완화(qe)를 축소하는 테이퍼링을 진행중이며 오는 10월 이를 마무리할 것으로 예상된다. 다수의 시장 전문가들은 연준이 내년 중반 무렵에 기준금리를 인상할 것으로 전망하고 있다.cnbc에 따르면 데이비드 아더 crt 캐피탈의 선임 채권 전략가는 ecb의 금융 완화로 연준이 9월 성명에서 문구를 수정할 가능성이 커졌다고 내다봤다. 그는 ecb의 발표 이전에는 연준이 오는 10월에 입장을 바꿀 것으로 예상했었다.다만, 제프리스의 워드 맥카시 선임 파이낸셜 이코노미스트는 유럽 상황으로 인해 연준이 행동에 나설 수밖에 없는 상황이 되면서 연준은 기존 정책를 변화를 주는 데에서 보다 신중해질 수 있다고 진단했다.맥카시는 cnbc에 '통화 정책은 지금 당장에는 노동 시장에 고정돼 운용된다. 인플레이션은 목표치 아래에 있기 때문에 후차적이다. 이것이 의미하는 것은 연준은 인플레이션을 우려하지 않고 노동시장을 살리기 위해 부양 조치를 지속할 수 있다는 것을 의미한다'고 말했다.맥카시는 '연준은 조만간 기준금리를 인상할 것으로 생각한다. 그런데 행동에 나서기 전에 디플레이션이라는 악령을 몰아냈는지 확신을 갖고 싶어할 것이다'며 '이것은 연준이 '뒷북(behind the curve)'을 어느 정도 칠 수 있다는 것을 의미한다'고 말했다.. . 한편 연준과 ecb의 탈동조화로 인해 달러 강세와 유로 및 엔화 약세 흐름을 보다 확대될 전망이다. 이날 ecb 발표 직후, 달러/유로 환율은 1.7% 하락한 1.292유로/달러로 2013년 7월 이후 최저치를 기록한 뒤에 소폭 오름세를 보였다.캐피탈 이코노믹스는 당초 달러/유로 환율이 올해 말가지는 1.30유로/달러 수준까지 하락하지 않을 것으로 봤다. 하지만 발표 직후 새로운 전망치를 통해 올해 말에는 환율이 1.25유로/달러까지 하락하고 내년 말에는 1.20유로/달러까지 떨어질 수 있다고 내다봤다.노무라증권은 이번달 말에 1.27유로/달러까지 하락할 것으로 봤다. bmo 캐피탈 마켓의 선임 이코노미스트 제니퍼 리는 파이낸셜포스트에 '미국과 영국에서 금리 인상에 탄력이 붙고 있고 캐나다와 호주에서는 꾸준한 흐름을 보이고 있지만 ecb는 지속적으로 추가 부양책을 내놓고 있다'고 말했다.엔화는 전일 저녁에는 미 달러 대비 104.9엔 전후에서 움직였지만 이날 아침에 연고점(1월 2일, 105.45엔)을 넘어서서 105.71엔까지 상승했다. 환율은 지난 2월 이후 지속되고 있는 박스권에서 벗어나고 있는 모습이다. 이날 오후 4시 현재에는 105.30엔을 기록하고 있다.스미토모 미쓰이뱅킹그룹의 외환 트레이딩 부문의 대표 구레다 신지는 월스트리트저널(wsj)에 5일 밤에 발표되는 미국의 월별 비농업 고용지표가 시장의 기대를 웃돌 것으로 가정한다면 엔/달러 환율은 106.5엔까지 오를 수 있다면서 그러면 '다음 타깃은 107엔이 된다'고 말했다. . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-05 16:58:25",
+        "url": "https://www.news1.kr/articles/?1848298",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "ecb 전격 금리 인하 시장 '출렁'…유로화·국채금리 급락",
+        "subtitle": "",
+        "content": "= . 유럽중앙은행(ecb)이 4일(현지시간) 기준금리를 사상 최저 수준으로 전격적으로 인하하고 채권 매입 프로그램을 발표하면서 시장을 놀라게 했다. ecb의 발표 직후, 유로화는 미 달러 대비 1% 이상 급락했고 유럽 주요 증시는 가파른 상승세를 나타나냈다.이날 ecb는 통화정책회의 뒤에 오는 10일부로 기준금리인 재할인율(refinancing rate)을 사상 최저치인 현재 수준에서 10bp(bp=0.01%) 낮춘 0.05%로 인하하기로 했다. 한계대출금리도 10bp 인하한 0.3%로 낮춘다. 시중은행이 ecb에 맡길 때 적용하는 예치금리는 마이너스(-) 0.1%에서 -0.2%로 더욱 낮췄다.마리오 드라기 총재는 이날 오후 기자회견에서 경제를 부양하고 인플레이션을 촉진시키기 위해 ecb가 자산유동화증권(abs)와 커버드 본드(covered bond)도 매입할 것이라고 밝혔다. 매입 규모는 언급하지 않고 오는 10월에 구체적인 내용을 밝힐 것이라고 설명했다. abs는 간략하게 말하면 대출자산을 기초로 발행하는 증권이며 커버드 본드는 여기에 은행의 우량자산을 담보로 발행되는 채권을 의미한다.드라기 총재는 '(새로운 조치의) 목적은 이전 프로그램과 무척 다르다. 신용 확대가 목적이며 ecb의 대차대조표도 2012년 초 수준으로 키울 것이다'고 말했다. 현재 대차대조표는 약 2(이름)이며 2012년 초에는 2조7000억유로 수준이었다. 앞서 일부 전문가들은 ecb가 지난달에 미국 자산운용사 블랙록에 abs 매입에 대한 자문을 의뢰한 것으로 알려지면서 abs 매입을 발표할 것이란 전망을 내놓기도 했다.이 프로그램에 따라 유로존(유로화 사용 18개국) 은행들은 ecb에 대출 채권과 여러 형태의 신용을 매각하게 된다. 드라기 총재는 ecb는 담보가 있거나 위험성이 낮은 선순위 채권만 사들일 것이라고 밝혔다. 구체적으로는 주택담보부대출증권(rmbs)뿐 아니라 신규 발행되거나 기존에 발행된 abs을 매입한다.ecb가 고려하고 있는 또 다른 조치는 미국 연방준비제도(연준)이 시행하고 있는 '전면적' 양적완화(qe)이다. qe는 중앙은행이 은행권에서 국채를 매입하는 것이다. 유로존에서는 공통 채권(유로본드)가 발행되지 않는다는 등의 (이름) ecb의 qe 조치는 항상 논란을 불러왔다.. 하지만 일각에서는 ecb가 다음 조치로 qe를 발표할 것으로 보고 있다. 색소 캐피탈 마켓의 선임 시장 애널리스트 겸 회장 닉 비크로프트는 연말에 ecb가 qe를 발표할 것으로 전망하면서 '(qe 시행 전에) ecb가 독일 중앙은행인 분데스방크와 한차례 소동을 겪어야 할 것이다'고 말했다. 분데스방크는 qe 시행에 강한 반대입장을 견지해왔다.옌스 바이트만 분데스방크 총재는 이날 ecb의 추가 부양책에 반대 입장을 보였다고 익명의 소식통을 인용해 월스트리트저널(wsj)은 보도했다. 바이트만 총재는 지난 6월 시행을 발표했고 올 하반기에 시작하는 장기대출프로그램(tltro)의 효과를 지켜보는 것이 우선이라는 입(이름)고 소식통은 설명했다. tltro는 오는 18일 처음 시작된다.비크로프트 회장은 완고한 유로화 강세, 낮은 성장률, 낮은 실질 인플레이션이 지속된다면 qe를 시행할 수밖에 없을 것으로 진단했다.이날 드라기 총재는 ecb가 '전면적' qe를 논의했으며 일부 위원들은 이에 찬성 입장을 보였다고 밝혔다. 그는 '정책위원회 위원들 일부는 오늘 제시된 조치 (이름) 것이 필요하다고 주장했지만 일부는 반대 입장을 나타냈다. 그래서 오늘 밝힌 조치는 중도적인 것이다'고 말했다. 그러면서 안정 다수(comfortable majority)가 ecb의 '중도'적 조치를 지지했다고 설명했다.이날 발표된 ecb의 조치는 자산을 매입함으로써 경제에 새로 발행되는 유동성을 늘리기 때문에 양적완화의 형태이다. 하지만 현재로선 미국과 영국, 일본에서 시행중인 자산매입에는 크게 뒤떨어진다. ecb의 프로그램에는 다른 주요국 중앙은행들이 공격적으로 매입되거나 되고 있는 국채도 빠져 있다.저성장과 낮은 인플레이션에 대한 우려로 인해 앞서 지난 6월에도 ecb는 여러 조치를 발표했다. 하지만 이후로도 여러 경제 지표는 실망스러운 결과를 보였다. 유로존 인플레이션은 8월에 5년래 최저인 0.3%를 기록, 유로존이 디플레이션으로 향하고 있다는 우려를 키웠다. ecb는 인플레이션이 올해에는 0.6%까지 상승하고 내년까지는 물가 상승이 속도를 내지 못할 것으로 전망하고 있다.유로존의 성장률은 지난 1분기에 전기대비 0.2%를, 2분기에는 0%를 기록했으며 시장의 관심이 집중됐던 복합 구매관리자지수(pmi)는 올 들어 최저인 52.5를 기록했다. 이날 드라기 총재는 ecb가 올해와 내년도 유로존의 성장률 전망치를 각각 0.9%와 1.6%로 낮췄다고 밝혔다. 드라기 총재는 2분기 성장률은 기대보다 낮았지만 3분기 수치는 완만한 회복세를 보일 것으로 기대를 나타냈다. 그는 또 ecb는 추가로 기준금리를 낮출 생각은 없다고 말했다.파급효과는 곧바로 감지될 것으로 보인다. bbh의 외환 전략 부분 대표 마크 챈들러는 cnbc에 비유로존 유럽 국가들이 ecb를 따라 금리 인하에 나설 것으로 봤다. 그는 '덴마크는 금리 인하에 나설 가능성이 크다. 폴란드 역시 조만감 금리를 낮출 것이라고 시사했다'고 말했다. 챈들러의 발언 이후, 덴마크는 기준 금리 중 하나를 실제로 낮췄다.한편 이날 ecb 발표 직후, 달러/유로 환율은 1.7% 하락한 1.292유로/달러로 2013년 7월 이후 최저치를 기록한 뒤에 소폭 오름세를 보였다. 유로존 여러국의 단기 국채 금리는 제로(0) 이하로 떨어졌다. 독일과 프랑스, 오스트리아의 국채 2년물 금리는 마이너스를 기록했다. 기준이 되는 국채 10년물 금리는 이탈리아와 아일랜드에서 사상 최저치를 기록했다.증시는 오름세를 보였다. 프랑스 cac40 지수는 1.65% 뛴 4494.94로, 독일 dax30 지수는 1.02% 상승한 9724.26으로 장을 마감했다. 유로존에 속하지 않는 영국 ftse100 지수는 0.06% 오른 6877.97로 거래를 마쳤다.. . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-05 12:05:30",
+        "url": "https://www.news1.kr/articles/?1847759",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "미 10월 시카고 pmi 66.2…1년래 최고",
+        "subtitle": "",
+        "content": "= . 미 중서부 지역의 제조업 경기가 1년래 최고로 활발했다. 31일(현지시간) 시카고 구매관리자협회는 10월 구매관리자지수(pmi)가 66.2를 기록했다고 발표했다. 이는 1년래 최고 수치로 전문가 예상인 60.0을 대폭 상회했다. 직전월에는 60.5를 기록해 전월비 둔화됐었다.pmi는 50을 기준으로 이를 웃돌면 경기확장을, 이를 밑돌면 경기위축을 의미한다.시카고 구매관리자협회는 성명을 통해 '이 지수가 반등한 것은 4분기 미 경제의 탄탄한 출발을 알리는 것'이며 '유럽과 중국경제 우려에도 미 경제가 견조하게 성장하고 있음을 암시한다'고 밝혔다. . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-31 23:35:13",
+        "url": "https://www.news1.kr/articles/?1933246",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[인도마감] 美 qe 종료 전망·글로벌 랠리 속 5주래 '최고'",
+        "subtitle": "",
+        "content": "= . 인도증시는 29일(현지시간) 상승으로 마감했다.미연방준비제도이사회(연준)의 3차 양적완화 완전 종료 예상과 글로벌 증시 랠리 속에서 투자심리가 부양된 데 힘입어 인도증시는 이틀 연속 상승을 이어가며 5주래 최고치로 마감했다.뭄바이증시 선섹스지수는 전장대비 217.35(0.81%) 상승한 2만7098.17에 마감했다. 니프티지수도 62.85(0.78%) 오른 8090.45에 장을 마쳤다.연준은 이날 이틀간의 공개시장위원회(fomc) 정책회의를 마치고 남은 150억달러의 자산매입 프로그램을 완전히 거둬들이며 그동안 시장에 유동성을 풀어온 양적완화(qe) 프로그램을 완전 종료시킬 것으로 보인다.이는 미국 경제가 충분하게 개선됐다는 연준의 판단을 나타내는 것으로 해석되며 시장에서 호재로 작용해 이날 주요국 증시는 상승세로 장을 마감했다.이날 상승주들 가운데선 알루미늄 제조기업인 힌달코 인더스트리스가 전장대비 5.95% 올라 가장 상승폭이 컸다. 이어서 제철회사인 타타 스틸이 4.60% 오르며 그 뒤를 이었다.하락주들 중에선 제약사인 닥터 레디가 전장대비 1.11% 빠졌다. 또한 같은 제약사인 썬 파머슈티칼스가 1.11% 하락했다. 국영전력회사인 ntpc는 0.85% 밀렸다. 부문별로는 부동산주가 전장대비 2.97% 올라 가장 선전했다. 반면에 헬스케어주는 0.29% 하락하며 가장 부진한 모습을 나타냈다.올 들어 선섹스지수는 약 27.7% 상승했다. 외국인 기관투자자들은 인도증시에서 133억달러(13조9344억원)어치를 사들였다.. . . . . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-29 20:22:19",
+        "url": "https://www.news1.kr/articles/?1929155",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕개장전]반발매수 유입으로 소폭 상승",
+        "subtitle": "",
+        "content": "= 뉴욕증시 지수선물이 13일(현지시간) 소폭 상승하고 있다. 뉴욕 현지시간으로 오전 8시22분 현재 다우존스산업평균 지수선물은 전장대비 30포인트 상승한 1만 6467.00을 나타내고 있다. 스탠다드앤푸어스(s&p) 500지수선물은 5.30 오른 1899.60을, 나스닥종합지수선물은 1.25 오른 3854.25를 나타내고 있다.전장에서 유럽과 글로벌경제 둔화에 대한 우려 등으로 s&p가 1.15% 떨어지고 나스닥지수는 기술주 부진까지 겹치면서 2.33% 급락한 데 따른 반발매수가 유입되고 있는 것으로 풀이된다.이날은 미국의 공휴일인 ‘콜럼버스 데이’를 맞아 채권시장이 휴장하고 주요 경제지표 발표도 없어 시장을 움직일 수 있는 소재가 별로 없다.스탠리 피셔 미 연방준비제도이사회(연준) 부의장은 11일 연준의 기준금리 인상이 궁극적으론 글로벌 경제에 악영향을 미치지 않을 것이라고 말했다. 같은 날 찰스 에반스 시카고 연은 총재는 강달러의 역풍을 경고하고 나섰다.이날은 찰스 에반스 시카고 연방준비은행(연은) 총재의 연설이 예정돼 있다.이번 주에는 7개의 다우존스 지수 편입 기업이 실적을 발표하며 같은 기간 s&p500 지수 편입 기업의 10%가 성적표를 내놓는다. 대형 금융사들 중에서는 jp모간체이스와 웰스파고, 씨티그룹이 오는 14일, boa와 아메리칸익스프레스, 블랙록이 15일 실적을 발표한다. 골드만삭스와 모간스탠리는 각각 16일과 17일 성적표를 내놓는다.기술주 중에서는 인텔이 14일, 이베이와 구글은 각각 15일과 16일 실적을 공개한다.. 에볼라 바이러스 치료 실험약 제조사인 테크미라는 개장전 거래에서 5% 가까이 상승중이다. 지난주에 에볼라 바이러스 공포가 극에 달하면서 126%급등했던 방호복 제조사인 레이크랜드 인더스트리스는 16%상승중이다. . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-13 22:08:28",
+        "url": "https://www.news1.kr/articles/?1901798",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "中 내일 3q gdp 발표…월가 5년래 최저수준 7.2% 성장 예상",
+        "subtitle": "",
+        "content": "= . . 글로벌 성장 둔화 우려로 지난주 세계 주요 증시가 높은 변동성을 보여 투자자들은 이번 한주는 조용히 지나가길 바라고 있다. 하지만 투자자들의 바람은 뜻대로 되지 않을 가능성이 높다.중국은 21일 3분기 국내총생산(gdp) 증가율을 발표한다. 월가는 중국 gdp가 전년동기 대비 7.2% 성장을 전망하고 있다고 로이터와 afp는 전했다. 이는 2009년 1분기(6.6%) 이후 가장 낮은 수치로 2분기 때의 7.5%보다 0.3% 포인트(p) 낮다.20명을 대상으로 한 로이터 조사에서 7% 밑으로 전망한 이는 한명도 없었고 4명은 7.1%, 한명은 7%를 제시했다.무디스 애널래틱스는 최근 투자자 리포트에서 '경기가 둔화하고 있는 주택시장이 경제 전체에 영향을 미쳤고 이것이 투자와 상품 생산도 짓누르고 있다. 수출 증가세는 낙관적인 부분이지만 경제가 잠재 성장률 아래로 떨어지지 않도록 하기에는 충분하지 않다'고 진단했다.3분기 성장률이 시장 전망치대로 나온다면 중국 정부의 연간 목표치 달성도 쉽지 않을 전망이다. 이로 인해 중국 정부는 부양책을 내놓을 것으로 전문가들은 보고 있다.스탠다드차타트은행의 이코노미스트 센 란은 '큰폭의 성장세 둔화를 감안할 때 중국 정부는 연간 목표를 달성하기 위해 보다 공격적인 정책을 펼 것이다'고 말했다.그럼에도 중국 정부는 목표를 달성하지 못할 것으로 전문가들은 보고 있다. afp통신의 연간 시장 전망치는 7.3%이다. 지난해에 중국의 성장률은 7.7%였다.중국의 성장률은 다른 대다수 국가보다 여전히 높지만, 일부 정부 관리들은 중국이 일자리를 지속적으로 창출하기 위해서는 최소 연간 7% 성장이 필요하다고 보고 있다.최근의 중국 지표는 혼조세를 보였다. 수출과 수입은 다소간의 위안을 줬지만 인플레이션은 거의 5년래 최저치를 기록해 성장세가 둔화되고 있음을 보여줬다.지난 9월 수출은 전년동기 대비 15.3% 늘었다. 이는 전월의 9.4%와 월가의 전망치 12.5%를 웃도는 수준이다. 수입은 8월에는 2.4% 감소했지만 9월에는 7% 증가했다. 8월 498억달러에서, 9월에는 310억달러로 줄었다. 시장에서는 420억달러를 예상했다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-20 14:11:17",
+        "url": "https://www.news1.kr/articles/?1912183",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[중국마감] 지표 호조에 상하이 15개월 來 최고",
+        "subtitle": "",
+        "content": "= 중국 증시는 3일 상승 마감했다.증시는 이날 발표된 지표가 호조를 보인 가운데 경기 회복에 대한 기대감이 형성되며 상하이가 15개월 만에 최고치를 기록했다.상하이종합지수는 전거래일 대비 1.00% 상승한 2288.63으로 지난해 6월 5일 이후 최고치를 기록했으며 상하이선전 csi300 지수 역시 0.94% 상승한 2408.84에 장을 마쳐 지난해 12월 12일 이후 최고치를 기록했다.두 지수 모두 4거래일 연속 상승을 이어갔다.hsbc와 마킷이 이날 발표한 8월 중국 서비스업 구매관리자지수(pmi)는 54.1을 기록해 전월의 50.0보다 4.1포인트 상승했다. 중국 국가통계국이 발표한 8월 비제조업 pmi도 전월에 비해 0.2포인트 상승한 54.4를 기록했다.이 지수는 기준선인 50을 넘으면 경기가 확장세에 있음을, 그 미만이면 위축세에 있음을 의미한다.지표 호조에 투자심리가 개선돼 우량주를 비롯해 최근 부진을 보였던 석탄·부동산주에서도 활발한 거래가 나타나 상하이 거래량이 7월 28일 이후 최고치를 기록했다.종목별로는 현지 언론을 통해 금융 회사의 종업원지주제도 계획이 알려지며 소형 은행들이 시장 실적을 상회해 북경은행이 3.1% 급등했고 중국초상은행은 0.8% 상승했다.해운주도 정부의 해운 산업 개발 계획이 알려지며 호조를 나타내 중국해운이 5% 상승했다.기술기업들로 구성된 중국판 나스닥 차이넥스트종합지수는 전거래일대비 0.91% 상승한 1567.47을 기록했다.홍콩증시에서 항셍지수는 전거래일보다 2.30% 오른 2만5317.95에 장을 마쳤으며 항셍차이나기업지수는 3.16% 상승한 1만1312.54에 거래됐다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-03 18:16:37",
+        "url": "https://www.news1.kr/articles/?1844645",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美상원, 시리아 반군 지원 등 담긴 (이름)산안 통과",
+        "subtitle": "",
+        "content": "= 미 상원이 18일(현지시간) 12월 11일까지 시리아 반군을 지원하고 연방정부의 폐쇄(셧다운)를 막을 수 있는 (이름)산안을 통과시켰다. 이 (이름)산안은 전날 하원에서 통과됐고 현재 버락 오바마 대통령의 서명을 앞두고 있다. 이 예산안에 의해 미 연방정부는 9월 30일 회계년도가 끝나도 폐쇄되지 않게 됐다. 이에는 또한 오바마 대통령이 요청한 대로 이슬람 수니파 무장세력인 '이슬람국가'(is)에 대항해 싸울 수 있도록 시리아내 온건파 반군에 대한 훈련과 지원에 필요한 예산을 승인하는 내용도 포함돼 있다. 상원은 이 법안을 78대 22로 통과시켰다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-19 08:35:55",
+        "url": "https://www.news1.kr/articles/?1864353",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美 연준 9월 fomc 성명서 전문",
+        "subtitle": "",
+        "content": "= . 미연방준비제도이사회(연준)가 지난달 16~17일 열린 양적완화 규모를 자산매입 규모를 100억달러 감축한 150억달러로 규모로 줄였다. 이는 지난해 12월 5년만에 양적완화를 축소한 이후 일곱번째 테이퍼링(양적완화 축소)에 나선 것이다.연준은 또 사실상 제로금리(0~0.25%)인 초저금리 기조를 상당기간 유지키로 결정했다. 연준은 이날 이틀간의 연방공개시장위원회(fomc) 회의를 마친 후 발표한 성명서를 통해 이같이 밝혔다.다음은 fomc 성명서 전문이다.a meeting of the federal open market committee was held in the offices of the board of governors of the federal reserve system in washington, d.c., on tuesday, september 16, 2014, at 11:00 a.m. and continued on wednesday, september 17, 2014, at 9:00 a.m.. . present:. . janet l. yellen, chair william c. dudley, vice chairman lael brainard stanley fischer richard w. fisher narayana kocherlakota loretta j. mester charles i. plosser jerome h. powell daniel k. tarullo. . christine cumming, charles l. evans, jeffrey m. lacker, dennis p. lockhart, and john c. williams, alternate members of the federal open market committee. . james bullard, esther l. george, and eric rosengren, presidents of the federal reserve banks of st. louis, kansas city, and boston, respectively. . william b. english, secretary and economist matthew m. luecke, deputy secretary michelle a. smith, assistant secretary scott g. alvarez, general counsel steven b. kamin, economist david w. wilcox, economist. . james a. clouse, evan f. koenig, thomas laubach, michael p. leahy, mark e. schweitzer, and william wascher, associate economists. . simon potter, manager, system open market account. . lorie k. logan, deputy manager, system open market account. . robert dev. frierson,1 secretary of the board, office of the secretary, board of governors. . michael s. gibson,2 director, division of banking supervision and regulation, board of governors. . matthew j. eichner,1 deputy director, division of research and statistics, board of governors; stephen a. meyer and william r. nelson, deputy directors, division of monetary affairs, board of governors; mark e. van der weide,3 deputy director, division of banking supervision and regulation, board of governors. . andreas lehnert, deputy director, office of financial stability policy and research, board of governors. . andrew figura, david reifschneider, and stacey tevlin, special advisers to the board, office of board members, board of governors. . trevor a. reeve, special adviser to the chair, office of board members, board of governors. . linda robertson, assistant to the board, office of board members, board of governors. . christopher j. erceg, senior associate director, division of international finance, board of governors. . michael t. kiley4 and jeremy b. rudd4,senior advisers, division of research and statistics, board of governors; joyce k. zickler, senior adviser, division of monetary affairs, board of governors. . eric m. engen and michael g. palumbo, associate directors, division of research and statistics, board of governors; fabio m. natalucci, associate director, division of monetary affairs, board of governors. . marnie gillis deboer, deputy associate director, division of monetary affairs, board of governors; joshua gallin, deputy associate director, division of research and statistics, board of governors. . edward nelson, assistant director, division of monetary affairs, board of governors. . patrick e. mccabe,1 adviser, division of research and statistics, board of governors. . penelope a. beattie,1 assistant to the secretary, office of the secretary, board of governors. . david h. small, project manager, division of monetary affairs, board of governors. . katie ross,1 manager, office of the secretary, board of governors. . valerie hinojosa, records project manager, division of monetary affairs, board of governors. . marie gooding, first vice president, federal reserve bank of atlanta. . david altig, alberto g. musalem, and daniel g. sullivan, executive vice presidents, federal reserve banks of atlanta, new york, and chicago, respectively. . troy davig, michael dotsey, geoffrey tootell, christopher j. waller, and john a. weinberg, senior vice presidents, federal reserve banks of kansas city, philadelphia, boston, st. louis, and richmond, respectively. . sylvain leduc, jonathan p. mccarthy, and douglas tillett, vice presidents, federal reserve banks of san francisco, new york, and chicago, respectively. . kei-mu yi, special policy advisor to the president, federal reserve bank of minneapolis. . developments in financial markets and the federal reserve's balance sheet in a joint session of the federal open market committee (fomc) and the board of governors of the federal reserve system, the manager of the system open market account (soma) reported on developments in domestic and foreign financial markets and reviewed the effects of recent foreign central bank policy actions on yields on the international portion of the soma portfolio. the deputy manager reported on the system open market operations conducted during the period since the committee met on july 29-30, 2014, summarized plans for additional test operations of the term deposit facility, and described the results from the fixed-rate overnight reverse repurchase agreement (on rrp) operational exercise.. . the deputy manager also outlined a proposal for changes to the ongoing on rrp exercise to test possible design features that could allow an on rrp facility to serve as an effective supplementary tool during policy normalization while also mitigating the potential for unintended effects in financial markets. participants discussed the proposed changes in the on rrp exercise, including raising the counterparty-specific limit from $10 billion to $30 billion, limiting the overall size of each operation to $300 billion, and introducing an auction process that would be used to determine the interest rate on such operations and allocate take-up if the sum of bids exceeded the overall limit. testing these design features was generally seen as furthering the committee's understanding of how an on rrp facility might be structured to best balance its objectives of supporting monetary control and of limiting the federal reserve's role in financial intermediation as well as reducing potential financial stability risks the facility might pose during periods of stress. participants also discussed other tests that could be incorporated in the exercise at a later date, including a daily time-varying cap along with the overall limit on the size of on rrp operations, small variations in the offered rate on on rrp operations, and moderate increases and decreases in the overall size limit. a number of participants expressed concern that these tests could be misunderstood as providing a signal of the committee's intentions regarding the parameters of the on rrp program that will be implemented when normalization begins; they wanted to emphasize that the tests are intended to provide additional information to guide the committee's decisions. participants agreed to consider potential additional revisions to the on rrp exercise at future fomc meetings. following the discussion, the committee unanimously approved the following resolution:. 'the federal open market committee (fomc) authorizes the federal reserve bank of new york to conduct a series of overnight reverse repurchase operations involving u.s. government securities for the purpose of further assessing the appropriate structure of such operations in supporting the implementation of monetary policy during normalization. the reverse repurchase operations authorized by this resolution shall be (i) conducted at an offering rate that may vary from zero to five basis points, (ii) for an overnight term, or such longer term as is warranted to accommodate weekend, holiday, and similar trading conventions, (iii) subject to a per-counterparty limit of up to $30 billion per day, (iv) subject to an overall size limit of up to $300 billion per day, (v) awarded to all submitters (a) at the specified offering rate if the sum of the bids received is less than or equal to the overall size limit, or (b) at the stopout rate, determined by evaluating bids in ascending order by submitted rate up to the point at which the total quantity of bids equals the overall size limit, with all bids below this rate awarded in full at the stopout rate and all bids at the stopout rate awarded on a pro rata basis, if the sum of the counterparty offers received is greater than the overall size limit, and (vi) offered beginning with the operation conducted on september 22, 2014, with the resolution adopted at the january 28-29, 2014, fomc meeting remaining in place until the conclusion of the operation conducted on september 19, 2014. the chair must approve any change in the offering rate within the range specified in (i) and any changes to the per-counterparty and overall size limits subject to the limits specified in (iii) and (iv). the system open market account manager will notify the fomc in advance about any changes to the offering rate, per-counterparty limit, or overall size limit applied to operations. these operations shall be authorized through january 30, 2015.'. by unanimous vote, the committee ratified the open market desk's domestic transactions over the intermeeting period. there were no intervention operations in foreign currencies for the system's account over the intermeeting period.. . monetary policy normalization meeting participants considered publication of a summary statement of their monetary policy normalization principles and plans based on the discussions at recent committee meetings. participants agreed that it was appropriate at this time to provide additional information regarding their approach to normalization. the proposed statement was seen as a concise summary of participants' views that would help the public understand the steps that the committee plans to take when the time comes to begin the normalization process and that would convey the committee's confidence in its plans. however, it was emphasized that the committee would need to be flexible and pragmatic during normalization, adjusting the details of its approach, if necessary, in light of changing conditions. regarding the specific points in the proposed statement, a couple of participants expressed their preference that the principles make greater allowance for sales of agency mortgage-backed securities (mbs) over the next few years in order to normalize the size and composition of the federal reserve's balance sheet more quickly and to limit distortions in the allocation of credit that they believed were associated with the federal reserve's holdings of agency mbs. in addition, a few participants noted that they would have preferred that the principles point to an earlier end to the reinvestment of repayments of principal on securities held in the soma portfolio. at the end of the discussion, all but one participant could support the publication of the following statement after the meeting:. policy normalization principles and plansduring its recent meetings, the federal open market committee (fomc) discussed ways to normalize the stance of monetary policy and the federal reserve's securities holdings. the discussions were part of prudent planning and do not imply that normalization will necessarily begin soon. the committee continues to judge that many of the normalization principles that it adopted in june 2011 remain applicable. however, in light of the changes in the system open market account (soma) portfolio since 2011 and enhancements in the tools the committee will have available to implement policy during normalization, the committee has concluded that some aspects of the eventual normalization process will likely differ from those specified earlier. the committee also has agreed that it is appropriate at this time to provide additional information regarding its normalization plans. all fomc participants but one agreed on the following key elements of the approach they intend to implement when it becomes appropriate to begin normalizing the stance of monetary policy:the committee will determine the timing and pace of policy normalization--meaning steps to raise the federal funds rate and other short-term interest rates to more normal levels and to reduce the federal reserve's securities holdings--so as to promote its statutory mandate of maximum employment and price stability.when economic conditions and the economic outlook warrant a less accommodative monetary policy, the committee will raise its target range for the federal funds rate.during normalization, the federal reserve intends to move the federal funds rate into the target range set by the fomc primarily by adjusting the interest rate it pays on excess reserve balances.during normalization, the federal reserve intends to use an overnight reverse repurchase agreement facility and other supplementary tools as needed to help control the federal funds rate. the committee will use an overnight reverse repurchase agreement facility only to the extent necessary and will phase it out when it is no longer needed to help control the federal funds rate.the committee intends to reduce the federal reserve's securities holdings in a gradual and predictable manner primarily by ceasing to reinvest repayments of principal on securities held in the soma.the committee expects to cease or commence phasing out reinvestments after it begins increasing the target range for the federal funds rate; the timing will depend on how economic and financial conditions and the economic outlook evolve.the committee currently does not anticipate selling agency mortgage-backed securities as part of the normalization process, although limited sales might be warranted in the longer run to reduce or eliminate residual holdings. the timing and pace of any sales would be communicated to the public in advance.the committee intends that the federal reserve will, in the longer run, hold no more securities than necessary to implement monetary policy efficiently and effectively, and that it will hold primarily treasury securities, thereby minimizing the effect of federal reserve holdings on the allocation of credit across sectors of the economy.the committee is prepared to adjust the details of its approach to policy normalization in light of economic and financial developments.. the board meeting concluded at the end of the discussion of policy normalization principles and plans.. . staff review of the economic situation the information reviewed for the september 16-17 meeting suggested that economic activity was expanding at a moderate pace in the third quarter. labor market conditions improved a little further, although the unemployment rate was essentially unchanged over the intermeeting period. consumer price inflation was running below the fomc's longer-run objective of 2 percent, but measures of longer-run inflation expectations remained stable.. . total nonfarm payroll employment increased in july and august but at a slower pace than in the first half of the year. the unemployment rate was 6.1 percent in august, the same as in june, and the labor force participation rate and the employment-to-population ratio also were unchanged since that time. both the share of workers employed part time for economic reasons and the rate of long-duration unemployment declined a little over the past two months. other recent indicators generally pointed to ongoing improvement in labor market conditions: although some measures of household expectations of the labor market situation deteriorated somewhat, the rates of job openings and of gross private-sector hiring moved up, initial claims for unemployment insurance were essentially flat at a relatively low level, and some readings on firms' hiring plans improved.. . on balance, industrial production edged up over july and august, and the rate of manufacturing capacity utilization was unchanged. automakers' schedules indicated that the pace of motor vehicle assemblies would decline slightly in the fourth quarter, but broader indicators of manufacturing production, such as the readings on new orders from the national and regional manufacturing surveys, were consistent with moderate increases in factory output in the near term.. . real personal consumption expenditures (pce) appeared to be rising at a moderate pace in the third quarter.5 the components of nominal retail sales data used by the bureau of economic analysis (bea) to construct its estimates of pce increased at a solid rate in july and august, and sales of light motor vehicles surged in august after edging down in july. recent information pertaining to key factors that influence consumer spending were positive: real disposable incomes continued to increase in july, households' net worth likely edged up as equity prices and home values rose somewhat further, and consumer sentiment as measured by the thomson reuters/university of michigan surveys of consumers improved in august and early september.. . the pace of activity in the housing sector seemed to be picking up. starts and permits of both new single-family homes and multifamily units were higher in july than their average levels in the second quarter. sales of existing homes increased further in july, although new home sales declined.. . real private expenditures for business equipment and intellectual property products appeared to rise further going into the third quarter. nominal shipments of nondefense capital goods excluding aircraft moved up in july. moreover, new orders for these capital goods continued to be above the level of shipments, pointing to increases in shipments in subsequent months. in addition, other forward-looking indicators, such as surveys of business conditions, were consistent with moderate gains in business equipment spending in the near term. nominal business expenditures for nonresidential construction also increased in july. recent book-value data for inventories, along with readings on inventories from national and regional manufacturing surveys, did not point to significant inventory imbalances in most industries; in the energy sector, inventories were drawn down significantly early in the year and, despite substantial stockbuilding since then, remained low.. . total real government purchases seemed to be roughly flat in the third quarter. federal government purchases probably declined a little, as defense spending was lower in july and august than in the second quarter. state and local government purchases appeared to be rising slowly as the payrolls of these governments expanded a bit further in july and august and their nominal construction expenditures increased in july.. . the u.s. international trade deficit narrowed in both june and july. exports were little changed in june, but they expanded robustly in july, with particular strength in industrial supplies and automotive products. imports fell in june but then partly recovered in july, driven by swings in imports of oil and automotive products.. . total u.s. consumer price inflation, as measured by the pce price index, was about 1-1/2 percent over the 12 months ending in july. over the 12 months ending in august, the consumer price index (cpi) rose about 1-3/4 percent. consumer energy prices declined in both july and august, while consumer food prices rose. core price inflation (which excludes food and energy prices) was essentially the same as total inflation for the pce price measure and for the cpi over their most recent 12-month periods. near-term inflation expectations from the michigan survey moved down a bit in august and early september, while longer-term inflation expectations in the survey were little changed.. . measures of labor compensation increased a little faster than consumer prices. compensation per hour in the business sector rose 2-3/4 percent over the year ending in the second quarter; with modest gains in labor productivity, unit labor costs advanced more slowly than compensation per hour. over the same year-long period, the employment cost index rose only about 2 percent, and average hourly earnings increased at a similar rate over the 12 months ending in august.. . foreign economies continued to expand in the second quarter, but with significant differences across countries. economic growth rebounded strongly from a weak first-quarter pace in canada, china, and mexico, supported by improvement in exports. in contrast, the japanese economy contracted sharply following the consumption tax increase in april, economic activity stagnated in the euro area, and the brazilian economy fell into recession. in the third quarter, household spending appeared to be normalizing in japan, and production continued to rise in mexico. however, indicators of economic activity in the euro area remained weak, and chinese economic data for july and august suggested some slowing in the third quarter. with inflation very low in the euro area, the european central bank reduced its policy interest rates at its september 4 meeting and announced plans to purchase private assets.. . staff review of the financial situation data releases on domestic economic activity were reportedly interpreted by financial market participants as somewhat better than expected, on balance, notwithstanding the disappointing employment report for august. federal reserve communications, particularly the july fomc minutes and the chair's speech at the jackson hole economic policy symposium, were viewed as signaling slightly less policy accommodation than anticipated. reflecting these and other developments, yields on nominal treasury securities rose somewhat and equity prices edged up over the intermeeting period. on net, the conflicts in the middle east and ukraine and other geopolitical tensions had limited effects on domestic financial markets.. . the federal funds rate path implied by financial market quotes was essentially unchanged over the intermeeting period. but the results from the desk's september survey of primary dealers indicated that the distribution of the likely date of liftoff across dealers shifted to somewhat earlier dates, and showed the second quarter of 2015 as the most likely date for liftoff. however, the dealers' expected levels of various employment and inflation indicators at the time of liftoff did not change materially from the previous survey.. . the yield on 10-year nominal treasury securities moved up about 15 basis points, on net, since the fomc met in july, likely boosted in part by federal reserve communications. measures of inflation compensation based on treasury inflation-protected securities edged down, reportedly reflecting the lower-than-expected cpi data in july and recent declines in oil prices.. . broad measures of domestic equity prices were up modestly over the intermeeting period, with some reports suggesting that investors were interpreting incoming economic data as implying that the economic recovery was strengthening.. . yields on corporate bonds and agency mbs rose about in line with those on comparable-maturity treasury securities. high-yield bond mutual funds experienced sharp outflows early in the intermeeting period, and spreads on such bonds widened noticeably; however, these spreads returned to their initial levels over subsequent weeks, and high-yield bond funds attracted modest inflows. measures of liquidity in the corporate bond market remained stable in the face of these substantial flows.. . conditions in short-term dollar funding markets were little changed. the federal reserve continued its testing of on rrp operations over the intermeeting period. take-up in on rrp operations increased a little, on average, over the period relative to the previous intermeeting period.. . credit conditions for domestic businesses remained favorable. corporate bond issuance slowed in july and august, reflecting a fairly typical summer lull as well as the elevated volatility in the high-yield bond market early in the intermeeting period, but issuance rebounded strongly in the first week of september. commercial paper outstanding and commercial and industrial loans at banks expanded briskly. credit conditions in the commercial real estate (cre) sector continued to ease, and growth in cre loans at banks stayed solid. the issuance of commercial mortgage-backed securities remained robust in july and august.. . issuance of institutional leveraged loans continued apace in july and august, traditionally a slow period in this market. the issuance of 'new money' loans, which are typically earmarked for corporate leveraged-buyouts and mergers and acquisitions, was strong, and the pipeline of such loans was reported to be quite large heading into the fall. the issuance of collateralized loan obligations was still a major source of demand for leveraged loans.. . financing conditions for households remained mixed. auto loans were widely available; standards and terms for credit card loans eased somewhat, though they were still tight; and access to residential mortgages continued to be limited for all but those with excellent credit histories.. . responding in part to disappointing economic data abroad, the u.s. dollar appreciated against most currencies over the intermeeting period, including large appreciations against the euro, the yen, and the pound sterling. greater monetary accommodation in the euro area and expectations of a lower policy rate in the near term added to the downward pressure on the euro while uncertainty about the outcome of the forthcoming referendum on scottish independence weighed on the value of the pound. in addition, near-term policy rate expectations moved down in the united kingdom, reacting to both the release of the august inflation report and uncertainty induced by the referendum. sovereign yields in the european economies generally declined, and yield spreads of sovereign bonds from the euro-area periphery over german bunds narrowed considerably. most foreign equity indexes ended the period modestly higher.. . staff economic outlook in the economic forecast prepared by the staff for the september fomc meeting, the projection for growth in real gross domestic product (gdp) in the second half of this year was revised down slightly from the one prepared for the previous meeting, primarily because of a somewhat weaker near-term outlook for consumer spending. the staff's medium-term forecast for real gdp was also revised down a little, reflecting a higher projected path for the foreign exchange value of the dollar along with slightly smaller projected gains for home prices. the staff still anticipated that the pace of real gdp growth in 2015 and 2016 would exceed the growth rate of potential output, supported by continued increases in consumer and business confidence, the further easing of the restraint on spending from changes in fiscal policy, additional improvements in credit availability, and a pickup in foreign economic growth. in 2017, real gdp growth was projected to begin slowing toward, but to remain above, the rate of potential output growth. the expansion in economic activity over the projection period was anticipated to steadily reduce resource slack, and the unemployment rate was expected to decline gradually and temporarily move slightly below the staff's estimate of its longer-run natural rate toward the end of the period.. . the staff's near-term forecast for inflation was a little lower than the projection prepared for the previous fomc meeting, reflecting recent readings on core consumer price inflation that were lower than anticipated and declines in oil prices that were faster than expected, but the forecast for inflation over the medium term was little changed. the staff continued to project inflation to be lower in the second half of this year than in the first half and to remain below the committee's longer-run objective of 2 percent over the next few years. with longer-term inflation expectations assumed to remain stable, resource slack projected to diminish slowly, and changes in commodity and import prices expected to be subdued, inflation was projected to rise gradually and to reach the committee's objective in the longer run.. . overall, the staff's economic projection for the september meeting was quite similar to the forecast presented at the june meeting, when the fomc last prepared a summary of economic projections (sep). the staff's september projection showed a slightly higher path for the unemployment rate, a bit lower real gdp growth, and essentially no change to inflation compared with its june forecast.. . the staff continued to view the uncertainty around its projections for real gdp growth, the unemployment rate, and inflation as similar to the average over the past 20 years. the risks to the forecast for real gdp growth were still seen as tilted a little to the downside, as neither monetary policy nor fiscal policy was viewed as well positioned to help the economy withstand adverse shocks. at the same time, the staff viewed the risks around its outlook for the unemployment rate and for inflation as roughly balanced.. . participants' views on current conditions and the economic outlook in conjunction with this fomc meeting, members of the board of governors and the federal reserve bank presidents submitted their projections of real output growth, the unemployment rate, inflation, and the federal funds rate for each year from 2014 through 2017 and over the longer run, conditional on each participant's assessment of appropriate monetary policy. the longer-run projections represent each participant's assessment of the value to which each variable would be expected to converge, over time, under appropriate monetary policy and in the absence of further shocks to the economy. these economic projections and policy assessments are described in the sep, which is attached as an addendum to these minutes.. . in their discussion of the economic situation and the outlook, meeting participants viewed the information received over the intermeeting period as suggesting that economic activity was expanding at a moderate rate. on balance, labor market conditions improved somewhat further; however, the unemployment rate was little changed, and most participants judged that there remained significant underutilization of labor resources. participants generally expected that, over the medium term, real economic activity would increase at a pace sufficient to lead to a further gradual decline in the unemployment rate toward levels consistent with the committee's objective of maximum employment. inflation was running below the committee's longer-run objective, but longer-term inflation expectations were stable. participants anticipated that inflation would move toward the committee's 2 percent goal in coming years, with several expressing concern that inflation might persist below the committee's objective for quite some time. most viewed the risks to the outlook for economic activity and the labor market as broadly balanced. however, a number of participants noted that economic growth over the medium term might be slower than they expected if foreign economic growth came in weaker than anticipated, structural productivity continued to increase only slowly, or the recovery in residential construction continued to lag.. . household spending appeared to be rising moderately, with several participants noting that the recent positive reports on retail sales, motor vehicle purchases, and health-care spending had reduced their concern about weakness in the underlying pace of household spending. among the favorable factors attending the outlook for consumer spending, participants cited continued gains in household wealth, improved household balance sheets, low delinquency rates, a high saving rate, or rising confidence in employment and income prospects. however, other participants said they heard mixed reports from business contacts regarding consumer spending or were uncertain about the prospects for stronger gains in real income necessary to sustain moderate growth in household spending.. . the recovery in housing activity remained slow in all but a few areas of the country despite relatively low mortgage rates, rising house prices, and improvements in household wealth. contacts in a couple of districts reported that new construction was being held back by shortages of materials, of lots available for development, and of skilled workers or by the overhang of vacant homes not on the market. households with relatively low credit scores continued to have difficulty obtaining mortgage loans. it was noted that this difficulty could be a factor restraining the demand for housing, particularly among younger households who have high levels of student loan debt or weak job prospects. a few participants pointed out the relative strength in construction of and demand for multifamily units, which possibly was due to a shift in demand among younger homebuyers away from single-family homes.. . information from business contacts in most parts of the country indicated improvements in business conditions, rising confidence about the economic outlook, and increasing willingness to undertake new investment projects. according to national and regional surveys, manufacturing activity was strong, and several participants had received reports of hiring and increased capital spending in that sector. among the other industries cited as relatively strong in recent months were transportation, energy, and services. several participants noted positive signs of further increases in investment spending going forward, including elevated levels of new orders and shipments of capital goods, strong interest in the technology sector, and the need to replace aging capital. a couple of participants added that nonresidential construction activity was rising in their districts.. . the improvement in business conditions was reflected in reports of increased demand for loans at banks in several districts. demand rose for loans to both households and businesses, and a couple of participants indicated that borrowers were expanding their use of existing credit lines as well as obtaining new commitments. bankers in one district stated that, while they had eased the terms and conditions on loans in response to competition from other lenders, they had not taken on riskier loans. some financial developments that could undermine financial stability over time were noted, including a deterioration in leveraged lending standards, stretched stock market valuations, and compressed risk spreads. however, one participant suggested that the leveraged loan market seemed to be moving into better balance, and that market participants appeared to be taking appropriate account of the changes in interest rates that might be associated with the eventual normalization of the stance of monetary policy. moreover, a couple of participants, while stressing the importance of remaining vigilant about potential risks to financial stability, observed that conditions in financial markets at present did not suggest the types of financial stability considerations that would impede the achievement of the committee's macroeconomic objectives.. . some participants noted that expectations for the path of the federal funds rate implied by market quotes appeared to remain below most of the projections of the federal funds rate provided by committee participants in the sep, which represent each inpidual participant's assessment of the appropriate path for the federal funds rate consistent with his or her economic outlook. however, it was pointed out that measures of financial market participants' expectations incorporate their judgments regarding not only the most likely outcomes, but also the possible downside tail risks that might be associated with especially low paths for the federal funds rate. for example, respondents to the recent survey of primary dealers placed considerable odds on the federal funds rate returning to the zero lower bound during the two years following the initial increase in that rate. the probability that investors attach to such low interest rate scenarios could pull the expected path of the federal funds rate computed from market quotes below most committee participants' assessments of appropriate policy as reported in the sep.. . the restraint on economic activity from fiscal policy was seen as diminishing, and a couple of participants pointed out that, over the second half of the year, the remaining drag was likely to be small. nonetheless, the cutbacks in both defense and nondefense federal outlays, as well as state governments' budget restraint, continued to weigh on jobs and income in some parts of the country. fiscal policy overall was anticipated to be a neutral factor for economic growth over the next several years.. . during participants' discussion of prospects for economic activity abroad, they commented on a number of uncertainties and risks attending the outlook. over the intermeeting period, the foreign exchange value of the dollar had appreciated, particularly against the euro, the yen, and the pound sterling. some participants expressed concern that the persistent shortfall of economic growth and inflation in the euro area could lead to a further appreciation of the dollar and have adverse effects on the u.s. external sector. several participants added that slower economic growth in china or japan or unanticipated events in the middle east or ukraine might pose a similar risk. at the same time, a couple of participants pointed out that the appreciation of the dollar might also tend to slow the gradual increase in inflation toward the fomc's 2 percent goal.. . labor market conditions continued to improve over the intermeeting period. although the unemployment rate was little changed, participants variously cited positive readings from other indicators, including a decline in longer-term unemployment, the low level of new claims for unemployment insurance, the rise in job openings, and survey reports of increased hiring plans and job availability. while the most recent estimate of nonfarm payroll employment showed a smaller monthly gain than earlier in the year, it followed six months in which increases had averaged more than 200,000. some participants were reluctant to place much weight on one monthly report or noted that the first estimate for august has frequently been revised up in recent years. participants generally agreed that the accumulated progress in labor market conditions since the committee's current asset purchase program began in september 2012 had been substantial and expected that progress would be sustained. nonetheless, they continued to express differing views on the extent of remaining slack in labor markets. most agreed that underutilization of labor resources remained significant; these participants noted variously that the level of nonfarm payroll jobs had only recently returned to its pre-recession level, that the number of inpiduals working part time for economic reasons was still elevated relative to the level of unemployment, and that the labor force participation rate was still below assessments of its structural trend. in this regard, a couple of participants pointed out that the stability of the participation rate, on balance, over the past year suggested that some of the cyclical shortfall had diminished. most agreed that the committee's assessment of labor market slack should be grounded in its review of a range of labor market indicators, although a few saw the gap between the unemployment rate and their estimate of its longer-run normal level as a reliable indicator of slack.. . most measures of labor compensation showed no broad-based increase in wage inflation. however, businesses in several districts continued to report upward pressure on wages in specific industries and occupations associated with labor shortages or difficult-to-fill jobs, while a couple of participants noted a more general rise in current or planned wage increases in their regions. several participants commented that the relatively subdued rise in nominal labor compensation was still below longer-run trend rates of productivity growth and inflation and was a signal of slack remaining in the labor market. however, a couple of others suggested some caution in reading subdued wage inflation as an indicator of labor market underutilization. they pointed out that if nominal wages did not adjust downward when unemployment was high, pent-up wage deflation could help explain the modest increases in wages so far during the recovery, and wages could rise more rapidly going forward as the unemployment rate continues to decline.. . inflation had been running below the committee's longer-run objective, and the readings on consumer prices over the intermeeting period were somewhat softer than during the preceding four months, in part because of declining energy prices. most participants anticipated that inflation would move gradually back toward its objective over the medium term. however, participants differed somewhat in their assessments of how quickly inflation would move up. some cited the stability of longer-run inflation expectations at a level consistent with the committee's objective as an important factor in their forecasts that inflation would reach 2 percent in coming years. participants' views on the responsiveness of inflation to the level and change in resource utilization varied, with a few seeing labor markets as sufficiently tight that wages and prices would soon begin to move up noticeably but with some others indicating that inflation was unlikely to approach 2 percent until the unemployment rate falls below its longer-run normal level. while most viewed the risk that inflation would run persistently below 2 percent as having diminished somewhat since earlier in the year, a couple noted the possibility that longer-term inflation expectations might be slightly lower than the committee's 2 percent objective or that domestic inflation might be held down by persistent disinflation among u.s. trading partners and further appreciation of the dollar.. . in their discussion of the appropriate path for monetary policy over the medium term, meeting participants agreed that the timing of the first increase in the federal funds rate and the appropriate path of the policy rate thereafter would depend on incoming economic data and their implications for the outlook. that said, several participants thought that the current forward guidance regarding the federal funds rate suggested a longer period before liftoff, and perhaps also a more gradual increase in the federal funds rate thereafter, than they believed was likely to be appropriate given economic and financial conditions. in addition, the concern was raised that the reference to 'considerable time' in the current forward guidance could be misunderstood as a commitment rather than as data dependent. however, it was noted that the current formulation of the committee's forward guidance clearly indicated that the committee's policy decisions were conditional on its ongoing assessment of realized and expected progress toward its objectives of maximum employment and 2 percent inflation, and that its assessment reflected its review of a broad array of economic indicators. it was emphasized that the current forward guidance for the federal funds rate was data dependent and did not indicate that the first increase in the target range for the federal funds rate would occur mechanically after some fixed calendar interval following the completion of the current asset purchase program. if employment and inflation converged more rapidly toward the committee's goals than currently expected, the date of liftoff could be earlier, and subsequent increases in the federal funds rate target more rapid, than participants currently anticipated. conversely, if employment and inflation returned toward the committee's objectives more slowly than currently anticipated, the date of liftoff for the federal funds rate could be later, and future federal funds rate target increases could be more gradual. in addition, some participants saw the current forward guidance as appropriate in light of risk-management considerations, which suggested that it would be prudent to err on the side of patience while awaiting further evidence of sustained progress toward the committee's goals. in their view, the costs of downside shocks to the economy would be larger than those of upside shocks because, in current circumstances, it would be less problematic to remove accommodation quickly, if doing so becomes necessary, than to add accommodation. a number of participants also noted that changes to the forward guidance might be misinterpreted as a signal of a fundamental shift in the stance of policy that could result in an unintended tightening of financial conditions.. . participants also discussed how the forward-guidance language might evolve once the committee decides that the current formulation no longer appropriately conveys its intentions about the future stance of policy. most participants indicated a preference for clarifying the dependence of the current forward guidance on economic data and the committee's assessment of progress toward its objectives of maximum employment and 2 percent inflation. a clarification along these lines was seen as likely to improve the public's understanding of the committee's reaction function while allowing the committee to retain flexibility to respond appropriately to changes in the economic outlook. one participant favored using a numerical threshold based on the inflation outlook as a form of forward guidance. a few participants, however, noted the difficulties associated with expressing forward guidance in terms of numerical thresholds for some set of economic variables. another participant indicated a preference for reducing reliance on explicit forward guidance in the statement and conveying instead guidance regarding the future stance of monetary policy through other mechanisms, including the sep. it was noted that providing explicit forward guidance regarding the future path of the federal funds rate might become less important once a highly accommodative stance of policy is no longer appropriate and the process of policy normalization is well under way. it was generally agreed that when changes to the forward guidance become appropriate, they will likely present communication challenges, and that caution will be needed to avoid sending unintended signals about the committee's policy outlook.. . committee policy action in their discussion of monetary policy for the period ahead, members judged that information received since the fomc met in july indicated that economic activity was expanding at a moderate pace. household spending appeared to be rising moderately, and business fixed investment was advancing, while the recovery in the housing sector remained slow. fiscal policy was restraining economic growth, although the extent of restraint was diminishing and would soon be quite small. inflation was running below the committee's longer-run objective, but longer-term inflation expectations were stable. the committee expected that, with appropriate policy accommodation, economic activity would expand at a moderate pace, with labor market indicators and inflation moving toward levels that the committee judges consistent with its dual mandate.. . with incoming information continuing to broadly support the committee's expectation of ongoing improvement in labor market conditions and inflation moving back toward the committee's 2 percent objective, members agreed that a further measured reduction in the pace of asset purchases was appropriate at this meeting. accordingly, the committee agreed that, beginning in october, it would add to its holdings of agency mbs at a pace of $5 billion per month rather than $10 billion per month, and it would add to its holdings of longer-term treasury securities at a pace of $10 billion per month rather than $15 billion per month. the committee judged that, if incoming information broadly supported its expectations that labor market indicator and inflation would continue to move toward mandate-consistent levels, it would end its current program of asset purchases at its october meeting.. . members discussed their assessments of progress toward the committee's objectives of maximum employment and 2 percent inflation and considered possible enhancements to the statement that would more clearly communicate the committee's view on such progress. regarding the labor market, many members indicated that, although labor market conditions had generally continued to improve, there was still significant slack in labor markets. a few members, however, expressed reservations about continuing to characterize the extent of underutilization of labor resources as significant. in the end, members agreed to indicate that labor market conditions had improved somewhat further, but that the unemployment rate was little changed and a range of labor market indicators continued to suggest that there remained significant underutilization of labor resources. it was noted, however, that the characterization of labor market underutilization might have to be changed if progress in the labor market continued. regarding inflation, members agreed that inflation had moved closer to the committee's 2 percent objective during the first half of the year but, more recently, had fallen back somewhat. as a consequence, they updated the language in the statement to indicate that inflation had been running below the committee's longer-run objective. however, with stable longer-term inflation expectations, the committee continued to judge that the likelihood of inflation running persistently below 2 percent had diminished somewhat since early in the year.. . after the discussion, all members but two voted to maintain the committee's target range for the federal funds rate and to reiterate its forward guidance about the federal funds rate. the guidance continued to state that the committee's decisions about how long to maintain the current target range for the federal funds rate would depend on its assessment of actual and expected progress toward its objectives of maximum employment and 2 percent inflation. the committee again anticipated that it likely would be appropriate to maintain the current target range for the federal funds rate for a considerable time after the asset purchase program ends, especially if projected inflation continued to run below the committee's 2 percent longer-run goal, and provided that longer-term inflation expectations remained well anchored. the forward guidance also reiterated the committee's expectation that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the committee views as normal in the longer run. two members, however, dissented because, in their view, the statement language did not accurately reflect the progress made to date toward the committee's goals of maximum employment and inflation of 2 percent, and they believed that ongoing progress will likely warrant an earlier increase in the federal funds rate than suggested by the forward guidance in the committee's postmeeting statement.. . at the conclusion of the discussion, the committee voted to authorize and direct the federal reserve bank of new york, until it was instructed otherwise, to execute transactions in the soma in accordance with the following domestic policy directive:. 'consistent with its statutory mandate, the federal open market committee seeks monetary and financial conditions that will foster maximum employment and price stability. in particular, the committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to 1/4 percent. the committee directs the desk to undertake open market operations as necessary to maintain such conditions. beginning in october, the desk is directed to purchase longer-term treasury securities at a pace of about $10 billion per month and to purchase agency mortgage-backed securities at a pace of about $5 billion per month. the committee also directs the desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the federal reserve's agency mortgage-backed securities transactions. the committee directs the desk to maintain its policy of rolling over maturing treasury securities into new issues and its policy of reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities. the system open market account manager and the secretary will keep the committee informed of ongoing developments regarding the system's balance sheet that could affect the attainment over time of the committee's objectives of maximum employment and price stability.'. the vote encompassed approval of the statement below to be released at 2:00 p.m.:. 'information received since the federal open market committee met in july suggests that economic activity is expanding at a moderate pace. on balance, labor market conditions improved somewhat further; however, the unemployment rate is little changed and a range of labor market indicators suggests that there remains significant underutilization of labor resources. household spending appears to be rising moderately and business fixed investment is advancing, while the recovery in the housing sector remains slow. fiscal policy is restraining economic growth, although the extent of restraint is diminishing. inflation has been running below the committee's longer-run objective. longer-term inflation expectations have remained stable.consistent with its statutory mandate, the committee seeks to foster maximum employment and price stability. the committee expects that, with appropriate policy accommodation, economic activity will expand at a moderate pace, with labor market indicators and inflation moving toward levels the committee judges consistent with its dual mandate. the committee sees the risks to the outlook for economic activity and the labor market as nearly balanced and judges that the likelihood of inflation running persistently below 2 percent has diminished somewhat since early this year.the committee currently judges that there is sufficient underlying strength in the broader economy to support ongoing improvement in labor market conditions. in light of the cumulative progress toward maximum employment and the improvement in the outlook for labor market conditions since the inception of the current asset purchase program, the committee decided to make a further measured reduction in the pace of its asset purchases. beginning in october, the committee will add to its holdings of agency mortgage-backed securities at a pace of $5 billion per month rather than $10 billion per month, and will add to its holdings of longer-term treasury securities at a pace of $10 billion per month rather than $15 billion per month. the committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing treasury securities at auction. the committee's sizable and still-increasing holdings of longer-term securities should maintain downward pressure on longer-term interest rates, support mortgage markets, and help to make broader financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the committee's dual mandate.the committee will closely monitor incoming information on economic and financial developments in coming months and will continue its purchases of treasury and agency mortgage-backed securities, and employ its other policy tools as appropriate, until the outlook for the labor market has improved substantially in a context of price stability. if incoming information broadly supports the committee's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the committee will end its current program of asset purchases at its next meeting. however, asset purchases are not on a preset course, and the committee's decisions about their pace will remain contingent on the committee's outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.to support continued progress toward maximum employment and price stability, the committee today reaffirmed its view that a highly accommodative stance of monetary policy remains appropriate. in determining how long to maintain the current 0 to 1/4 percent target range for the federal funds rate, the committee will assess progress--both realized and expected--toward its objectives of maximum employment and 2 percent inflation. this assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments. the committee continues to anticipate, based on its assessment of these factors, that it likely will be appropriate to maintain the current target range for the federal funds rate for a considerable time after the asset purchase program ends, especially if projected inflation continues to run below the committee's 2 percent longer-run goal, and provided that longer-term inflation expectations remain well anchored.when the committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent. the committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the committee views as normal in the longer run.'. voting for this action: janet l. yellen, william c. dudley, lael brainard, stanley fischer, narayana kocherlakota, loretta j. mester, jerome h. powell, and daniel k. tarullo.. . voting against this action: richard w. fisher and charles i. plosser.. . president fisher dissented because he believed that the continued strengthening of the real economy, the improved outlook for labor utilization and for general price stability, and continued signs of financial market excess will likely warrant an earlier reduction in monetary accommodation than is suggested by the committee's stated forward guidance.. . mr. plosser dissented because he objected to the statement's guidance indicating that it likely will be appropriate to maintain the current target range for the federal funds rate for 'a considerable time after the asset purchase program ends.' in his view, the reference to calendar time should be replaced with language that indicates how monetary policy will respond to incoming data. moreover, he judged that the statement did not acknowledge the substantial progress that had been made toward the committee's economic goals and thus risks unnecessary and disruptive volatility in financial markets, and perhaps in the economy, if the committee reduces accommodation sooner or more quickly than financial markets anticipate.. . it was agreed that the next meeting of the committee would be held on tuesday-wednesday, october 28-29, 2014. the meeting adjourned at 10:35 a.m. on september 17, 2014.. . notation vote by notation vote completed on august 19, 2014, the committee unanimously approved the minutes of the committee meeting held on july 29-30, 2014.. . _____________________________. . william b. english secretary. . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-09 04:43:43",
+        "url": "https://www.news1.kr/articles/?1895899",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "토요타, 북미에서 툰드라 픽업트럭 약 14만대 리콜",
+        "subtitle": "",
+        "content": "= . 토요타 자동차가 11일(현지시간) 북미에서 2014년형 픽업트럭 '툰드라' 차량 약 14만대에 대해 리콜 조치를 발표했다. 내장재의 문제로 측면에서 충돌이 발생하는 경우에 에어백이 작동하지 않을 수 있다고 회사 측은 설명했다. 토요타는 결함에 따른 부상 등 사례 신고는 없었다고 설명했다.. . . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-12 14:37:02",
+        "url": "https://www.news1.kr/articles/?1854077",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[중국마감]차익실현에 강보합…상하이, 0.03%↑",
+        "subtitle": "",
+        "content": "= 중국 증시는 4일 강보합 마감했다.이날 증시는 앞선 5거래일 연속 상승분에 대해 투자자들이 차익실현에 나서면서 소폭 상승에 그쳤다.상하이종합지수는 전거래일대비 0.03% 상승한 2430.68로 마감했으며 상하이선전 csi300지수 역시 0.02% 오른 2513.17에 장을 마쳤다.투자자들은 이날 최근 호조를 나타낸 기계업체나 엔지니어링 업체 등 기반시설 관련주에서 차익실현에 나섰다.이들 주식은 앞서 정부의 해외 투자 소식이 (이름)며 시장 실적을 상회했다. 기술기업들로 구성된 중국판 나스닥 차이넥스트종합지수는 전거래일대비 0.89% 하락한 1676.15를 기록했다.반면에 홍콩증시에서 항셍지수는 전거래일대비 0.29% 하락한 2만3845.66에 장을 마쳤으며 항셍차이나기업지수는 0.63% 상승한 1만727.78에 거래됐다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-04 17:58:09",
+        "url": "https://www.news1.kr/articles/?1938226",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美 8월 무역적자 401억$…7개월래 최저(상보)",
+        "subtitle": "",
+        "content": "= 지난 8월 미국의 무역 적자가 수출 호조에 힘입어 7개월래 최저 수준으로 떨어졌다. 이는 3분기 미 경제의 성장세가 견조함을 시사했다. 미국 상무부는 3일(현지시간) 8월 무역수지가 직전월서 0.5%줄어든 401억달러 적자로 집계됐다고 밝혔다. 전문가들은 408억 적자를 예상했다.7월의 무역적자폭은 405억달러에서 403억달러로 하향수정됐다. 수출은 8월에 0.2%늘어난 1985억달러를 기록했다. 자본재, 소비재, 산업용 기기의 해외수출이 늘어난 데 힘입었다. 8월의 수입은 전월대비 0.1%증가한 2386억달러를 나타냈다. 석유와 자동차 수입이 줄었지만 자본재 수입이 사상최고 수준을 기록한 데 따른 것이다. 미국의 석유 수입은 국내 에너지 생산붐에 힘입어 2010년 11월 이후 최저수준을 나타냈다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-03 22:08:14",
+        "url": "https://www.news1.kr/articles/?1888339",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕개장전]고용지표 호조 영향 지속돼 상승",
+        "subtitle": "",
+        "content": "= 뉴욕증시 지수선물이 6일(현지시간) 상승세를 나타내고 있다. 지난주 발표된 고용지표 호조가 여전히 장을 부양하고 있는 것으로 분석됐다. 뉴욕 현지시간으로 오전 7시50분 현재 다우존스산업평균 지수선물은 전장대비 49포인트 상승한 1만 6970.00을 나타내고 있다. 스탠다드앤푸어스(s&p) 500지수선물은 5.60 오른 1965.90을, 나스닥종합지수선물은 10.50 오른 4026.50을 나타내고 있다.지난주 마지막 거래일인 3일 뉴욕증시 3대 지수는 일제히 1%대 상승하며 마감했다. 이날 발표된 미국의 9월 비농업부문 취업자 수는 24만8000명 증가해 시장 예상을 크게 상회했고, 9월 실업률은 5.9%로 2008년7월 이후 최저를 기록했기 때문이다.고용시장이 뚜렷이 개선됨으로써 경제 개선이 확인됐지만 인플레이션 압박은 미미한 것으로 나타나 연방준비제도이사회(연준)가 금리 인상도 서두르지 않을 것으로 분석됐다.이날은 시장을 움직일만한 지표발표 등이 없는 가운데 연준 인사들의 연설이 예정돼 있다. 자넷 옐런 연준 의장은 미 재무부가 주재하는 금융안전감독위원회 회의에 참석해 연설한다. (이름) 조지 캔자스시티 연방준비은행(연은) 총재는 캔자스시티 경제포럼의 연설이 예정돼 있다. 주목할 기업들은 분사를 발표한 휴렛팩커드(hp)와 기업 인수합병(m&a) 소식이 들려온 블랙스톤과 카알라일 그룹, 벡턴 디킨슨과 케어퓨전 등의 기업들이다. 이날 hp는 기업용 하드웨어 및 서비스 관리사업 부문과 pc 및 프린터사업 부문 등을 각각 전담하는 2개 회사로 분사한다고 발표했다. 이 소식에 힘입어 hp는 개장전 거래에서 6%넘게 오르고 있다. 월스트리트저널(wsj)은 이날 사모펀드인 블랙스톤이 경쟁업체인 칼라일 그룹의 인수합병을 고려중이라고 보도했다. 의료장비 기업인 벡턴 디킨슨은 케어퓨전을 122억 달러에 인수한다고 발표했다. 이에 힘입어 벡턴 디킨슨은 개장전 거래에서 10%가까이 오르고 있으며 케어퓨전은 25%넘게 급등중이다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-06 22:54:38",
+        "url": "https://www.news1.kr/articles/?1891541",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "獨 중앙銀 총재 “국채매입, 부채국에 잘못된 인센티브 제공”",
+        "subtitle": "",
+        "content": "= 옌스 바이트만 분데스방크 총재겸 유럽중앙은행(ecb) 집행위원이 12일(현지시간) 마리오 드라기 ecb총재가 실시를 주장하고 있는 국채매입에 다시 제동을 걸고 나섰다.바이트만 총재는 이날 오스트리아에서 가진 한 연설에서 '현재 유로시스템을 미국과 일본, 영국의 중앙은행과 비교하는 데 신중해야 한다'면서 “우리는 유로화를 공통적으로 사용하는 국가들의 각 개별 중앙은행들이 있고 별도로 ecb가 존재한다”고 지적했다. 그는 '근본적으로 팽창적 통화정책은 적절한 것이며 ecb가 추가 통화완화정책을 고려하는 것은 이해가 가지만 국채를 매입하는 것은 반대한다'고 말했다. 그는 '법적인 한계 때문뿐 아니라 국채매입은 빚에 시달리는 유로존 국가들에 잘못된 인센티브를 제공할 것'이라며 이유를 설명했다.이는 마리오 드라기 ecb 총재의 입장과 전면 배치됐다. 앞서 드라기 총재는 커버드 본드와 자산유동화증권(abs) 매입, 4년만기 장기대출 도입 등을 시작하면서 “이런 조치들이 불충분하다고 판단되면 다른 비전통적인 부양책을 꺼내들 수 있다”며 국채 매입 가능성을 강력하게 시사한 바 있다.바이트만 총재는 앞서 드라기 ecb총재가 ecb의 대차대조표를 2012년 수준(1조 2400억달러) 즉 현재보다 50%팽창한 수준을 만들겠다고 말한 데 대해 이는 '기대'일 뿐이며 목표가 없다고 비판했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-13 08:11:33",
+        "url": "https://www.news1.kr/articles/?1951868",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美 10월 개인소비 0.2%↑…pce물가지수는 0.1%↑",
+        "subtitle": "",
+        "content": "= 미 상무부는 26일(현지시간) 지난 10월의 개인 소비 지출이 전월대비 0.2% 증가(계절조정)했다고 발표했다. 이는 0.3%증가를 예상한 전문가들의 기대를 빗나갔지만 직전월(9월)보다는 소폭 상승한 것이다. 이날 상무부는 9월의 개인소비지출을 0.2%감소에서 직전월과 차이가 없는 것으로 상향조정했다. 개인소득 역시 지난달에 0.2%증가했다. 전문가들은 0.4%의 개인소득증가를 예상했었다. 개인 저축률은 5%로 직전월(9월)의 수정치와 변화가 없었다. 이날 상무부는 9월의 개인저축률을 종전의 5.6%에서 5%로 하향조정했다. 낮은 저축률은 예상보다 개인들의 소비가 많았음을 시사했다. 한편 10월의 개인소비지출(pce) 물가지수는 전월비 0.1%상승했다. 이는 시장예상인 0.2%상승을 하회했다. 식품과 에너지를 제외한 근원 pce는 0.2% 올랐다. pce물가지수는 전년비로는 1.4%올랐으며 근원pce는 전년비로는 1.6%올랐다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-26 23:09:04",
+        "url": "https://www.news1.kr/articles/?1973786",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "엔화, 달러 대비 109엔대 재진입…fomc '매파적' 성명 영향",
+        "subtitle": "",
+        "content": "= 30일 오전 도쿄 외환시장에서 엔/달러 환율이 약 3주만에 109엔 대에 재진입했다.미국 연방준비제도이사회(연준)가 28~29일 연방공개시장위원회(fomc) 회의 뒤 내놓은 성명에서 미 경제 회복세에 확신을 드러냄에 따라 기준금리 인상 시점에 시장 예상보다 앞당겨질 수 있다는 기대에 달러가 강세를 보이고 있는 것이 영향을 미쳤다.이날 오전 11시 4분 현재 엔/달러 환율은 109.06~109.08엔에서 추이하고 있다. 환율은 108엔대 초반에서 움직이다가 fomc 성명 발표 직후에 108엔대 후반으로 치솟았다. 이후 아시아 시장에서 완만한 상승 흐름을 보이고 있다.엔/달러 환율이 109엔대를 진입한 것은 지난 7일 이후 처음이다.연준은 이날 성명에서 글로벌 경제는 여러 지역에서 둔화의 신호가 나타나고 있음에도 미국 경제는 회복세를 유지하고 있다고 평가했다. 또 인플레이션에 대해선 유가 하락 등이 인플레이션을 낮은 수준으로 묶어두고 있다고 하면서도 전반적인 경제는 연준의 물가 관리목표인 2%를 향해 다가가고 있다며 금융위기 지속된 양적완화의 종료를 선언했다.. . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-30 11:46:43",
+        "url": "https://www.news1.kr/articles/?1930129",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕개장전]지표발표 앞두고 보합세",
+        "subtitle": "",
+        "content": "= 뉴욕증시 지수선물이 12일(현지시간) 전장과 거의 변화없는 보합권에 머물고 있다. 투자자들은 개장 전에 나오는 8월 소매판매를 확인한 뒤 투자 방향을 정할 것으로 보인다.뉴욕 현지시간으로 오전 8시7분 현재 다우존스산업평균 지수선물은 전장대비 3포인트 오른 1만 6963.00을 나타내고 있다. 스탠다드앤푸어스(s&p) 500지수선물은 0.2포인트 오른1989.20을, 나스닥종합지수선물은 0.5포인트 하락한 4083.00을 나타내고 있다.전날 미 증시는 시리아를 둘러싼 지정학적 긴장감이 고조되고 다음주 스코틀랜드 분리독립 주민투표와 미 연방준비제도이사회(연준)의 정례회의를 앞둔 관망세가 결합돼 혼조세로 마감했다. 투자자들은 지난주 고용지표 발표에 이어 이날 발표될 소매지표에 촉각을 곤두세우고 있다. 지난주 발표된 8월 비농업부문 신규취업자수는 예상치인 20만명을 큰폭으로 밑도는 14만2000명 증가를 기록했다.예상만큼 미 경제 회복세가 견조하지 못한 것으로 드러나자 시장은 8월 소매판매에 기대를 걸고 있다. 소매판매는 미 경제의 70%를 차지하는 소비 부문의 활력을 점검할 수 있는 지표이기 때문이다. 시장 전문가들은 8월 소매판매가 0.6% 증가했을 것으로 내다보고 있다. 한편 이날 역시 발표되는 9월 미시간 소비자신뢰지수는 83.5를 기록해 8월의 82.5보다 개선되며 7월 기업재고는 0.4% 늘어나 직전월과 같은 증가폭을 보일 것으로 예상된다.이날 주목해야 할 기업은 올리브 가든 등의 레스토랑 체인을 거느린 다든 레스터런츠로 이 기업은 1분기 실적이 예상을 상회한 것으로 드러나 개장전 거래에서 5%가까이 상승중이다. 마케팅업체인 얼라이언스 데이타 시스템스는 역시 같은 마케팅 기업인 컨버선트를 매입한다는 소식에 2%넘게 하락중이다. 반면 컨버선트는 30%넘게 급등중이다. 울타 살롱 코스메틱스&프래그런스는 2분기 실적호조와 향후 전망 상향에 힘입어 16%가까이 오르고 있다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-12 21:25:45",
+        "url": "https://www.news1.kr/articles/?1854821",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕마감] 우크라 긴장감 완화·기술주 부진 속 '혼조'",
+        "subtitle": "",
+        "content": "= © 로이터=뉴스1뉴욕증시가 3일(현지시간) 혼조로 마감했다.우크라이나 긴장감 완화에 대한 기대감과 불안감이 교차하고, 애플 등 기술주들이 부진을 보인 게 이날 증시의 혼조세를 부추겼다.다우존스산업평균지수는 전장대비 10.72(0.06%) 상승한 1만7078.28에 마감했다.반면, 스탠다드앤푸어스(s&p) 500지수는 1.56(0.08%) 하락한 2000.72에 장을 마쳤다.나스닥종합지수도 전장대비 25.62(0.56%) 내린 4572.56으로 장을 마쳤다.이날 증시는 우크라이나 정부가 러시아와의 휴전 합의를 발표함에 따라 일제히 상승세로 출발했다. 그러나 이후 러시아의 부인으로 합의 내용이 수정되는 등 혼선이 빚어졌다.하지만 푸틴 대통령이 우크라이나에 휴전에 대한 로드맵을 제시했고 5일 회담에서 최종적인 합의를 기대한다고 밝혀 사실상 타결 막바지에 이른 것으로 기대된다.연방준비제도(연준)가 이날 베이지북에서 미국 경제가 완만한 성장을 지속하고 있다고 밝혔으나 증시에 힘을 실어주지는 못했다.시장은 4일 발표될 유럽중앙은행(ecb)의 통화정책 회의 결과를 예의주시하는 모습을 보였다.락웰 글로벌 캐피털의 피터 카딜로 수석 시장 이코노미스트는 '시장은 처음에 우크라이나와 러시아 사이의 휴전 합의 소식에 반응했으나 아직 이는 많은 제약을 지닌 희망사항일 뿐이다'고 말했다.◇ 우크라 휴전 합의 둘러싸고 '혼선'이날 우크라이나와 러시아가 '휴전 합의'에 대해 각자 다른 해석을 내리는 등 혼란이 연출됐다.우크라이나 대통령실은 이날 성명을 통해 '블라디미르 푸틴 러시아 대통령과 페트로 포로셴코 우크라이나 대통령이 이날 전화 통화를 갖고 돈바스 지역(우크라이나 동부)의 영구 휴전에 합의했다'고 밝혔다.하지만 이 같은 보도가 나간 직후 러시아 정부는 러시아는 휴전에 합의할 당사국이 아니라며 우크라이나 대통령실이 발표한 휴전설을 부인하고 나섰다.오바마 대통령은 기자회견에서 '우크라이나가 주장하는 양국 간 '영구 휴전'이 어떤 의미인지 알기엔 아직 시기상조다'고 말했다.이에 우크라이나 정부는 다시 성명을 내고 양국이 '영구 휴전'에 합의한 게 아니라 '휴전 레짐(regime)'에 합의했다고 말을 바꿨다.러시아도 우크라이나의 이 같은 정정 발표에 대해선 '양국 정상이 실제로 휴전 협의에 진전이 있었다'고 밝히면서도 러시아는 우크라이나와 충돌한 직접적인 당사자는 아니라는 입장의 표명을 되풀이했다.몽골 순방 중인 푸틴 대통령은 '우크라이나에 휴전에 대한 로드맵을 제시했다'며 '오는 5일에 이에 대한 최종적인 합의를 기대한다'고 말했다.그가 제시한 휴전안은 우크라이나와 반군 양측이 도네츠크와 루한스크에서 공격 행위를 중단하고, 우크라이나군이 동부지역 도시들에 대한 폭격이 불가능한 지역까지 철수하며, 반군에 대한 공습을 중단하라는 등의 내용을 포함한다.이후 아르세니 야체뉵 우크라이나 총리는 푸틴의 이 같은 휴전 제안을 거부했다.야체뉵 총리는 푸틴 대통령의 제안은 북대서양조약기구(나토) 정상회의를 앞두고 러시아의 진정한 의도를 숨기고 서방을 기만하려는 시도에 불과하다고 지적했다.◇ 공장재수주 증가..자동차 판매 호조지난 7월 미국의 공장재수주 실적이 예상엔 못 미쳤지만 크게 늘었다.미국 상무부는 3일(현지시간) 7월 공장재수주 실적이 전월보다 10.5% 늘어났다고 발표했다.이는 시장 전망치인 10.9% 증가보다는 낮지만 지난 1992년 데이터 산출 이래 가장 큰 월간 증가폭이다.6월 공장재수주 기록은 당초 1.1% 증가에서 1.5% 증가로 상향 조정됐다.민간 항공기 주문이 4배로 늘며 호조를 보여 7월 공장재수주의 증가를 견인한 것으로 나타났다.같은 날 발표된 지난달 미국의 자동차 판매는 전반적으로 할인정책 등에 힘입어 예상보다 호조를 나타냈으나 업체별로는 희비가 엇갈렸다.미국 3위 자동차회사인 크라이슬러는 지난달 미국에서의 자동차 판매가 전년대비 20% 급증했다고 밝혔다. 시장 전망치 12%보다 훨씬 많은 수준이다.반면 제네럴 모터스는 지난달 27만2423대의 자동차를 판매, 1년 전 27만5847대에서 1.2% 감소했다.포드자동차도 포드 트럭 판매가 줄면서 지난달 미국 판매가 22만2174대를 기록했다. 이로써 지난해 동기의 22만1270대에서 0.4% 늘어나는데 그쳤다.연이은 리콜사태에도 미국의 자동차 시장의 판매량은 계속 호조를 보이며 최근 수년간 경제에도 긍정적인 영향을 미치고 있다.시장에선 낮은 수준의 금리와 성장률이 이어질 경우 올해 남은 기간에도 자동차 판매량은 안정적으로 증가세를 유지할 것으로 보고 있다.◇ 베이지북, 미국 경제 완만한 확장 지속이날 연준은 미국 경제가 최근 몇 주 동안 꾸준하게 완만한 속도로 확대되는 모습을 보였다고 밝혔다.연준은 베이지북을 통해 '미국의 연방준비은행(연은)이 위치한 12개 지역 중 6개 지역에서 성장세가 완만했다(moderate)'고 발표했다.고용 추세로 측정하는 고용시장은 미국 거의 전역에서 이전과 거의 변화 없이 완만한 성장세를 나타냈다.다만 연준은 미국의 거의 모든 지역에서 정보 기술자, 트럭 기사, 건설 인력 등의 특정한 숙련된 노동인력을 구하는 데는 어려움을 겪었다고 밝혔다.또 소비지출과 비금융 서비스 부문은 확장세를 이어갔다. 임금과 물가 압력에는 변화가 없는 것으로 나타났다.베이지북은 그러나 주택시장은 여전히 부진한 것으로 평가했다. 연준은 지난 7월에 발표한 베이지북 이후 대부분의 지역들이 자동차 판매가 늘었다고 밝혔다. 이에 따르면 특히 필라델피아와 댈러스에선 판매가 기록적인 수준으로 늘었다.베이지북은 12개 연은이 관할하는 지역 경제 상황 자료를 모은 것으로 연방공개시장위원회(fomc) 정례회의에서 금리 결정을 위한 기초 자료로 활용된다.연준은 오는 16~17일 fomc를 개최할 예정이다.시장 전문가들은 이번 회의에서도 연준이 미국의 전반적인 경기가 회복 중이라는 (이름) 양적완화 규모를 100억 달러 추가 감축할 것으로 전망하고 있다.◇ 애플·톨 브라더스 부진..콘커 테크 호조애플은 경쟁업체인 삼성전자가 새로운 스마트폰을 출시했다는 소식이 (이름) 직후 전장대비 4.22% 하락한 98.94달러를 기록했다. 지난 1월28일 이후 최대 일일 낙폭이다.애플 주가가 이처럼 급락한 것은 삼성전자가 페이스북과 손잡고 가상현실 기능을 구현했다는 소식이 영향을 미친 것으로 분석됐다. 월가에서 매도 의견이 나온 것도 악재로 작용했다.삼성전자는 이날 독일 베를린에서 열리는 국제가전전시회(ifa) 개막을 앞두고 갤럭시노트4를 전격 공개했다. 또한 갤럭시노트4와 연동해 3d 가상현실을 체험할 수 있는 헤드셋, '기어vr과, 스마트손목시계인 '기어s' 등도 공개했다.미국 최대 럭셔리 주택건설업체인 톨 브라더스는 2분기 실적이 예상보다 2배 이상 좋게 나왔다고 밝혔음에도 전장대비 4.72% 내린 33.95달러에 장을 마쳤다.출장과 회계 소프트웨어 제작업체인 콘커 테크는 8.57% 상승한 109.60달러를 기록했다. 이 업체는 앞서 회사 매각을 추진하고 있으며 오라클과 독일의 sap 등과 접촉했다고 밝혔다.. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-04 06:02:57",
+        "url": "https://www.news1.kr/articles/?1844912",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "윌리엄스 美연은 총재 '포스트qe 물가안정목표제 보완 필요'",
+        "subtitle": "",
+        "content": "= 존 윌리엄스 샌프란시스코 연방준비은행(연은) 총재. © 로이터=뉴스1포스트 양적완화(qe) 시대엔 물가수준목표제(price-level targeting)와 명목소득목표제(nominal income targeting) 등이 정책 보완책으로 검토돼야 한다는 연준 고위 인사의 주장이 제기돼 주목을 끌고 있다.존 윌리엄스 샌프란시스코 연방준비은행(연은) 총재는 지난달 31일(현지시간) 남아프리카공화국(남아공) 중앙은행이 개최한 회의에 참석한 자리에서 이 같이 주장했다. 그는 '현재 미연방준비제도이사회(연준)가 시행 중인 물가안정목표제(inflation targeting)가 큰 효과를 보이고 있다'면서도 '낮은 인플레이션과 자산거품 리스크에 대비할 추가적인 방법들도 검토돼야 한다'고 말했다.윌리엄스 총재의 이 같은 주장은 연준이 고용시장에 대해서 낙관적으로 평가를 내리고 약 6년 만에 비관례적인 자산매입을 통한 양적완화 정책을 종료하기로 결정한지 이틀 후에 나온 것이다.연준은 지난달 30일 이틀간의 연방공개시장위원회(fomc) 정례회의를 마친 후 성명을 통해 '2008년부터 시행한 3차례의 양적완화 프로그램으로 고용시장 전망이 개선돼 자산매입을 종료한다'고 발표했다. 시장에선 연준이 내년 중반쯤 기준금리를 인상하며 정상적인(normal) 통화정책으로 복귀하기 위한 포석을 깔아놓은 것으로 풀이하고 있다.이후 전문가들은 양적완화 종료가 미국과 글로벌 경제에 미칠 영향을 두고 갑론을박 중이다. 연준의 결정이 미국 경제를 낙관하고 있다는 점에서 긍정적이라는 의견도 있지만, 향후 신흥국 등에서 '외환 엑소더스'가 일어나는 등 글로벌 경제가 자금경색으로 인해 변동성이 커질 것이란 우려도 있다. 이런 가운데 fomc 투표권을 지닌 윌리엄스 총재의 주장이 향후 연준의 정책에 어떤 영향을 줄 것인지 귀추가 주목된다. ◇ '연준, 정책유연성 위해 두 정책 장점 검토해야'물가안정목표제는 중앙은행이 중간 목표 없이 최소한 1년 (이름) 중장기의 물가상승률 목표치를 미리 공개하고 여기에 맞춰 통화정책을 수행하는 방식이다.반면에 물가수준목표제는 물가상승률이 아닌 소비자물가지수 수준을, 명목소득목표제는 명목 국내총생산(gdp) 수준이나 증가율을 목표로 설정하는 것이다. 윌리엄스 총재는 '최근 나타나고 있는 현상들을 보면 물가안정목표제에서 허점이 드러나고 있다'고 지적했다.그에 따르면 인플레이션이 현재와 같이 혹은 향후에도 당분간 거의 제로(0) 상태에 가까울 것이 분명할 때 이를 수용 가능한 수준으로 끌어올리는 것은 쉬운 일이 아니다. 경제 성장에서 생산성이 둔화하고 다른 지표들도 부진을 보일 조짐이 있는 경우엔 더욱 그렇다. 윌리엄스 총재는 연준의 대대적인 자산매입 정책에도 인플레이션이 연준의 관리 목표치인 2%를 밑돌아온 미국에선 이는 현재 진행형인 숙제라고 설명했다. 또한 초저금리가 촉발한 주택부문의 리스크와 다른 자산거품들도 숙제라고 지적했다. 중앙은행들은 이러한 리스크들을 막기 위해 기준금리를 인상하고 싶어 할지도 모르지만 이 경우 인플레이션은 더 낮아질 가능성이 있다는 것이다. 윌리엄스 총재는 이들 2가지 숙제들을 감안할 경우 물가수준목표제와 명목소득목표제는 물가안정목표제를 보완하는 '몇 가지 장점들이 있다'고 설명했다.그에 따르면 물가수준목표제 하에선 경제가 지나치게 낮은 인플레이션으로 인해 부진을 겪을 때를 대비해 중앙은행이 물가가 일시적으로 목표를 능가하는 것을 허용한다는 점에서 인플레이션 기대심리를 부양시킬 수 있다.또한 명목소득목표제를 통해선 연준이 물가와 실질 gdp를 모두 고려해 유연한 정책운용이 가능하다. 호경기 땐 실질성장률이 높아서 물가억제를 도모하고 불경기 땐 실질성장률이 낮아서 물가상승을 용인하며 성장에 더 중점을 둘 수 있는 것이다.◇ '단점도 고려해 실행은 신중해야' 윌리엄스 총재는 자신이 물가수준목표제나 명목소득목표제를 적극적으로 옹호하는 건 아니라는 신중한 입장도 함께 나타냈다.그는 '두 정책이 물가안정목표제보다 더 나은지를 판단하는 것이 아직 시기상조인 면은 있다'고 밝혔다.또한 물가안정목표제에 대해선 '글로벌 경제에서 변동성이 극심했던 기간 중에도 수치로 된 명확한 기준을 제공했다'며 '이를 통해 인플레이션도 낮고 안정적으로 유지하는 데 획기적인 성공을 거뒀다'고 평가했다.윌리엄스 총재가 이처럼 자신의 발언 수위를 조절한 이유는 두 정책이 장점도 있지만 단점도 있음을 잘 알기 때문인 것으로 풀이된다. 물가수준목표제는 물가 수준이 목표를 이탈했을 때 강도 높은 정책 대응으로 인해 경기 변동성을 크게 확대시킬 위험성이 있다. 또 명목소득목표제는 목표의 명료성이 떨어지고 데이터 편제 주기가 길어 신속성이 떨어진다는 단점이 있다. 미국 연준을 포함한 세계의 주요 중앙은행들 대부분은 현재 2~3%의 인플레이션을 장기적인 관리 목표로 설정하고 물가안정목표제에 입각해 통화정책을 운용 중이다. 물가안정목표제는 25년 전 뉴질랜드 중앙은행이 최초로 도입한 이래 각국 중앙은행의 주요 통화정책 수단으로 활용돼왔다.윌리엄스 총재는 연준 내에서 통화정책을 통한 경기부양을 중시하는 비둘기파 중 온건적인 성향으로 분류되며, 자넷 옐런 연준 의장과는 정책적 견해가 많이 비슷한 인물로 평가받고 있다. . . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-02 14:01:10",
+        "url": "https://www.news1.kr/articles/?1934148",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美 9월 잠정주택판매 전월비 0.3%↑…예상하회",
+        "subtitle": "",
+        "content": "= . 미국의 지난달 잠정주택판매 상승폭이 예상보다 낮았다.. . 미국부동산중개인협회(nar)는 27일(현지시간) 9월 잠정주택 판매 지수가 전월대비 0.3% 증가한 105(계절조정)를 기록했다고 발표했다. 지난 8월엔 1.0%감소를 기록한 바 있으며 시장은 1.0%증가를 예상했다.미국 주택시장은 5년간 꾸준히 회복돼왔지만 까다로운 (이름)출과 재고주택 부족 등은 여전히 문제로 남아 있다. 전년비로는 1%증가해 지난해 9월 이후 첫 전년비 증가를 기록했다. 8월엔 전년비로 4.1%감소한 바 있다. 지역별로는 남부 지역이 1.4% 증가했으며 북동부 지역이 1.2% 늘었다. 중서부 지역과 서부는 각각 1.2%와 0.8% 감소했다.잠정주택판매는 주택 매매계약에 서명은 했지만 거래가 완료되지 않은 것으로, 통상 1~2개월 안에 거래를 마무리짓는다. nar에 따르면 100은 '역사적으로 건강한' 주택구입 건수를 기록한 2001년을 기준으로 삼은 것으로 100(이름) 향후 부동산 거래가 활발해질 것을 의미한다. . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-27 23:45:29",
+        "url": "https://www.news1.kr/articles/?1924897",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "저유가에 아직 타격없는 美 셰일오일…생산량 계속 증가",
+        "subtitle": "",
+        "content": "= 국제유가의 급락에도 불구하고 미국 내 주요 셰일 유전지대에서의 생산량은 무서운 속도의 증가세를 내년 초에도 지속할 것으로 미국 에너지정보청(eia)이 전망했다.eia는 텍사스의 주요 셰일 오일 생산지인 이글포드와 페르미안, 노스 다코타의 배켄에서의 내년 1월 일일 생산량은 전월 대비 약 10만3000배럴 증가할 것으로 전망했다. 이는 올 들어 가장 큰 증가폭인 12월의 10만5000배럴과 거의 같은 수준이다.구체적으로 배켄에서는 2만7000배럴 증가한 125만배럴, 이글 포드는 3만배럴 늘어난 169만배럴, 페르미안은 4만6000배럴 증가한 187만배럴를 하루에 생산할 것으로 봤다.현재 셰일 유전에서는 시추 기술이 좋아지면서 유정 생산성도 개선되고 있다. 배켄에서 새 유정은 내년 1월에는 일일 약 550배럴을 생산할 것으로 전망된다. 지난 6월에는 500배럴에 미치지 못했다.미국 셰일 유전은 국제유가가 올 들어 40% 이상 급락하면서 관심의 대상이 되고 있다. 셰일 유전에서의 생산량 증가는 석유수출국기구(opec)의 감산 외면과 맞물려 유가를 끌어내리고 있기 때문이다.국제유가는 8일에도 하락세를 지속했다. 런던 ice 선물시장에서 거래된 내년 1월 인도분 브렌트유 가격은 전장에 비해 배럴당 2.81달러(4.07%) 하락한 66.19달러를 기록했다. 지난 2009년 10월 이후 최저치다.뉴욕상업거래소(nymex)에서도 내년 1월 인도분 서부텍사스산원유(wti)가 전장에 비해 2.79달러(4.2%) 급락한 배럴당 63.05달러에 거래됐다. 지난 2009년 7월 이후 최저치다.글로벌 투자은행(ib) 모간스탠리는 최근 보고서에서 '석유수출국기구(opec)의 개입이 없다면 과잉공급은 내년 2분기에 정점에 달할 수 있다'고 전망하면서 내년도 전망치를 종전 98달러에서 70달러로 낮춰 잡았다. 2016년의 경우, 102달러에서 88달러로 하향 조정했다. 모간스탠리는 내년 2분기에는 유가가 43달러까지 하락할 수 있다고 봤다<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-12-09 13:13:00",
+        "url": "https://www.news1.kr/articles/?1992840",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "멕시코 경제 '대학생'에 발목, 3q부진 이어 전망 또 하향",
+        "subtitle": "",
+        "content": "= 멕시코정부가 3분기 국내총생산의 예상치 못한 하락에 따라 올해 성장전망을 하향했다고 로이터통신이 23일(현지시간) 보도했다. 로이터는 국내수요 약화와 꾸준하지 못한 산업생산 뿐 아니라 멕시코 국내의 정치소요가 경제에 악영향을 미치고 있다고 분석했다. 멕시코 재무부는 이날 올해 경제성장률을 이전에 예상한 2.7%에서 2.1~2.6%로 하향했다. 이는 올해 들어서만 두번째 하향수정이다. 멕시코는 3분기에 전분기대비 0.5%성장했다. 이는 2분기 수정치인 0.9%성장에 못미칠 뿐 아니라 전문가 전망치인 0.7%성장도 하회했다. 설상가상으로 20일 발표된 9월 소매판매는 9개월래 가장 큰 폭으로 감소했다. 2014년 새로 부과된 세금들은 개인소비와 투자를 억누르는 한편 건설경기 또한 지난해의 부진에서 반등하기 위해 애쓰고 있지만 성과가 미미하다. 또한 낮은 유가 역시 경제를 억누르고 있다. 엔리케 페냐 니에토 멕시코 대통령은 최근 2년간 국영 에너지 기업들이 장악한 에너지 부문의 자유화를 비롯해 일련의 경제개혁책을 내놨다. 하지만 약한 수요 등과 잇따른 정치적 위기로 인해 그의 개혁 아젠다는 관심을 끌지못하고 있다. 중앙은행과 재무부 정책관계자들 역시 사회소요가 멕시코의 경제성장을 가로막은 가장 큰 요소라고 분석했다. 정부는 이번달에 중국기업 주도의 컨소시엄과의 37억 5000만 달러(약 4조 2000억원) 규모의 고속전철 건설계약을 돌연히 취소시켰다. 멕시코 정부가 이 컨소시엄에 2억7000만위안(약 484억원)을 배상할 것으로 전망되는 가운데 이 컨소시엄에 참여한 멕시코 회사가 대통령 부인 앙헬리카 리베라 여사에게 고가의 주택을 지어준 댓가로 쉽게 입찰이 가능했다는 의혹이 한 언론매체에 의해 폭로됐다. 또한 멕시코에선 대학생의 실종에 항의하는 집회가 연일 이어지고 있다. 멕시코에선 지난 9월 26일 교육대 학생 43명이 시골 교사의 임용 차별 철폐를 주장하며 시위를 벌이다가 실종됐다. 그후 이들이 갱단에 의해 집단살해榮募 검찰 결과가 나오고 지역 갱단 마약조직과 유착된 정부인사들이 개입했다는 의혹이 커지면서 시위는 격화되고 있다.게레로 주 이괄라 시의 시장 부부가 무력진압을 지시했고 경찰이 학생들을 무더기로 붙잡아 갱단에 넘긴 것으로 파악되면서 시장 부부는 기소됐다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-24 15:45:02",
+        "url": "https://www.news1.kr/articles/?1969027",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[도쿄마감] 새 내각 기대감에 닛케이 7개월 來 최고",
+        "subtitle": "",
+        "content": "= 일본 증시는 3일 상승 마감했다.증시는 이날 발표된 집권 2기 아베 내각에 대한 기대감이 시장에 반영되며 7개월 만에 최고치를 기록했다.닛케이225지수는 전거래일 대비 59.75(0.38%) 오른 1만5728.35로 3거래일 연속 상승을 기록했다. 토픽스지수는 4.52(0.35%) 상승한 1301.52에 마감했다.아베 신조 일본 총리는 이날 개각을 통해 집권 2기 내각을 새로 구성했다.시장은 이번 개각이 정부에 힘을 실어 아베 총리의 성장위주 정책인 '아베노믹스'에 새로운 자극을 줄 것이라고 평가했다.시장은 시오자키 야스히사(鹽崎恭久) 자민당 중의원의 후생노동상 임명에 특히 주목했다.시오자키 중의원은 일본공적연금(gpif) 개혁에 우호적인 인물로 gpif의 국내 주식보유 비율을 늘릴 것으로 기대되고 있다. 이날 엔화도 105엔대를 넘어서며 약세를 나타내 증시 상승을 견인했다. 엔/달러는 오후 4시26분 현재 전거래일대비 0.172% 상승한 105.01~105.04엔에 거래 중이다.한편 지난 1월 거래를 처음 시작한 jpx-닛케(이름)400은 전거래일대비 0.36% 상승한 1만1806.73을 기록했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-03 16:56:26",
+        "url": "https://www.news1.kr/articles/?1844406",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[도쿄마감]美지표부진·엔强에 닛케이 0.59% ↓",
+        "subtitle": "",
+        "content": "= 일본 증시는 10일 하락 마감했다.이날 증시는 미국 고용지표가 예상 밖 부진을 보인 가운데 엔화가 강세를 나타내 투자심리가 위축되며 하락했다.닛케이225지수는 전거래일 대비 99.85(0.59%) 내린 1만6780.53으로 마감해 지난달 31일 이후 최저치를 기록했다. 토픽스지수 역시 3.56(0.26%) 하락한 1360.11로 장을 마쳤다.미국의 지난달 고용은 9개월 연속 20만명 (이름) 증가세를 지속했으나 전망치를 밑돌았다.미 노동부는 이날 지난달 비농업부문 신규 취업자 수가 21만 4000명 증가했다고 발표했다. 시장 예상치인 23만5000명을 밑도는 것이다.이날 엔화는 밤사이 해외 외환시장에서부터 강세를 나타내 전반적인 증시 하락을 이끌었다. 엔/달러 환율은 오후 3시58분 현재 전거래일대비 0.954% 하락한 114.17~114.20엔에 거래 중이다.종목별로는 세계 최대의 이동통신사인 ntt가 올해 영업이익에 대한 우려가 제기되며 4.06% 급락해 증시 하락에 영향을 미쳤다.한편 지난 1월 거래를 처음 시작한 jpx-닛케(이름)400은 전거래일대비 0.27% 하락한 1만2412.00을 기록했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-10 16:31:10",
+        "url": "https://www.news1.kr/articles/?1947109",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "유로존 7월 소매판매 전월比 0.4% 감소…예상 0.3% ↓",
+        "subtitle": "",
+        "content": "= . 유로존(유로화 사용 18개국)의 7월 소매판매가 줄어든 것으로 나타났다.유럽연합(eu) 통계기관인 유로스타트는 유로존의 7월 소매판매가 전월대비 0.4% 감소했다고 3일(현지시간) 발표했다.이는 시장 전문가들의 예상치인 0.3% 감소보다 더 큰 폭의 감소이며, 직전월(6월) 기록인 0.4% 증가보다 크게 낮은 수준이다.7월 소매판매는 전년대비론 0.8% 올랐으나, 전망치인 0.95% 증가에 미치지 못하고 6월 기록인 1.90% 증가보다도 크게 낮았다.6월 기록은 당초 2.4% 증가에서 1.9%로 하향조정됐다. . . 소매판매는 가계 수요를 파악할 수 있는 지표다.. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-03 19:08:31",
+        "url": "https://www.news1.kr/articles/?1844662",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美, '굿바이' 양적완화…돈 잔치는 끝났다 (종합)",
+        "subtitle": "",
+        "content": "= 미국 워싱턴 dc의 미연방준비제도이사회(연준) 건물. © 로이터=뉴스1미국 연방준비제도이사회(연준)가 3차 양적완화(qe) 정책의 종료를 선언했다.연준은 29일(현지시간) 이틀간의 연방공개시장위원회(fomc) 회의를 마친 후 성명을 통해 150억달러 남아있는 자산매입 프로그램을 종료하고 다음달부터 더 이상 채권을 사들이지 않는다고 밝혔다. 현재 연준은 모기지담보증권(mbs)을 50억달러, 국채를 100억달러 규모로 사들이고 있다. 연준은 성명에서 '물가안정 속에서 최대 고용을 향한 지속적인 전진을 뒷받침하기 위해 경제 전반에서 충분한 근본적인 강세가 이어질 것인지 계속 지켜볼 것이다'고 밝혔다.연준은 글로벌 경제는 여러 지역에서 둔화의 신호가 나타나고 있음에도 미국 경제는 회복세를 유지하고 있다고 평가했다.이로써 지난해 12월 5년만에 양적완화를 축소한 이후 모두 8차례에 걸친 테이퍼링(양적완화 축소)을 완전하게 마무리됐다.성명은 최근 나타난 금융시장의 유동성, 유로존 경기침체, 인플레이션 약화 전망이 연준의 고용 및 인플레이션 목표를 향한 전진을 방해할 역풍으로 작용하지 않을 것으로 보고 거의 묵살하다시피 했다.연준은 고용시장이 (이름)고 있다고 지적하며 고용시장에서의 슬랙(slack·완전고용과 현재 고용 수준의 차이)은 점차 줄어들고 있다고 진단했다.연준은 특히 지난 9월 성명서에서 우려를 나타냈던 '노동자원 활용의 부진'이라는 문구를 삭제하고, 노동자원 저활용이 개선되고 있다고 강조했다.아울러 연준은 '가계 소비 증가세가 지속되고 있고, 기업 재고투자도 개선되고 있다'고 평가했다.연준은 인플레이션에 대해선 유가 하락 등이 인플레이션을 낮은 수준으로 묶어두고 있다고 하면서도 전반적인 경제는 연준의 물가 관리목표인 2%를 향해 다가가고 있다고 봤다. 성명은 '연준은 인플레이션이 꾸준하게 2%를 밑돌 가능성은 올 초부터 다소 줄었다고 판단한다'고 밝혔다.나라야나 코처라코타 미니애폴리스 연은 총재는 저(低)인플레이션은 연준이 기준금리를 장기간 유지해야 한다는 것을 의미한다며 이날 10명의 연준 위원들가운데 유일하게 반대표를 행사했다.이날 자넷 옐런 연준 의장의 별도 기자회견은 없었다.◇ 선제적 안내, 상당기간 초저금리 '유지'..인상 시기·속도, 지표들에 달려 '추가'이날 관심을 모았던 포워드가이던스(선제적 지침)는 초저금리를 당분간 유지한다면서도 인상 시기와 속도는 향후 달라질 수 있다는 여지를 남겼다. 선제적 지침이란 연준이 통화정책에 대해 시장과 소통하기 위해 향후 정책의 잣대를 미리 제시하는 것을 말한다. 연준은 금리인상 시기에 대해선 시장 예상대로 제로(0)에 가까운 초저금리를 '상당기간'(considerable time) 유지한다는 종전의 입장을 담은 문구를 고수했다.다만, 향후 경제지표들에 따라 기준금리 인상 시기와 속도가 달라질 수 있다는 표현을 새로 추가하는 것으로 금리 인상을 주장하는 일부 위원들의 의견을 반영했다.이는 경제 개선이 예상보다 빨라지면 기준금리 인상 시기를 앞당길 수 있다는 의미로 이는 연준의 이번 성명서가 다소 매파적으로 (이름) 것이다.지난 회의 때 반대표를 행사했던 리처드 피셔 댈러스 연방준비은행(연은) 총재와 찰스 플로서 필라델피아 연은 총재의 조기 금리인상을 주장을 반영한 것으로 풀이된다.미국 경제전문채널 cnbc가 실시한 설문 결과 전문가들은 미국의 기준금리 인상 시점을 오는 2015년 7월쯤으로 예상했다. 이는 지난 9월 cnbc가 조사했던 때보다 1개월 정도 뒤로 밀린 결과다.◇ qe, 약 6년간 4700조원 시중에 풀어 美·글로벌 경기회복 도와양적완화 종료는 대공황 이후 최대 고비였던 2007~8년 금융위기에 대처하기 위해 당시 벤 버냉키 연준 의장이 공중에서 무차별적으로 돈을 뿌린다는 의미로 일명 '헬리콥터 벤'으로 불리며 시장에 qe를 시작한지 5년8개월만이다.qe는 그동안 3차에 걸쳐 진행됐다. 2009년 3월부터 2010년 3월까지 1차, 2010년 11월부터 2011년 6월까지 2차 양적완화가 진행됐다. 또한 이번에 종료된 3차 양적완화는 2012년 9월에 시작됐다.그동안 시중에 투입된 자금은 약 4조4800억달러(약 4701조원)에 이른다. 신용경색에 질식해가던 시장은 이러한 '돈 잔치'에 숨통을 틔우고 글로벌 경제도 더불어 회복의 전기를 마련했다는 평가를 받는다.qe 종료는 미국 경기가 충분하게 회복됐다는 판단에 따른 것이다. 실제로 고용지표, 주택지표, 소비지표, 제조업지표 등 각종 경제지표들이 미국 경제의 펀더멘털(기초 체력)이 개선됐음을 보여주고 있다.실업률은 3차 양적완화 시작 직전 8.1%에서 지난달엔 5.9%로 낮아졌다. 국내총생산(gdp) 성장률은 1분기엔 2.1% 위축됐으나 2분기엔 4.6%로 증가했다. 이번 주 발표될 3분기 기록은 3.1%로 전망된다.다만, 최근 유로존, 중국, 일본 등 글로벌 경제가 성장 둔화 조짐을 보이고 있어 미국의 나 홀로 경제 개선세가 장기적으로 이어지진 않을 것이란 우려도 나온다.◇ 포스트 qe 시대..글로벌 경제에 미칠 여파에 촉각연준의 양적완화가 완전하게 종료됨에 따라 이에 대한 후폭풍이 글로벌 경제에 미칠 영향에 관심이 집중되고 있다.일부 전문가들은 양적완화 중단으로 글로벌 금융시장이 불안(이름)고 시중금리가 급등하는 등 부작용이 나타날 가능성이 있다고 지적한다.자산매입이 중단될 경우 연준이 초저금리 정책을 유지하더라도 시장금리의 상승은 불가피하다는 지적도 있다. 시장금리는 연준의 기준금리 정책에 영향을 받지만 궁극적으론 실물 경기에 좌우되기 때문이다.또한 시중에 풀리는 자금이 줄어 달러의 공급이 감소되면 미 달러화 강세는 더욱 가속화할 가능성이 있다. 이 경우 기업들의 수출 감소 등으로 미국 경제에 악영향이 미칠 수 있다.양적완화 종료와 함께 금리인상이 이뤄지면 신흥국에 몰린 자금이 대거 빠져나가는 이른바 외국인 자금 '엑소더스'(대탈출)가 나타날 것이란 전망도 있다.하지만 양적완화 종료 후에도 연준이 3차례의 양적완화를 통해 이미 시중에 풀어놓은 자금이 경기부양정책 효과를 지속할 것이란 반론도 나온다. 이에 따르면 연준이 양적완화를 끝내도 시장 불안을 고려해 곧바로 유동성 회수에 나설 가능성은 희박하다.◇ qe 중단, 우리나라에도 자금경색 나타날까? 신흥국의 외국인 자본 엑소더스로 자금경색이 현실로 나타날 경우 우리나라도 외국자본 이탈과 수출시장 침체로 인한 타격이 불가피하다.또한 미국의 금리가 상승하면 우리나라의 금리도 오를 가능성이 높다. 이는 기업과 가계의 대출 이자 상환 부담이 커진다는 의미다.국제통화기금(imf)은 앞서 미국 통화정책이 급변하면 아시아국가들 가운데 한국이 충격을 가장 크게 받을 수 있다는 분석을 내놨다.imf에 따르면 우리나라의 내년 경제 성장률은 정부가 예상한 4%보다 낮은 3% 초반대로 주저앉을 수 있다.하지만 (이름) 부총리는 우리나라의 외환보유액이 충분하고 경상수지 흑자도 이어지고 있기 때문에 우리 경제가 받게 될 여파는 제한적일 것이라고 밝혔다.삼성증권은 미국의 양적완화 종료가 지난달부터 미리 반영됐기 때문에 주식시장에 주는 충격도 크지 않을 것으로 보인다는 분석을 내놨다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-30 08:22:05",
+        "url": "https://www.news1.kr/articles/?1929285",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "일본 8월 소매판매 전월비 1.9%증가…예상상회",
+        "subtitle": "",
+        "content": "= 일본의 지난달 소매판매가 전월대비 1.9%증가하면서 전망을 크게 상회했다.일본 총무성은 30일 8월 소매판매가 전월비로 1.9%증가했다고 발표했다. 이는 시장 전망인 0.5%와 직전월(7월) 기록한 마이너스(-) 0.5%를 크게 앞섰다.이는 전년비로는 1.2%올라 이 역시 전월에 기록한 0.5%와 전망치 0.1%를 크게 앞질렀다. 하지만 같은 기간 산업생산 잠정치는 전월비 1.5%감소했다. 전문가들은 0.2%증가를 예상했다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-30 09:16:08",
+        "url": "https://www.news1.kr/articles/?1881417",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[도쿄마감] 전세계 성장 둔화 우려에 닛케이 1.19% ↓",
+        "subtitle": "",
+        "content": "= 일본 증시는 8일 하락 마감했다.이날 증시는 앞서 발표된 독일 경제 지표 부진에 전세계 성장 둔화 우려가 제기된 가운데 엔화 강세로 수출주가 부진을 보이며 하락했다.닛케이225지수는 전거래일 대비 187.85(1.19%) 내린 1만5595.98로 5주만에 최저치를 기록하며 마감했다. 토픽스지수 역시 16.04(1.24%) 하락한 1274.85로 장을 마쳤다.독일 경제부는 6일(현지시간) 지난 8월 산업생산이 전월 대비 4.0% 감소했다고 밝혔다. 이는 시장 전망치인 1.5% 감소를 크게 밑돈 것으로, 2009년1월 이후 가장 큰 감소폭이다.앞서 발표된 독일의 8월 공장수주 역시 전월 대비 5.7% 감소해 2009년 이래 최대 감소폭을 나타냈다.유럽 경제규모 1위 독일의 경제 지표가 예상 외로 부진하게 나오자 전세계 경제 둔화 우려가 제기됐다.이날 엔화도 전반적인 강세를 나타내며 투자 심리를 위축시켰다.엔화는 밤사이 해외 외환시장에서 강세를 보인 후 도쿄 외환시장에서 약세 전환했으나 이후 등락을 거듭하며 전반적인 강세를 나타냈다.엔/달러 환율은 오후 3시26분 현재 전거래일대비 0.092% 하락한 108.40~108.44엔에 거래 중이다.엔화 강세에 대표 수출주인 자동차 업체가 눈에 띄게 부진을 나타냈다.자동차주는 마즈다자동차가 3.8% 급락하는 등 전반적으로 2% 하락했다.한편 지난 1월 거래를 처음 시작한 jpx-닛케(이름)400은 전거래일대비 1.26% 하락한 1만1586.10을 기록했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-08 16:08:10",
+        "url": "https://www.news1.kr/articles/?1895250",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "gm 늦장 리콜 애리조나주 최초 소송…'수십만명 위험 처해'",
+        "subtitle": "",
+        "content": "= 제너럴모터스(gm) 로고. © 로이터=뉴스1 애리조나주가 19일(현지시간) 미국 주들 중에선 최초로 제너럴모터스(gm)의 점화장치 안전성 문제 은폐와 늑장 리콜 관련 소송에 나섰다. 애리조나는 이날 소장을 접수해 리콜 대상 차량에 대한 의무 위반에 대해 건당 1만달러(약 1100만원)까지의 벌금을 받아내는 방안을 추진 중이다. 만약 법원이 애리조나주의 손을 들어줄 경우 전체 gm에 대한 벌금액 규모는 최대 수백억달러에 이를 전망이다. gm의 대변인은 20일 성명을 통해 이번 소송이 'gm 차량의 성능과 고객 안전 보장에 대한 우리의 노력 등에 대한 사실을 왜곡하고 있다'고 밝혔다.gm은 자사 차량의 점화장치 결함으로 인해 주행 중 시동이 끊어지고 에어백과 브레이크가 오작동을 일으킬 우려가 있다며 지난 3월 전 세계에서 260만대를 리콜했다. 이후 gm에 대한 많은 민사소송이 제기됐다. 지금까지 점화 스위치 결함으로 인한 사망자는 최소 30명에 이른다. 미국 국회와 연방 안전 규제당국에 제출된 서류들에 따르면 gm은 리콜을 실시하기 최소 10여년 전부터 점화장치 결함 사안을 인지했던 것으로 보인다.애리조나주는 제출한 소장에서 처음엔 점화장치 결함과 관련해 260만대로 시작된 gm의 리콜이 현재 미국에서 약 60건의 각종 심각한 결함과 관련해 약 2700만대까지 확대됐다고 밝혔다.gm은 지난달 미국 48개 주에서 조사가 진행 중이라고 밝혔다. 이와 관련해 몇몇 주의 주지사들은 20일 조사가 진행 중이라고 말했다. 애리조나주는 gm이 결함 차량을 생산한 것은 2009년 파산하기 이전의 일이지만 미국 정부의 구제금융으로 탄생한 '뉴gm'이 벌금을 지불해야 한다는 입장이다. 결함 은폐 시작이 '올드gm' 시절인 10여년 전으로 거슬러 올라가기 때문이라는 것이다. gm은 2009년 파산 이전에 제작된 차량들에 대한 안전문제는 소송 대상이 될 수 없다고 주장해왔다.gm은 '올드gm'에 일어난 결정으로 인한 사건들에 대해선 파산법상의 파산보호조항(챕터 11) 에 따라 법적 책임이 소멸됐다는 입장이다. gm은 2009년 부실자산을 떠안은 '올드gm'과 우량자산 중심의 '뉴gm'으로 분할됐다. 당시 gm과 연방정부는 뉴gm이 2009년 이전에 발생한 차량결함 사고에는 법적 책임을 지지 않는다는 협약을 맺은 바 있다. gm은 뉴욕주 맨해튼 연방파산법원에 지난 2009년 7월 파산보호 신청 이전에 판매된 자사의 점화장치 결함 차량 관련 소송을 막아달라는 소송을 제기했다. 이에 대한 판결은 내년에나 이루어질 예정이며, 현재 gm에 제기된 사망, 부상, 경제적 손실에 대한 소송의 결과에 중대한 영향을 미칠 가능성이 있다.gm은 이와는 별도로 지난 8월 점화장치 결함으로 인한 피해자들을 위한 보상 프로그램을 출범시켰다. 이른바 '참사 처리의 달인'으로 통하는 켄 파인버그 변호사가 책임자로 있는 이 프로그램엔 지난 7일 기준으로 1851건의 사망과 부상에 대한 피해보상 신청이 접수됐다. 지난달 27일 기준으로 30명의 사망자와 31명의 부상자가 인정됐다. 피해보상 신청 마감시한은 당초보다 1개월 늘어난 내년 1월31일까지다. 애리조나주는 gm 차량들의 가치 하락으로 인해 소비자들이 금전적 손실을 입었다고 주장했다. 또한 메리 바라 gm 최고경영자(ceo)가 2011년 몇몇 차량 모델에서 전기 모터식 동력조향장치(eps)의 안전결함을 보고 받았다고 밝혔다. 당신 바라 ceo는 생산개발 책임을 맡은 수석 부사장이었다.19일 뉴욕증시에서 gm의 주가는 장중 31.96달러까지 하락했다가 전장 대비 0.34% 내린 32.15달러에 마무리됐다. 또한 20일엔 0.06% 하락한 32.13달러에 거래됐다. gm 주가는 지난해 12월26일 기록한 최고치 기록인 41.85달러보다 약 34% 하락한 상태다. . . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-21 12:05:33",
+        "url": "https://www.news1.kr/articles/?1965748",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "구로다 日銀 총재 '물가목표위해 추가통화완화 할 수 있다'",
+        "subtitle": "",
+        "content": "= 구로다 하루히코 일본은행(boj) 총재가 25일 2%물가상승률 목표 달성이 어려운 상황이 되면 추가 금융완화 정책을 실시할 수 있다고 밝혔다.구로다 총재는 이날 나고야에서 재계 지도자들을 만난 자리에서 '물가목표를 달성하기 위해 boj는 '행동'을 취해왔으며 앞으로도 계속 그렇게 할 것'이라고 강조했다. 그는 일본경제에 일부 어려움이 나타나고 있지만 물가목표 달성을 저해하는 리스크가 나타나면 언제라도 통화완화 정책을 추가로 실시할 것이라고 말했다. boj는 지난달 통화정책회의에서 본원통화 규모를 기존 60~70조엔에서 80조엔으로 확대했다. 이번달 통화정책회의를 마친 19일에는 찬성8, 반대 1로 지난달의 통화정책 규모를 유지하기로 결정했다고 발표했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-25 11:31:43",
+        "url": "https://www.news1.kr/articles/?1970515",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕장중]지표·실적호조에 다우 1.73%↑",
+        "subtitle": "",
+        "content": "= 뉴욕증시가 17일(현지시간) 지표와 실적 호조에 힘입어 상승세를 나타내고 있다. 제너럴일렉트릭(ge) 등 기업들의 실적이 예상을 상회하면서 글로벌 경제성장 우려와 에볼라 바이러스 문제로 롤러코스터 장세를 보였전 한 주의 마지막을 상승으로 마감할 것으로 전망되고 있다. 이날 현지시간으로 오후 12시 25분 현재 다우존스산업평균지수는 전장대비 278.46(1.73%) 오른 1만 6395.70을 기록하고 있다.스탠다드앤푸어스(s&p)500지수는 28.13(1.51%) 상승한 1890.89에 거래 중이다. 나스닥종합지수도 전장대비 60.99(1.45%) 오른 4278.38을 나타내고 있다. ◇주택·소비자심리지표 호조이날 미 상무부는 지난 9월 미국의 주택 착공 건수가 예상을 상회해 전월비 6.3%증가한 101만 7000건을 기록했다고 발표했다. 8월에 18.5%급감한 후 한달만에 증가세로 전환한 것이다. 또한 미국 톰슨-로이터/미시간대는 10월 미국의 소비자신뢰지수 잠정치가 86.4로, 직전월 기록한 최종치 84.6보다 개선됐다고 발표했다.이는 2007년 7월 이후 가장 높은 수치로, 시장 예상치는 84.3이었다.◇연준 정책위원들 연설전날 대표적인 매파로 분류됐던 제임스 블라드 세인트루이스 연방준비은행(연은) 총재가 미국의 인플레이션 전망이 약화되고 있고 유럽 등의 상황이 우려되고 있다'며 연준의 양적완화(qe) 종료 시점이 연기돼야 한다고 주장했다. 하지만 이날 비둘기파로 분류되는 에릭 로젠그렌 보스턴 연은 총재는 다른 목소리를 냈다. 이날 cnbc와의 인터뷰에서 로젠그렌 총재는 자신은 이번달 말 qe를 종료하는 쪽을 지지하며 qe연장이 발생하지는 않을 것 같다고 말했다. 그는 'qe프로그램은 실업률과 고용시장의 실질적 개선을 이룬다면 종료하기로 하고 설계된 것'이라면서 '우리가 지금 개선을 이루지 못할 것 같고 더 진행해야 할 것 같다면 qe연장을 고려하겠지만 향후 2주내로 우리의 결심을 바꿀만한 충분한 데이터를 얻지 못할 것같다'고 설명했다. 이날 자넷 옐런 미 연방준비제도이사회(연준) 의장은 보스턴 연은 주최의 행사에서 미 경제에 대해 우려하는 내용의 연설을 했다. 옐런은 이날 금융위기 이후 미 경제가 회복되는 과정에서 소득불평등이 심화되면서 빈부격차가 100년래 가장 높은 수준에 근접했다고 말했다. 옐런 의장은 이 연설에서 경제 전망이나 기준금리 인상 시기에 대해서는 언급하지 않았다. ◇ge·모건스탠리 등 실적호조에 상승이날 개장전에 3분기 실적이 시장 예상을 상회했다고 발표한 ge는 현재 3.52%오르고 있다. 자동제어기기 및 전자통신 시스템 장비업체인 허니웰인터내셔널은 3분기 실적호조와 주당순익 예상치 상향 후 3.89%상증중이다. 모건스탠리 역시 3분기 순익이 예상을 상회했다는 발표에 2.31%오르고 있다. 반면 미국의 의류 소매업체 어번 아웃피터스는 매출 하락이 지속되고 있다는 보고에 13.63%급락중이다. ◇금값하락, 유가·미국채수익률 상승, 달러(이름)편 12월 인도분 금선물은 전장대비 0.61% 내린 온스당 1233.70달러에 거래중이다.달러대비 유로화는 전장대비 0.36%내린 1.2763달러(유로화 약세)를, 달러대비 엔화는 전장대비 0.37% 오른 106.73엔(엔화 약세)을 나타냈다. 뉴욕상업거래소(nymex)에서 11월 인도분 미 서부텍사스산 원유(wti)는 전장에 비해 0.54% 오른 배럴당 83.15달러에 거래중이다.10년만기 미국채수익률은 전장대비 5bp(1bp=0.01%포인트) 오른 2.21%를 나타내고 있다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-18 01:33:48",
+        "url": "https://www.news1.kr/articles/?1909823",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "미야오 boj 정책위원, '내년 하반기 출구전략 논의될 듯'",
+        "subtitle": "",
+        "content": "= 일본은행(boj)의 미야오 류조(宮尾龍藏) 정책위원이 12일 내년 하반기에 출구전략이 논의될 가능성이 높다고 말했다. 그간 boj정책위원들이 출구전략에 대해서 말을 아낀 데 반해 이날 미야오 위원은 구체적인 논의 시기를 밝혔다. 미야오 위원은 이날 나가사키에서 기업 대표들을 만나면서 'boj가 2015년 회계년도(2016년 3월까지) 하반기에 출구전략에 대한 구제적 논의를 시작할 가능성이 높다'고 밝히며 '그 시점에 우리의 물가 목표가 달성될 가능성이 높기 때문'이라고 덧붙였다. 하지만 미야오 위원은 언제 실제로 boj가 자산매입 규모를 줄여나갈 지에 대해서는 밝히지 않았다. 미야오 위원은 지난달 31일 금융정책결정회의에서 구로다 하루히코 boj총재의 양적질적완화 추가를 찬성한 4명의 위원중 하나다. boj는 당시 이 이를 결정하며 2015년 무렵 2% 물가목표가 달성될 것이라고 내다봤다. 미야오 의원은 또한 이날 추가 양적·질적 금융완화가 버블현상을 일으킬 가능성이 있다는 일부 이코노미스트들이 우려도 일축했다. 그는 기업실적이 늘고 고용과 임금도 높아질 것이기에 균형잡힌 방식으로 2%물가목표치 달성이 이뤄질 것이라고 낙관했다.한편 일본은행의 구로다 총재는 같은날 오후 중의원 재무 금융 위원회에 참석해 양적·질적 금융 완화에 대한 출구전략에 대해 질문받자 '출구의 논의를 하는 것은 시기 상조'이라고 말했다. 또 지난달 말 결정한 추가 완화로 '출구 전략이 어렵게 된 것은 없다'라고 밝혔다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-12 16:31:33",
+        "url": "https://www.news1.kr/articles/?1951165",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "오바마, 옐런 의장 취임 첫 백악관 독대…금융 개혁 등 논의",
+        "subtitle": "",
+        "content": "= 2013년 10월9일 버락 오바마 대통령(좌)이 미연방준비제도이사회(연준) 의장으로 자넷 옐런을 지명한 직후 인사를 건네고 있다. © 로이터=뉴스1버락 오바마 미국 대통령과 자넷 옐런 미연방준비제도이사회(연준) 의장이 첫 백악관 단독 회동을 갖고 경제 현안을 논의했다.두 사람은 3일(현지시간) 백악관 내 대통령 집무실인 '오벌 오피스'(oval office)에서 만나 미국과 글로벌 경제의 전망 및 월가의 개혁 실행 방안 등을 논의했다.두 사람의 단독 회동은 옐런 의장이 지난 2월 연준 수장으로 취임한 이래 처음이다. 연준과 금융 규제기관들은 지난 2010년 제정된 도드-프랭크 금융개혁법의 세부 규정을 만드는 작업을 벌이고 있다.이 포괄적인 금융개혁법은 지난 2007~09년 금융위기 직후 만들어진 후 오바마 대통령의 서명으로 발효된 지 4년이 지났지만 아직 미완성이다.백악관에 따르면 오바마 대통령과 옐런 의장은 미국 경제와 글로벌 경제의 단기 및 장기적인 전망을 논의하고 소비자보호법에 관해서도 의견을 나눴다. 다만, 구체적으로 어떤 논의가 있었는지는 밝히지 않았다.이날 면담은 오바마 대통령의 아시아태평양경제협력체(apec)와 주요 20개국(g20) 정상회의 참석을 위한 아시아 지역 순방을 약 1주일 앞둔 시점에서 이뤄진 것이다.조시 어니스트 백악관 대변인은 이날 양자 회동에 앞서 마련된 기자회견에서 '오바마 대통령이 순방을 앞두고 옐런 의장과 회동하는 건 당연한 일이다'고 밝혔다.어니스트 대변인은 오바마 대통령이 이날 연준 이사회의 7석 가운데 2석이 공석인 문제를 거론할 예(이름)는 모른다고 말했다. 또한 오바마 대통령이 언제 이 자리를 채우는 조치를 취할 것인지에 관한 최신 소식도 없다고 덧붙였다. . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-04 08:53:44",
+        "url": "https://www.news1.kr/articles/?1936652",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美 10월 소비자신뢰지수 86.4…7년래 최고",
+        "subtitle": "",
+        "content": "= . 미국의 이번달 소비자신뢰지수가 약 7년래 최고를 기록했다.미국 톰슨-로이터/미시간대는 17일(현지시간) 10월 미국의 소비자신뢰지수 잠정치가 86.4로, 직전월 기록한 최종치 84.6보다 개선됐다고 발표했다.이는 2007년 7월 이후 가장 높은 수치로, 시장 예상치는 84.3이었다.소비자신뢰지수는 미 경제의 근간인 소비에 대한 선행지표로 금융위기 전의 미시간대 소비자신뢰지수는 평균 86.9 수준이었다.이 지수는 2007년 1월 96.9까지 올랐다가 2011년 8월에는 55.8로 떨어졌다.. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-17 23:14:23",
+        "url": "https://www.news1.kr/articles/?1909774",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "'룩셈부르크, 다국적기업 340곳과 '절세 밀약''…icij",
+        "subtitle": "",
+        "content": "= 펩시, aig, 도이체방크 등 다국적기업 340곳이 룩셈부르크 조세 당국과 비밀 계약을 체결해 세금을 탈루해온 것으로 드러났다. 국제탐사보도언론인협회(icij)는 5일(현지시간) 룩셈부르크 조세당국과 회계법인인 프라이스워터하우스쿠퍼스 간에 오고간 2만 8000페이지에 달하는 내부 기밀문서를 검토한 결과 이같은 사실이 밝혀졌다면서 이들 기업들이 수천억 달러의 수익을 세율이 낮은 룩셈부르크로 이전시켜 수십억달러의 세금을 포탈했다고 밝혔다. icij가 검토한 이 문서들은 대부분 룩셈부르크가 세금 삭감을 원하는 기업들에게 제공한 과세 규정 (이름) 2002년부터 2010년까지 총 548건에 달했다. 프라이스워터하우스쿠퍼스는 세계 최대 회계법인 중 한 곳으로, 이들 다국적 기업들에 자문을 제공했다.하지만 룩셈부르크 조세당국은 세금 관련해 어떤 밀약도 없었다고 주장하고 있다. 니콜라스 마켈 룩셈부르크 재무국장은 '룩셈부르크의 과세 시스템은 경쟁력이 있으며 비윤리적이거나 불공정한 어떤 것도 없다'고 말했다. aig. 펩시, 도이체방크는 이 사안에 대해 논평을 내놓지 않고 있다. 유럽연합(eu)은 최근 룩셈부르크 조세당국의 아마존에 대한 세금특혜를 비롯해 아일랜드와 네덜란드 등 세율이 낮은 국가들과 다국적 기업간의 불법 세금거래 의혹도 함께 조사중이다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-06 14:24:18",
+        "url": "https://www.news1.kr/articles/?1941546",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕마감]글로벌 경제우려·지표부진에 다우 1.06%↓",
+        "subtitle": "",
+        "content": "= 15일(현지시간) 미국 뉴욕증시가 글로벌 경제 둔화에 대한 우려와 미국 경제지표 부진 등으로 인해 하락했다.. . . 다우존스산업평균지수는 이날 전날보다 173.45포인트(1.06%) 내린 1만6141.74로 거래를 마쳤다.. . . . 스탠다드앤푸어스(s&p)500지수도 전날대비 15.21(0.81%) 하락한 1862.49로 마감했다.. . . . 나스닥종합지수 역시 전날보다 11.85(0.28%) 내린 4215.32로 장을 마쳤다.. . . . 글로벌 경제에 대한 우려와 미국 경제 지표 부진이 이날 증시 하락을 부추겼다.. . . . 3대 지수는 이날 장중 2%대 후반의 급락세를 보였으나 장 후반 소형주와 운송주 중심으로 반발매수세가 유입되면서 낙폭을 크게 줄였다. 다우지수의 경우 장중 한때 460포인트(2.8%) 급락하며 1만6000선이 무너지기도 했으나 이후 낙폭을 줄여 1만6000선을 지킨 채 마감했다.. . . . 유로존 경제가 디플레이션 위협에 직면하고 중국 경제가 둔화세를 보이고 있는 데 이어 이날 발표된 미국의 소매와 생산자물가, 제조업 지표도 부진한 것으로 나타났다.. . . . 미국에서 이날 3번째 에볼라 바이러스 감염자가 발생해 이에 대한 확산 우려가 고조된 것도 악재로 작용했다.. . . . ◇ 소매판매·생산자물가 하락. . . . 미국 상무부는 이날 계절 조정치를 적용한 지난달 소매판매가 전월대비 0.3% 하락했다고 밝혔다.. . . . 이는 시장 전망치인 0.1% 감소보다 낮은 수준이며 전월의 0.6% 증가를 크게 밑도는 것이다.. . . . 자동차와 휘발유가 판매 부진을 보이며 소매판매를 8개월 만에 마이너스(-) 성장으로 이끌었다.. . . . 자동차, 휘발유, 건축자재, 식품 등을 제외한 핵심 소매판매는 0.2% 감소했다. 이는 증가를 예상한 시장 전망치와 반대되는 결과다.. . . . 소매판매는 미 경제의 약 70%를 차지하는 소비 부문의 활력을 점검할 수 있는 지표다.. . . . 미국 노동부가 발표한 지난달 생산자물가(ppi)는 전월대비 0.1% 하락했다. 생산자물가가 하락한 것은 지난해 8월 이후 13개월 처음이다. 이는 시장 전망치인 0.1% 상승을 밑도는 것이다. 9월 생산자물가는 전년 동월대비로는 1.6% 상승했다. 이 역시 시장 전망치와 8월의 1.8% 상승보다 낮은 것이다.. . . . ◇ 뉴욕 제조업지수·기업재고 부진. . . . 미국 뉴욕주의 제조업지수와 기업재고도 부진했다.. . . . 미국 뉴욕 연방준비은행(연은)은 이달의 엠파이어스테이트(뉴욕주) 제조업지수가 6.2로 6개월만에 최저를 기록했다고 발표했다.. . . . 이는 지난달의 약 5년래 최고인 27.5보다 크게 낮은 수준이며, 시장 전망치인 20.80도 크게 밑도는 것이다.. . . . 뉴욕주와 뉴저지 북부, 코네티컷 남부 지역의 제조업 경기를 나타내는 이 지수는 0 (이름)면 경기 확장을, 0 (이름)면 경기 위축을 의미한다.. . . . 미 상무부는 계절 조정치를 적용한 8월 기업재고가 전월대비 0.2% 증가한 1조7500억달러(약 1863조원)를 기록했다고 밝혔다.. . . . 이는 전월의 0.4% 증가보다 낮은 것은 물론 시장 전망치인 0.3% 증가를 밑도는 것이다.. . . . 하지만 기업재고는 지난해 7월 이후 14개월 연속 증가세를 이어갔다.. . . . ◇ 연준 베이지북 '美경제 성장 지속…달러 강세 영향 없어'. . . . 한편 이날 미국 연방준비제도이사회(연준)는 미국 경제가 완만한 성장을 지속하고 있으며 달러 강세가 영향을 미치지 않고 있다고 밝혔다.. . . . 연준은 이날 베이지북을 통해 '미국 경제는 최근 보통에서 완만하게 성장했다'고 말했다.. . . . 베이지북에 따르면 고용시장은 개선되고 있고, 소비지출은 완만한 성장세를 이어갔다. 또 임금 상승은 완만한 수준을 보이고 있으며 물가 압력에는 변화가 없는 것으로 나타났다.. . . . 베이지북은 '대부분의 지역에서 고용시장이 확장세를 이어갔고, 일부 기업들은 숙련된 근로자를 찾는데 어려움을 호소했다'며 '몇몇 지역에서는 전반적인 임금 상승도 완만하게 나타나고 있다'고 말했다.. . . . 전문가들은 이날 베이지북의 경기 평가가 기존과 크게 다르지 않다고 분석했다.. . . . 베이지북은 12개 지역 연방준비은행으로부터 보고받은 자료를 토대로 만든 것으로, 오는 28일과 29일 열리는 공개시장위원회(fomc) 정례회의에서 기초 자료로 활용된다.. . . . 시장 전문가들은 연준이 이번 fomc 회의에서 150억달러 남은 자산매입 프로그램을 종료할 것으로 예상했다.. . . . ◇ 뱅크오브아메리카 급락…소형주·운송주 선전. . . . 이날 뉴욕증시에서 뱅크오브아메리카는 3분기 순익 감소로 인해 주가가 전날보다 4.6% 하락했다. 뱅크오브아메리카는 올해 3분기 순익이 1억6800만달러(약 1789원)를 기록했다고 발표했다. 이는 전년 동기의 22억9100만달러에 크게 못 미치는 수준이다. 다만 일회성 항목을 제외한 순손실은 주당 1센트를 기록, 전망치인 주당 9센트 손실보다 개선됐다.. . . . 미국 제약업체 애브비의 영국 제약사 샤이어 m&a(인수·합병)이 무산될 위기에 놓임에 따라 샤이어 주가가 급락했다. 앞서 애브비는 샤이어 인수를 재검토 중이라고 밝혔다. 이는 미국 정부가 최근 감세를 위한 인수에 제동을 걸고 나선 데 따른 것이다.. . . . 반면 소형주와 운송주는 이날 선전했다. 중소형주 중심의 러셀 2000지수는 전날보다 1.18% 상승했다.. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-16 05:28:51",
+        "url": "https://www.news1.kr/articles/?1906072",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "“中 기준금리 인하 경기촉진 효과 제한적” -wsj",
+        "subtitle": "",
+        "content": "= 중국이 경기를 촉진시키기 위해 대출 금리를 큰폭으로 인하했지만 그 효과가 제한적일 것이라고 월스트리트저널(wsj)이 24일(현지시간) 보도했다. 시중 은행들이 수익 악화를 우려해 자사의 대출금리를 낮추지 않을 것이란 이유에서다.인민은행은 지난 21일 1년 만기 예금금리를 0.25%포인트 인하한 2.75%로, 1년 만기 대출금리는 0.40%포인트 낮춘 5.60%로 각각 조정했다. 아울러 예금 금리 상한은 3.3%로 확대해 각 은행들에 금리를 설정할 수 있는 더 많은 자유를 부여했다.예금보다 대출에서 금리를 더 크게 낮춘 것은 시중 은행들이 예금고객을 유치하는 것을 지원하면서도 중소 및 민간 기업을 중심으로 대출부담을 줄여주도록 하는 것이 목적이다.하지만 은행 관계자들과 시장 전문가들은 은행들이 정부 방침을 따르는데 주저하고 있다고 말했다. 예금과 대출 금리 인하폭이 일치하지 않아 은행들이 수익 압박을 받을 수 있기 때문이다.인민은행의 기준금리는 시중은행들이 대출과 예금 금리를 정하는데 지침이 된다. 중국의 시중은행들은 대출금리는 원하는 대로 조정할 수 있지만 예금금리 결정에서는 제약이 따른다. 예금금리 상한선은 인민은행이 결정한다. 중국 국영 국신증권의 애널리스트 종젱셍은 '예대 금리 차이를 높여서 이윤을 유지하려고 할 것'이라며 '기준금리 인하는 기업들의 자금조달 비용을 낮추는데 무척 제한적인 영향을 미칠 것'이라고 말했다.중국 최대 상업은행중 하나인 중국은행(boc)의 한 관리는 기존 대출 금리는 기준금리와 연동이 돼 있기 때문에 낮춰질 것이라고 말했다. 하지만 경제 성장세 둔화로 대출 위험성이 커지고 있기 때문에 신규 대출에 대해서는 금리 변동이 없을 것이라고 말했다.인민은행의 발표 직후, 중신은행, 핑안은행, 닝보은행 등 일부 은행들은 고객유치를 위해 예금금리를 상한까지 인상했지만 대출금리에 대해선 어떤 결정도 내리지 않았다.중신은행의 한 관계자는 비대칭 금리인하 여파는 '상당히 클 것'이라며 '우리는 할 수 있는 한 예금금리를 인상했다. 하지만 대출금리에 대해서는 어떤 통보도 듣지 못했다'고 설명했다.기업들은 금리 인하가 자사에 얼마나 도움이 될지 판단을 내리지 못하고 있다. 상하이실크텍스타일의 임원 마사 타오는 회사가 내년 2월 춘절을 앞두고 직원들 월급과 보너스를 주기 위해 (이름) 금융업체로부터 10만위안(약 1810만원) 대출을 신청했는데 '금리가 너무나 높았다'고 말했다. 그는 은행들이 인민은행의 조치에 따라 금리를 낮춘다면 '은행 대출을 검토해볼 것'이라고 말했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-25 14:00:43",
+        "url": "https://www.news1.kr/articles/?1970793",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "호주 중앙銀, 사상최저 기준금리 16개월 연속 동결",
+        "subtitle": "",
+        "content": "= 호주 중앙은행(rba)이 2일 기준금리를 16개월 연속으로 동결했다. 은행측은 원자재 가격 하락과 통화 고평가라는 어려운 상황이 여전히 지속되고 있다고 설명했다. rba는 광산투자 감소와 중국의 성장 둔화 여파를 완화하기 위해 사상 최저인 2.5%로 동결했다고 밝혔다. 중국의 성장 둔화로 호주의 주요 수출품인 철광석 가격은 지난 1월 이후 50% 급락했다.글렌 스티븐스 rba 총재는 성명을 내고 '현재 여건에서 가장 신중한 자세는 금리를 유지하는 것'이라고 말했다.원자재 가격이 5년래 최저 수준으로 하락하면서 호주 경제에 대한 우려는 최근 수주 동안 확대됐다. 글로벌 투자은행(ib) 모간스탠리와 크레디트스위스, 도이체방크 등은 최근 성장 전망치를 하향 조정했다.스티븐스 총재는 또 '최근 몇개월 동안에 핵심 원자재 가격의 심대한 하락세를 감안할 때에 호주 달러는 기본적 가치에 대한 평가에서 상단을 웃돈다'며 '균형 성장을 위해서는 평가절하가 필요하다'고 지적했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-12-02 16:11:28",
+        "url": "https://www.news1.kr/articles/?1982592",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕장중] 은행주 부진·차익매물 속 보합권 '혼조세'",
+        "subtitle": "",
+        "content": "= 뉴욕증권거래소(nyse). © 로이터=뉴스1뉴욕증시가 12일(현지시간) 보합권에서 혼조세를 보이고 있다.환율조작 혐의로 글로벌 대형은행 5곳이 벌금을 부과 받은 후 금융주들이 약세를 나타내는 가운데 그동안의 상승분에 대한 차익실현 매도세가 나타나며 변동장세가 연출되고 있다.이날 현지시간으로 오후 12시25분 현재 다우존스산업평균지수는 전장대비 8.83(0.05)% 하락한 1만7606.07을 기록 중이다. 스탠다드앤푸어스(s&p) 500지수는 전장대비 1.35(0.07%) 내린 2038.33을 나타내고 있다.반면에 나스닥종합지수는 전장대비 4.96(0.11%) 상승한 4665.51을 기록하고 있다.전날 s&p지수는 올 들어 40번째 사상 최고치 종가를 기록했다. 이는 지난해의 45회보다 많은 빈도수다. 또한 5거래일 연속 상승은 지난해 3월 이후 처음이다. 다우지수 역시 6거래일째 상승을 경신해 지난 6월 이후 최장기간 랠리를 기록했다. 은행주들은 환율 조작 혐의에 대한 금융당국의 벌금 부과로 인해 입지를 잃고 있어 시장에 부정적으로 작용하고 있다.미국의 지난 9월 도매재고는 시장 전망을 약간 웃도는 것으로 나타났으나 8월 도매재고는 약간 하향 조정됨에 따라 3분기 성장엔 큰 영향을 주지 않을 것으로 보인다. 포트피트 캐피털의 킴 포리스트 증시 리서치 애널리스트는 '지금까지 시장을 억누르는 큰 악재는 없는 편이지만 시장엔 우려감이 남아 있다'며 '오늘은 쉬어가는 모양새'라고 말했다. . . . . ◇ 5개 대형銀 환율조작에 34억$ 벌금 폭탄 미국과 영국, 스위스 금융당국은 이날 글로벌 대형은행 5곳에 환율 조작 혐의로 34억달러(약 3조7200억원)에 이르는 벌금을 부과했다.당초 언론매체들은 바클레이즈를 포함해 6개 은행이 벌금을 받게 될 것이라고 보도했지만 바클레이즈는 영국금융감독청(fca)의 조사가 진행중이라는 (이름) 이날 대상에서 제외됐다.이날 영국 hsbc와 로열뱅크오브스코틀랜드(rbs), 미국 씨티그룹과 jp모간체이스, 스위스의 ubs 등 5개 은행이 합의한 이 벌금은 당초 규제기관들이 제시한 벌금에서 은행들의 조기 합의를 조건으로 30% 감축된 액수다.규제당국은 조사에서 외환트레이더들이 2013년 10월 무렵까지 (이름) 채트룸을 만들고 암호명을 이용해 고객들을 지칭하면서 고객주문 등 비밀 정보를 공유하고 환율을 조작한 혐의를 발견했다.2012년 바클레이즈가 런던 은행간 금리(리보·libor) 조작 파문을 일으킨 이후 글로벌 은행권에선 금과 은, 원유, 환율 등을 둘러싼 조작 시비가 잇따랐다.글로벌 은행들의 환율 조작 혐의에 대한 조사는 지난해 봄 fca가 시작했다. 조사가 본격화하자 주요 은행들은 트레이더들을 상대로 경쟁은행과의 메신저 통신을 금지하는 등 발 빠르게 대응했다.그 사이 30여명의 트레이더가 해고되거나 정직 당했고 이들 중 일부는 미국과 영국에서 형사 조사를 받고 있다.◇ 美 9월 도매재고 전월比 0.3% …전망상회 미국 상무부는 지난 9월 도매재고가 전월대비 0.3% 증가했다고 12일(현지시간) 발표했다.이는 0.2% 증가를 예상한 시장 전망치에 다소 웃도는 것이다. 다만, 전월(8월)의 0.6% 증가보다는 낮은 수준이다.도매재고는 국내총생산(gdp) 변화의 주요 구성 요소로, 자동차를 제외한 도매재고는 0.1% 증가했다.같은 달 도매판매는 전월보다 0.2% 증가한 것으로 나타나 이 역시 시장 예상치 0.1%를 웃돌았다.재고 소진 예상 속도는 1.19개월로 8월과 변화가 없었다.8월 도매재고는 당초 0.7% 증가에서 0.6% 증가로 하향 조정됐다.◇ 달러·금값 강세..국채수익률·유가 약세주요 6개 통화 대비 달러 가치를 나타내는 ice 달러인덱스는 전장대비 0.12% 상승한 87.82를 기록하고 있다.엔/달러 환율은 0.3572% 하락한 115.3850엔을 나타내고 있다.미국의 10년물 국채수익률은 전장대비 1bp(1bp=0.01%) 하락한 2.35%를 기록 중이다.금선물은 상승세를 보이고 있다. 12월 인도분 금선물은 0.03% 상승한 온스당 1163.10달러를 나타내고 있다.국제유가는 하락세를 보이고 있다. 서부텍사스산 원유(wti) 12월 인도분 선물은 전장보다 0.99% 하락한 배럴당 77.20달러에 거래되고 있다.◇ 메이시스·서스퀘한나 호조..bb&t 하락세백화점인 메이시스는 지난 분기 매출이 기대에 미치지 못했음에도 지난해보다는 개선된 실적을 보임에 따라 전장대비 4.6% 상승 중이다.메이시스는 지난 3분기에 2억1700만달러(주당 61센트)의 순익을 기록했다고 밝혔다. 전년 동기의 주당 47센트에서 늘어난 것으로, 월가는 주당순익 50센트를 예상했다. 다만, 같은 기간 매출은 62억달러로 1.3% 감소, 월가 전망치인 63억4000만달러를 밑돌았다.서스퀘한나 뱅크셰어스는 32.4% 급등 중이다. 이에 앞서 이 업체는 bb&t 은행을 25억달러에 인수하기로 합의했다고 밝혔다.bb&t는 전장대비 2.5% 하락 중이다.시스코 시스템즈는 장 종료 후 어닝실적을 발표할 예정이다.. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-13 03:06:25",
+        "url": "https://www.news1.kr/articles/?1951781",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "imf·美연준, ecb·boj의 추가 통화완화 격려",
+        "subtitle": "",
+        "content": "= 국제통화기금(imf)와 미국이 7일(현지시간) 유럽중앙은행(ecb)과 일본은행(boj)의 추가 통화완화 정책을 격려하면서 각국 정부들도 자국 내에서 성장을 촉진시키기 위한 조치를 취해야 한다고 강조했다.이날 크리스틴 라가르드 imf 총재는 프랑스 파리에서 중앙은행 총재들이 참석한 컨퍼런스에서 전세계 경제는 '취약하고 고르지 못하다'면서 ecb와 boj가 낮은 인플레이션과 불황과 맞서 싸우기 위해 비전통적 조치를 취한 것은 '타당하고 적절했다'고 말했다. 이날 자넷 옐런 미 연방준비제도이사회(연준) 의장은 각 정부가 재무적 부양책을 중단한 곳에서는 각 중앙은행들이 '성장을 촉진시키고 인플레이션 목표치를 달성하기 위해 비전통적 정책을 포함해 사용 가능한 모든 수단을 사용할 준비가 돼야 한다'고 말했다.전일 마리오 드라기 ecb 총재는 통화정책 회의 뒤 기자회견에서 '지나치게 장기화한 저 인플레이션 시기를 타개하기 위해 반드시 필요할 경우 ecb가 주어진 권한 하에서 추가적인 비전통적 정책을 내놓는 데 정책위원들이 만장일치로 찬성했다'고 밝혔다.이에 앞서 boj는 지난달 31일 금융정책 결정회의를 열고 연 60조~70조엔의 속도로 증가하고 있는 본원 통화(자금공급량)를 약 80조엔까지 확대하기로 했다. 이날 라구람 라잔 인도중앙은행 총재는 '추가 부양책이 정답이 될 수 있는지'는 좋은 질문이라면서도 추가 경제 개혁이 동등하게 중요하다고 의견을 피력했다.라가르드 총재는 독일이 앞으로 3년 동안 공공 인프라에 추가적으로 투자하겠다고 한 100억유로는 불충분하다고 지적하면서 재정건정성이 좋은 정부들은 성장을 촉진시키는데 보다 많은 일을 해야 한다고 강조했다.라가르드 총재는 '통화정책만이 이용가능한 유일한 조치라는 지적에 대해서 수차례 반대 입장을 보여왔다. 성장을 지지하고 활력을 불어넣기 위해서는 재정적 여지가 있는 국가들이 적극 나서야 할 뿐 아니라 통화정책과 함께 건전한 재정정책이 수반돼야 한다'고 말했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-09 13:49:39",
+        "url": "https://www.news1.kr/articles/?1945137",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕장중] 글로벌 경제 우려·부진한 지표에 '하락세'",
+        "subtitle": "",
+        "content": "(뉴욕 로이터=뉴스1) (이름) 기자= . 뉴욕증시는 15일(현지시간) 2%대의 급락세를 보이고 있다.. . . . 이날 글로벌 경제에 대한 우려가 확산된 가운데 주요 경제지표들마저 일제히 부진을 나타내 투심을 더욱 위축시키고 있다.. . . . 이날 현지시간으로 오후 1시15분 현재 다우존스산업평균지수는 전장대비 407.11(2.50%) 하락한 1만5908.08을 기록하고 있다.. . . . 스탠다드앤푸어스(s&p) 500지수도 48.83(2.60%) 내린 1828.87에 거래 중이다.. . . . 나스닥종합지수 역시 91.86(2.17%) 하락한 4135.32를 나타내고 있다.. . . . 유로존 경제가 디플레이션 위협에 직면하고 중국 경제도 둔화세가 뚜렷한 데 이어, 비교적 견실하던 미국 경제마저 불투명한 모습을 나타내고 있다. . . . . 이날 발표된 미국의 소매지표, 생산자물가지수(ppi), 뉴욕시 제조업지수, 개업재고 등이 일제히 전망을 밑돌며 부진을 나타내 투자자들의 투매를 부추키고 있다.. . . . 설상가상으로 미국에선 이날 3번째 에볼라 바이러스 감염자가 발생해 이에 대한 확산 우려가 고조되며 악재가 겹치고 있다. . . . . 크리스티나 트러스트의 스콧 아르미거 포트폴리오 매니저는 '유로존과 글로벌 경제 둔화에 대한 우려가 소매판매와 ppi에게까지 파급된 게 이날 증시에 결정타를 날리고 있다'고 말했다.. . . . . . ◇ 中 cpi·ppi 전망하회. . . . 지난달 중국의 소비자물가가 근 5년래 최저가 됐다. 또한 ppi는 31개월 연속 하락세를 나타냈다.. . . . 인플레이션 압력이 낮아 중국정부가 통화완화정책을 쓸 수 있는 여지가 커졌지만 과잉생산 우려도 제기됐다.. . . . 중국 국가통계국은 이날 9월 소비자물가지수(cpi)가 전년대비 1.6% 상승했다고 발표했다. 이는 전문가들이 예상한 1.7% 상승과 8월의 2% 상승을 하회한 수준이다.. . . . cpi 상승률이 1%대로 떨어진 것은 5개월만이다. 또한 이는 2010년 1월 1.5%를 기록한 이후 4년 8개월 만에 최저 수준이 됐다.. . . . 지난달 ppi는 전년대비 1.8% 하락해 전문가들이 예상한 1.5% 하락과 직전월(8월)의 1.2% 하락보다 낙폭이 컸다. 전월대비론 0.4% 떨어졌다.. . . . ppi는 2012년 2월 이후 31개월 연속 하락세를 이어갔다. ppi는 아시아에서 금융위기가 강타한 1997~1999년 긴 하락기를 맞은 바 있다.. . . . 전문가들은 중국 경제성장 둔화에 따른 수요 악화, 과잉생산, 원자재 가격 하락 등이 ppi 하락에 영향을 미치고 있는 것으로 분석했다.. . . . . . ◇ 소매지표·ppi 부진. . . . 이날 발표된 소매지표와 ppi 모두 부진을 나타내며 미국 경제의 전망에 대한 우려를 높였다. . . . . 미국 상무부는 계절 조정치를 적용한 지난달 소매판매가 전월대비 0.3% 하락했다고 밝혔다. 이는 시장 전망치인 0.1% 감소보다는 낮은 수준이며 전월 기록인 0.6% 증가를 크게 밑돈다.. . . . 자동차와 휘발유가 판매 부진을 보이며 소매판매를 8개월 만에 마이너스(-) 성장으로 이끌었다.. . . . 자동차, 휘발유, 건축자재, 식품 등을 제외한 핵심 소매판매는 0.2% 감소했다. 이는 증가를 예상한 시장 전망치와 반대되는 결과다.. . . . 핵심 소매판매는 국내총생산(gdp)에서 소비자들의 지출에 대한 구성 내용을 더 구체적으로 보여준다.. . . . 소매판매는 미 경제의 약 70%를 차지하는 소비 부문의 활력을 점검할 수 있는 지표로 이날 발표된 결과는 하반기 미국 경제가 둔화할 것이라는 신호다.. . . . 같은 날 미국 노동부는 지난달 ppi가 전월대비 0.1% 하락했다고 밝혔다. 시장 전망치인 1.8% 상승을 밑돌고 8월의 1.8% 상승보다 낮은 수준이다.. . . . 많은 지표들은 미국 경제의 강세를 나타내고 있음에도 미연방준비제도이사회(연준)의 정책위원들은 인플레이션이 관리목표인 2%를 밑돌고 있는 현상에 우려를 나타내고 있다.. . . . 일부 위원들은 낮은 인플레이션이 계속될 경우 연준이 내년 중반쯤으로 예상되는 기준금리 인상시기를 더 늦출 가능성도 있다고 믿는다.. . . . . . ◇ 뉴욕 제조업지수·기업재고 부진. . . . 미국 뉴욕주의 제조업지수와 기업재고도 부진했다.. . . . 미국 뉴욕 연방준비은행(연은)은 이달의 엠파이어스테이트(뉴욕주) 제조업지수가 6.2로 지난 6개월래 최저치를 기록했다고 발표했다.. . . . 이는 지난달의 약 5년래 최고치 기록인 27.5보다 크게 낮은 수준이며, 전문가 전망치인 20.80도 크게 밑도는 수준이다.. . . . 뉴욕주와 뉴저지 북부, 코네티컷 남부 지역의 제조업 경기를 나타내는 이 지수는 0 (이름)면 경기 확장을, 0 (이름)면 경기 위축을 의미한다.. . . . 미 상무부는 계절 조정치를 적용한 8월 기업재고가 전월대비 0.2% 증가한 1조7500억달러(약 1863조원)를 기록했다고 밝혔다.. . . . 이는 전문가 전망치인 0.3% 증가를 밑돌고 전월인 7월 기록인 0.4% 증가에도 미치지 못하는 수준이다.. . . . 그럼에도 기업재고는 지난해 7월 이후 14개월 연속 증가세를 이어갔다.. . . . 국내총생산(gdp)을 구성하는 핵심요소 중 하나인 기업재고 증가는 기업이 수요 증가 전망에 창고를 채우고 있다는 신호로 해석할 수 있다.. . . . . . ◇ 달러·국채 수익률·유가 하락세..금 상승세. . . . 주요 6개 통화 대비 달러 가치를 나타내는 ice 달러인덱스는 전장대비 0.85% 하락한 85.21을 기록하고 있다.. . . . 엔/달러 환율은 1.1076% 하락한 105.8650엔을 나타내고 있다. 미국의 10년물 국채 수익률은 현재 전장보다 17bp(1bp=0.01%포인트) 하락한 2.03%를 기록 중이다.. . . . 금선물은 상승세를 보이고 있다. 12월 인도분 금선물은 0.78% 오른 온스당 1243.80달러를 나타내고 있다.. . . . 국제유가는 하락세를 보이고 있다. 서부 텍사스산 원유(wti) 1월 인도분 선물은 전장보다 1.03% 내린 배럴당 80.95달러에 거래되고 있다.. . . . . . ◇ 샤이어 급락세..에브비·뱅크오브아메리카 하락세. . . . 제약사인 샤이어는 31.65% 급락 중이다. 이에 앞서 에브비는 550억달러의 인수를 재검토 중이라고 밝혔다.. . . . 이는 미국 정부가 수주 전 감세를 위한 인수에 제동을 걸고 나선 데 따른 것이다.. . . . 에비브도 1.33% 하락 중이다.. . . . 뱅크오브아메리카는 전장대비 4.9% 하락 중이다. 이에 앞서 이 업체는 3분기 영업실적이 전년 동기보다 크게 줄어든 것으로 나타났다.. . . . 이 은행은 올해 3분기 순익이 1억6800만달러(약 1789원)를 기록했다고 발표했다. 이는 전년 동기의 22억9100만달러에 크게 못 미치는 수준이다. 다만, 일회성 항목을 제외한 순손실은 주당 1센트를 기록, 전망치인 주당 9센트 손실보다 개선됐다.. . . . . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-16 15:32:59",
+        "url": "https://www.news1.kr/articles/?1906059",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "ms, 연말 겨냥 스마트워치 출시…안드로이드, ios 모두 연동",
+        "subtitle": "",
+        "content": "= . . © 로이터=뉴스1마이크로소프트(ms)가 수주 내로 스마트워치를 출시할 예정이다. 미국의 경제 전문지 포브스는 19일(현지시간)일 ms가 연말 쇼핑시즌을 겨냥해 이 제품을 출시한다고 보도했다.이 사안에 정통한 익명의 복수 소식통들에 따르면 ms의 스마트워치는 애플 ios, 구글 안드로이드 등 타사의 모바일 플랫폼과도 연동될 것으로 보인다.이 기기는 또한 타사 제품에 없는 새로운 기능을 갖추기보다는 피트니스 활동에 특화될 예정이다. 사용자의 걸음걸이 횟수, 심장(이름), 칼로리 소모량 등을 관리하는 방식이다.또한 배터리의 수명은 일반적인 사용 방식을 기준으로 48시간 (이름)다. 이는 지난해 9월 출시된 삼성전자의 스마트워치인 갤럭시 기어나 지난달 출시된 모토롤라 모토360이 하루 1번 충전해야 했던 것에 비해 크게 개선된 성능이다.포브스에 따르면 고객들은 추수감사절, 크리스마스, 연말연시 기간 중 이 제품을 상점에서 구매할 수 있게 될 예정이다. ms는 이 보도에 대해 논평을 거부했다.스마트워치 시장은 삼성전자가 선도해왔으나 최근 애플까지 '애플워치'로 가세했다. 건강과 몸매관리 체크 기능을 갖춘 애플워치는 지난달 9일 공개됐고 내년 초부터 판매에 들어갈 예정이다. 각 업체들의 스마트워치 출시가 늘어나면서 착용형(웨어러블용) 디스플레이 산업도 급성장이 예상된다. ihs 테크놀로지에 따르면 웨어러블용 디스플레이 시장은 올해 약 3억달러(약 3190억원)에 이를 전망이다. 이 시장은 내년엔 6억달러, 2016년은 12억달러, 2017년에는 22억달러 등 향후 4년 간 연간 80% (이름) 성장률을 기록, 4배 이상 커질 것으로 보인다. 또한 2023년에는 시장 규모가 227억달러에 달할 것으로 예상된다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-20 10:32:47",
+        "url": "https://www.news1.kr/articles/?1911371",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕장중]급락 후 불안심리로 다우 0.14%↓",
+        "subtitle": "",
+        "content": "= 뉴욕증시는 13일(현지시간) 하락세를 나타내고 있다. 지난주 글로벌 경제 성장 우려에 급락한 후 불안감이 지속되고 있는 것으로 풀이된다. 이날 현지시간으로 오전 11시 46분 현재 다우존스산업평균지수는 전장대비 23.44(0.14%) 하락한 1만 6520.66을 기록하고 있다.스탠다드앤푸어스(s&p500)지수는 5.36(0.28%) 밀린 1900.77에 거래 중이다. 나스닥종합지수는 전장대비 5.13(0.12%) 내린 4271.11을 나타내고 있다. ◇추가하락 불안심리 vs. 실적발표 희망이날은 미국의 공휴일인 ‘콜럼버스 데이’를 맞아 채권시장이 휴장하고 주요 경제지표 발표도 없어 시장을 움직일 수 있는 소재가 별로 없다.하지만 지난주 뉴욕증시가 주요 기술적지지선 아래로 떨어진 후 시장에는 추가 하락에 대한 불안심리가 강해졌다. s&p500지수는 9월 18일 기록한 최고점에서 5%이상 하락한 상태다. 록웰 글로벌의 피터 카르딜로 이코노미스트는 '시장이 내일 쏟아져 나오는 어닝발표를 앞두고 관망세를 보이면서 기술적 지지선 아래로 떨어지고 있다'고 말했다.이번 주에는 7개의 다우존스 지수 편입 기업 및 s&p500 지수 편입 기업의 10%가 성적표를 내놓는다. 대형 금융사들 중에서는 jp모간체이스와 웰스파고, 씨티그룹이 오는 14일, boa와 아메리칸익스프레스, 블랙록이 15일 실적을 발표한다. 골드만삭스와 모간스탠리는 각각 16일과 17일 성적표를 내놓는다.기술주 중에서는 인텔이 14일, 이베이와 구글은 각각 15일과 16일 실적을 공개한다.◇테크미라·jc페니 상승…cpr하락에볼라 바이러스 치료 실험약 제조사인 테크미라는 4.17% 상승중이다. 지난주에 에볼라 바이러스 공포가 극에 달하면서 126%급등했던 방호복 제조사인 레이크랜드 인더스트리스는 8.51%상승중이다. 화물운송업체인 csx는 전날 월스트리트저널(wsj)이 이 기업과의 협력(tie-up)을 캐나다태평양철도(cpr)가 제안했는 소식에 9.95%급등중이다. cpr은 미 증시에서 0.59%상승중이다. jc페니는 개장전 6%올랐다가 현재 상승폭을 일부 반납하고 2.99%상승을 기록중이다. 이날의 상승은 홈디포의 임원인 마빈 엘리슨이 현재의 마이론 울먼 ceo를 대신해 내년부터 jc페니를 이끌게 될 것이라고 발표한 데 따른 것이다. ◇금값상승, 유가하락, 미국채수익률 보합, 달러약세한편 12월 인도분 금선물은 전장대비 0.72% 상승한 온스당 1230.50달러에 거래중이다.달러대비 유로화는 전장에서 기록한 1.2626달러에서 소폭 오른 1.2680달러(유로화 강세)를, 달러대비 엔화는 전장대비 0.17%내린 107.37엔(엔화 강세)을 나타냈다. 뉴욕상업거래소(nymex)에서 11월 인도분 미 서부텍사스산 원유(wti)는 전장에 비해 1.25% 내린 배럴당 84.74달러에 거래중이다.10년만기 미국채수익률은 전장과 거의 변화없는 2.29%를 나타내고 있다. 10년만기 미국채 수이률은 지난주에만 13bp(1bp=0.01%포인트) 내렸으며 9월 18일의 최고점대비 34bp하락했다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-14 01:11:40",
+        "url": "https://www.news1.kr/articles/?1901875",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "소프트뱅크-드림웍스 인수협상 무산된듯…제휴 협력 가능",
+        "subtitle": "",
+        "content": "= 손정의 소프트뱅크 회장일본 이동통신사 소프트뱅크의 드림웍스 애니메이션 skg 인수가 사실상 무산된 것으로 보인다고 월스트리트저널(wsj) 등의 외신이 29일(현지시간) 소식통들을 인용해 보도했다. 인수가 무산된 구체적인 이유는 밝혀지지 않았다. 소식통들은 다시 논의가 시작될 가능성과 인수합병이 아니라도 콘텐츠 제휴 등 다른 형태의 협력을 할 가능성 등을 제기했다. 당초 소프트뱅크가 드림웍스에 제안했던 인수가격은 총 34억달러(약 3조5513억원)인 것으로 전해졌다. 이는 주당 32달러 수준으로 26일 종가에 43%의 프리미엄을 붙인 가격이다.지난주말 소프트뱅크와 드림웍스의 인수논의가 보도된 후 29일 드림웍스의 주가는 전장대비 26% 상승마감했다. 하지만 협상 무산 소식이 들리자 이날 시간외 거래에서 9%떨어지고 있다. 시장 조사기관 b.라일리의 에릭 울드 애널리스트는 “평가 절하되고 있긴 하지만 드림웍스의 콘텐츠와 캐릭터 프렌차이즈에 소프트뱅크가 매력을 느낄 것”이라면서 양사가 콘텐츠 제휴에 나설 가능성이 높다고 전망했다.드림웍스는 '슈렉'과 '마다가스카르' 등과 같은 애니메이션 역사상 최고 흥행 작품을 제작해왔다. 하지만 최근에 내놓은 '가디언즈' '터보' '천재강아지 미스터 피바디'는 흥행이 부진하면서 실적이 크게 악화됐다. 지난 2분기(4~6월) 드림웍스는 1540만달러 순손실을 기록했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-30 08:38:34",
+        "url": "https://www.news1.kr/articles/?1881311",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[인도마감]석탄 시장 개방 소식에 상승",
+        "subtitle": "",
+        "content": "= 21일(현지시간) 인도 증시는 상승세를 보였다. 인도 정부가 40년 동안 국영기업이 독점하던 석탄시장을 민간기업에 개방하기로 했다는 소식이 호재로 작용한 것으로 풀이된다.이날 뭄바이증시 센섹스지수는 전일대비 145.80포인트(0.55%) 상승한 2만6575.65를 기록했다. 전날 인도증시는 지난 주말 나온 주의회 선거 결과와 나렌드라 모디 총리가 내놓은 첫 경제개혁 조치 등에 시장이 환호하며 1% 넘게 상승했다. 인도에서 지난 5월 선출된 나렌드라 모디 정권은 최근 노동 분야 개혁 등 경제 개혁조치를 줄줄이 발표하고 있다. 소날 바르마 노무라홀딩스 이코노미스트는 '연료 문제는 인도 경제의 큰 우려사항이었다'며 '석탄 채굴 시장 개방은 개혁의 판도를 바꿀 중요한 조치'라고 말했다.석탄시장 민간 개방 소식에 국영 석탄채굴기업인 콜인디아는 1.73% 급락했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-21 23:04:37",
+        "url": "https://www.news1.kr/articles/?1915086",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "은값 급락에 아메리칸이글 은화판매량 사상최대 돌파",
+        "subtitle": "",
+        "content": "= 아메리칸이글 은화수요가 급증해 지난해의 사상최고 기록을 깼다고 미 조폐국이 9일(현지시간) 밝혔다. 아메리칸이글 은화는 올해들어 현재까지 사상최고인 4290만개가 팔렸다. 아메리칸이글 은화는 이달 8일에 49만 5500개가 팔리면서 지난해의 사상최고 판매량인 4270만개 기록을 돌파했다. 지난달 아메리칸 이글 은화는 343만 온스가 팔려 판매량이 40.8%줄어들었다. 이는 은화수요 급증으로 은화가 동나자 판매를 일시 중지한 데 따른 것이다. 최근 은값은 5년래 최저인 온스당 15달러로 급락했다. 이에 아메리칸 이글 은화 수요가 몰리면서 조폐국은 물량이 부족하다면서 잠시 판매를 중단했다가 지난달 17일 판매를 재개했다. 최근 몇년간의 금값하락으로 아메리칸이글 금화 역시 인기를 끌고 있다. 하지만 은은 온스당 가격이 금의 70분의 1이기 때문에 소액투자로 비교적 많은 양을 보유할 수 있기에 투자붐이 더욱 거세다. 이에 판매를 재개하자 다시 판매량이 급증하면서 지난해 최고 기록을 돌파한 것이다. 조폐국은 2014년 발행한 은화가 이달 15일 무렵 동이 날 것이며 내년 1월 12일에 2015년 아메리칸 이글 주화 판매를 시작할 것이라고 밝혔다. 아메리칸 이글 주화는 공인된 판매상들이 조폐국으로부터 다량 구매후 대중에게 판매하는 식으로 공급된다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-12-10 08:24:11",
+        "url": "https://www.news1.kr/articles/?1994267",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "중국도 '수입 늘리자'…기업 (이름)출 확대· 세금지원",
+        "subtitle": "",
+        "content": "= 중국정부가 수입 증대를 위해 수입기업에 대한 (이름)출 확대와 특정 수입품에 대한 세제 지원을 포함한 일련의 조치를 내놨다. 소비중심의 경제모델로 변모하는 게 목표인 데다가 수입저조로 인한 국내 수요 약세가 경제성장을 막는다는 판단에서다. 중국 국무원은 6일(현지시간) 공식 웹사이트에 게재한 성명을 통해 금융기관들이 기업들의 하이테크 장비나 부품 수입에 대한 대출을 확대하도록 독려하고 과세기관에는 과학연구에 사용되는 상품의 수입에 대한 특혜관세적용 여부를 검토하도록 할 예(이름)고 발표했다. 정부는 또한 상하이 자유무역지대에서의 일부 자동차의 수입 제한을 완화토록 하는 시험프로그램 시행과, 아울러 수입 절차를 용이하게 하기 위해 수입 농산품 검역 관련 합의도 속도를 내기로 했다.인민은행과 중국 상업부 등 정부 기관은 이와 관련한 상세한 내용을 곧 발표할 예정이다. 올해 중국의 수출 성장세는 해외 수요 증가로 견조했지만 수입은 국내수요 부진으로 올해 거의 약세를 나타내왔다. 중국의 무역흑자는 무역 상대국과의 마찰의 원인이 돼왔다. 9월에 중국은 310억 달러의 무역흑자를, 8월엔 거의 500억달러의 흑자를 거뒀다. 9월에 수출은 전년비로 15.3%늘었고 8월에는 9.4%증가한 반면 수입은 9월에 전년동월대비 7.0%올랐고 8월에는 2.4%감소했다. 전문가들은 10월에는 무역 흑자폭이 줄어들 것으로 보고 있다. 수입은 지난달 전년비로 5%증가하고 수출은 10%증가할 것으로 전망된다. 중국의 10월 무역수지는 8일 발표된다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-06 17:20:39",
+        "url": "https://www.news1.kr/articles/?1942071",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "알리바바, 첫 거래가 92.70달러…공모가의 36% 상회",
+        "subtitle": "",
+        "content": "= 중국의 최대 전자상거래업체인 알리바바가 19일(현지시간)일 뉴욕증시에서 92.70달러에 첫 거래를 시작했다. 이는 주당 공모가인 68달러보다 36% 높은 수준이며 시장 전망치인 80~83달러보다 높은 거래가다. 전날 알리바바는 주당 공모가격을 68달러로 확정했다. 이 경우 알리바바의 시가총액은 1680억달러에 달한다.일리바바는 현지시간 기준 오후 12시02분 현재 38.24% 상승한 94달러를 기록 중이다. 알리바바는 이보다 앞서 장중 한때 99달러까지 치솟기도 했다.시장은 알리바바가 이번 ipo를 통해 얼마나 많은 자금을 조달하느냐에 관심을 집중하고 있다.당초 시장은 68달러 공모가를 기준으로 218억달러를 조달할 것으로 내다봤다. 이는 미국 기술기업 중 최대였던 2012년의 페이스북(160억달러)은 물론, 미국 최대 ipo인 2008년 비자카드의 196억달러를 넘어선 수준이다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-20 01:30:41",
+        "url": "https://www.news1.kr/articles/?1865868",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "독일, 너마저 리세션?…수출 둔화· 고에너지 비용",
+        "subtitle": "",
+        "content": "= 유로존 경제 모범생 독일이 아시아 시장 둔화와 고에너지 비용 등으로 리세션(경기침체)에 돌입할 수 있다는 우려가 대두됐다.미 경제전문 인터넷 사이트 '비즈니스 인사이더'는 7일(현지시간) 전날 발표된 독일 산업생산이 예상외로 저조하다면서 유럽 경제규모 1위 독일의 경기가 이러한 (이름) 침체될 우려가 있다고 보도했다.최근 독일 경제 지표들은 잇따른 부진을 나타내고 있다.독일 경제부는 지난 8월 산업생산이 전월 대비 4.0% 감소했다고 밝혔다. 이는 시장 전망치인 1.5% 감소를 크게 밑돈 것으로, 2009년1월 이후 가장 큰 감소폭이다.앞서 발표된 독일의 8월 공장수주 역시 전월 대비 5.7% 감소해 2009년 이래 최대 감소폭을 나타냈다.이에 더해 imf는 이날 세번째로 세계 국가들의 경제전망치를 하향(이름)면서 특히 독일을 크게 하향조정해 독일 경제에 대한 우려를 키웠다. 유로존 올해 전망치가 0.3%p, 프랑스가 0.4%p 하향된 데 비해 독일은 0.5%p나 하향된 것이다. imf는 이날 경제 성장 전망 보고서에서 독일이 우크라이나 사태와 수출 수요 약화로 2008년 이후 세번째 리세션에 빠질 위험에 처해 있다면서 하향조정의 배경을 설명했다.비즈니스 인사이더는 지난 2분기부터 독일 국내총생산(gdp)이 위축되기 시작했다며 독일의 경기침체, 최소한 제조업 기반 위축이 어제 오늘 일이 아니라고 지적했다. 그리고 이렇게 된 (이름) 독일이 유로존의 일부로서 유로존 경제침체에서 완전히 자유로울 수 없는 점, 아시아 시장 성장 둔화로 인한 수출 부진, 앙겔라 메르켈 총리의 에너지 유턴 정책을 들었다. 원자력 에너지 의존에서 탈피하자는 이 정책에 우크라이나 사태까지 가세해 독일의 에너지 비용을 높였다는 것이다. 독일 경제는 유로존 경기 침체에도 수년간 괄목할 만한 성장을 보였지만 장기간 유로존 경제가 호전되지 못하면서 결국 유로존 다른 국가들에 수출하는 독일경제 또한 타격을 피할 수 없게 됐다. 아울러 일부 전문가들은 올 봄부터 아시아 시장의 경기 둔화로 독일 자본재 생산이 부진해질 것으로 내다봤는데 이 예상이 맞아떨어져 독일의 8월 자본재생산은 8.8%나 급락했다는 것이다. 삭소 뱅크의 스틴 제이콥슨 최고투자책임자(cio)는 지난 5월에 cnbc와의 인터뷰에서 아시아 경기 둔화로 올해 2분기부터 독일 수출기업이 실질적인 타격을 받을 것이라고 보았다. 글로벌 금융위기 동안 아시아의 자본재 수입 확대의 가장 큰 수혜자가 독일이었는데 아시아 시장의 둔화와 중국의 리밸런싱(생산 중심의 양적 성장에서 소비 중심의 질적 성장으로의 변화)이 나타나고 있어 독일의 타격이 우려된다는 것이다. imf는 중국의 경제성장률이 향후 2년간 7%를 밑돌아 1990년대 초반 이후 가장 낮을 것이라는 비관적 전망을 내놓아 독일경제가 침체에 빠진다면 회복도 쉽지 않을 전망이다. 또한 비즈니스 인사이더는 메르켈 총리의 에너지 정책 실패도 독일 경제 침체 가능성의 한 원인으로 작용하고 있다고 분석했다. 일본의 2011년 후쿠시마 원전 사고 이후 독일은 원자력 에너지에서 탈피하고자 노력해 현재 독일의 석탄사용량은 수년래 가장 높은 수준이 됐다. 하지만 이 정책은 가뜩이나 높은 독일의 에너지 비용을 상승시켰고 러시아에 대한 에너지 의존도를 높여 독일의 에너지 집약적 산업에 타격을 가했다는 분석이다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-08 16:11:07",
+        "url": "https://www.news1.kr/articles/?1895054",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[인도마감] 외국인 투자자 매입에 힘입어 '사상 최고치'",
+        "subtitle": "",
+        "content": "= 인도 증권거래소. © 로이터=뉴스1인도증시는 12일(현지시간) 상승으로 마감했다. 글로벌 증시가 호조를 보인 가운데 외국인 투자자들의 집중 매입에 힘입어 자동차주, 일용소비재주(fmcg), 소비자내구재주 등이 선전하며 양대 지수를 사상 최고치로 끌어올렸다. 뭄바이증시 선섹스지수는 전장대비 98.84(0.35%) 상승한 2만8008.90에 마감했다. 2만8000대 (이름) 종가 기록은 사상 처음이다.니프티지수도 20.65(0.25%) 오른 8383.30에 장을 마쳤다. 역시 사상 최고치 기록을 경신했다. 정부의 내각 개편에 따른 경제 개혁에 대한 기대감이 계속 이어지고 최근 우량주 기업들의 어닝실적이 호조를 나타낸 점도 시장에 긍정적으로 작용했다.또한 이날 장 종료 후 발표될 인플레이션 등 경제지표가 양호한 모양새를 나타낼 것이란 기대감도 투자심리를 부양했다.부문별로는 자동차주가 전장대비 1.18% 상승해 가장 호조를 나타냈다. 이어서 은행주가 1.12%, fmcg가 0.96%, 소비자내구재주가 0.55% 올랐다.종목별로는 악시스 뱅크가 전장대비 3.03% 올라 가장 상승폭이 컸다. 이어서 바자즈자동차가 2.10%, icici 뱅크가 1.33%, hdfc 은행이 1.12%, sbi 은행이 0.17% 올랐다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-12 21:06:29",
+        "url": "https://www.news1.kr/articles/?1951668",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "글로벌 둔화 불구 홀로 3.9% 성장…美 대세 성장세 진입?",
+        "subtitle": "",
+        "content": "= 글로벌 성장세 둔화에도 불구하고 미국 경제가 지난 3분기에 4% 가까이 성장했다. 2~3분기 성장률은 약 10년래 최고 수준이다. 하지만 견조가 성장세가 지속가능한지에 대해서는 의심의 시선이 많다. 미 상무부는 지난 3분기에 국내총생산(gdp)이 연율 기준으로 3.9% 성장했다고 25일(현지시간) 밝혔다. 속보치 3.5%에서 0.4% 포인트 증가한 수치이며, 시장 전망치 3.3%도 웃돈다.특히, 2분기와 3분기 성장률 합은 4.25%로 6개월 기준으로 하면 2003년 하반기 이후 최고치이다. 또 지난 5개 분기 중에서 한파로 마이너스 성장세를 보인 올 1분기를 제외하면 3.5%나 그 (이름) 성장세를 보였다.무디스 애널리틱스의 이코노미스트 스코트 호이트는 월스트리트저널(wsj)에 '미국 경제 전망이 개선되고 있다'며 '미국과 대다수 다른 국가 간 분기가 두드러진다'고 평했다.지난 분기 성장률은 최근 흐름에서 눈에 띄는 것은 아니지만 다른 선진국을 압도한다. 일본 경제는 지난 분기에 리세션(경기후퇴)에 진입했고 유로존(유로화사용 18개국)은 마이너스 성장을 겨우 비켜갔다. 중국과 브라질 등 신흥국 경제가 성장세가 둔화되고 있다. 성장세 상향 (이름) 미 경제에서 차지하는 비중이 약 70%에 달하는 개인 소비가 2.2% 증가로 당초 수치(1.8%)보다 개선됐고 기업 재고는 예상보다 줄지 않은 점에서 비롯됐다. 최근 휘발류 가격 하락으로 기업들은 연말 연휴 시즌에 소비가 개선될 것으로 기대하고 있다.새로운 건물과 기계, 연구개발에 쓰는 기업들의 지출도 늘어났다. 주거용 건물과 보수에 쓰는 비용은 지난해 말에 감소세를 보였지만 올 2분기와 3분기에는 연속으로 증가했다.하지만 지난 분기 성장세를 면밀히 조사해보면 미국 경제가 단단한 기반에 올라섰다고 하기에는 힘들다. 수출 증가율은 애초 발표한 7.8%에서 4.9%로 낮춰졌다. 글로벌 성장 둔화가 미국 재화와 서비스 수요에 영향을 미치고 있다는 의미이다. 무역은 성장률에 0.78% 포인트 기여했지만 앞으로는 마이너스 요인이 될 수 있다는 의미이다.최근 수년 동안에는 마이너스 요인이었던 정부 지출도 2분기 연속으로 성장률에 기여했다. 특히 국방비는 이례적으로 16% 증가했다. 미 정부가 국방비 예산을 축소시키려는 움직임을 감안할 때 이 부문은 마이너스로 돌아설 가능성이 있다.시장 전문가들은 올 4분기 성장률 전망치로 약 2%를 내놓고 있다. 매크로이코노믹스 어드바이저스는 4분기에 성장률이 2.2%를 기록할 것으로 내다봤다. 이날 함께 발표된 미국 컨퍼런스보드의 11월 소비자 기대지수는 7년 최고치였던 전달의 94.5에서 88.7로 하락했다. 이는 전문가 전망치인 96을 밑도는 결과다.뉴욕 소재 미즈호 증권의 선임 이노코미스트 스티븐 리치우토는 파이낸셜타임스(ft)에 '성장률 지표를 보면 악재와 호재가 섞여 있다. 물론, 수치는 예상보다 높았지만 4분기 전망은 건설적이지 않다'고 지적했다.. 스턴애지의 이코노미스트 린드세이 피에그자는 wsj에 '노동시장을 포함해 미국 경제가 탄탄한 기반에 올라섰다고 말하기에는 추가적인 증거가 필요하다'고 진단했다.. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-26 12:07:57",
+        "url": "https://www.news1.kr/articles/?1972600",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕개장전]스코틀랜드 투표 관망세에 지수선물 소폭 상승",
+        "subtitle": "",
+        "content": "= 18일(현지시간) 미국 뉴욕증시 지수선물이 소폭 상승하고 있다. 이날 시행되는 스코틀랜드 독립 투표에 투자자들이 관망세를 취하는 것으로 풀이된다. 뉴욕시간 오전 6시 59분 현재 다우존스지수 선물은 전일대비 0.328% 오른 1만7125를 기록 중이다. s&p500지수 선물은 0.396% 상승한 2001.60을, 나스닥지수 선물은 0.394% 뛴 4081.25를 나타내고 있다.이날 현지시간 오전 7시부터 오후 10시까지 독립 여부를 결정하는 주민투표가 스코틀랜드 전역에서 실시된다. 한국시간으로는 18일 오후 3시부터 19일 오전 6시까지다. 공식개표 결과는 현지시간으로는 19일 오전 6시, 한국시간으로는 같은날 오후 2시쯤 윤곽이 드러날 전망이다. 독립 찬성이 다수로 집계되면 스코틀랜드는 잉글랜드와 통합된지 307년 만에 분리독립하게 된다.세계 최대 (이름) 상거래기업인 알리바바는 이날 공모가를 확정한 뒤 하루 뒤인 19일 뉴욕증권거래소(nyse)에서 거래를 시작한다. 알리바바는 현재 잠정 공모가를 66-68달러로 정해 놓았다. 재닛 옐런 frb 의장은 워싱턴dc에서 ‘중하위 소득 가정을 중심으로 한 자산 형성의 중요성’을 주제로 한 강연을 한다. 기준금리 인상 등 미래 통화 정책에 대한 단서가 나올지 주목된다.이날 발표되는 주요 경제지표로 8월 주택착공, 주간 신규실업수당 청구건수 등이 있다. 8월 주택착공 건수는 전월보다 5만건 증가한 109만건이 예상되며 지난주 실업수당 청구건수는 30만5000건을 기록해 직전주보다 1만건이 줄어들 것으로 예상된다.이 시각 현재 엔/달러 환율은 전일대비 0.25% 상승(엔화값 하락)한 108.65엔을, 달러/유로 환율은 0.13% 상승(유로값 상승)한 1.2882달러를 기록하고 있다.뉴욕상업거래소(nymex) 전자거래에서 서부텍사스산원유(wti) 12월 인도분 선물 가격은 전일대비 0.02% 상승한 배럴당 92.52달러를 기록하고 있다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-18 20:36:12",
+        "url": "https://www.news1.kr/articles/?1864087",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕장중] fomc 발표 앞두고 관망 속 '약보합세'",
+        "subtitle": "",
+        "content": "= 뉴욕증권거래소(nyse). © 로이터=뉴스1뉴욕증시는 29일(현지시간) 보합권에서 하락세를 보이고 있다.투자자들이 미연방준비제도이사회(연준)의 공개시장위원회(fomc) 정례 통화정책회의 결과에 대한 발표를 기다리는 가운데 3대 지수가 아래로 밀리고 있다.이날 현지시간으로 오후 12시15분 현재 다우존스산업평균지수는 전장대비 5.75(0.03%) 하락한 1만7000.00을 기록하고 있다.스탠다드앤푸어스(s&p) 500지수도 전장대비 1.84(0.09%) 내린 1983.21에 거래 중이다.나스닥종합지수 역시 전장대비 23.29(0.51%) 하락한 4541.01을 나타내고 있다.투자자들은 현지시간 오후 2시(한국시간 30일 오전 3시)에 공개되는 연준 fomc의 정책 성명에 주목하고 있다.이날 이틀 일정의 fomc 회의를 마치는 연준은 별도의 기자회견이나 경제 전망을 발표하지는 않는 가운데 이번 성명에서 그동안 시사해온 대로 양적완화의 완전한 종료를 발표할 것으로 예상하고 있다.이 경우 다음 달부터 연준은 자산매입을 중단하게 된다. 지난 2012년 9월부터 국채와 모기지담보증권(mbs)을 매입해온지 37개월 만이다.다만, 전문가들은 초저금리를 '상당기간'(for a considerable time) 유지한다는 선제적 안내(포워드 가이던스)는 그대로 유지될 것으로 보고 있다.하지만 달러 강세와 글로벌 성장 둔화, 유가 하락 등으로 인플레이션은 하방 압력을 받고 있는 상황이어서 연준이 이를 얼마나 반영할 것인지도 관심사다.오크부르크 인베스트먼트의 피터 잰코프스키스 공동 최고투자책임자(cio)는 '투자자들이 모두 fomc 발표를 기다리며 관망 중이다'며 '양적완화 축소, 선제적 지침, 기준금리 인상시기 암시 외엔 크게 예상되는 게 없다'고 말했다.◇ 국채 수익률·유가 상승세..달러·금값 하락세주요 6개 통화 대비 달러 가치를 나타내는 ice 달러인덱스는 전장대비 0.23% 하락한 85.28을 기록하고 있다.엔/달러 환율은 0.0653% 하락한 108.1050엔을 나타내고 있다. 미국의 10년물 국채 수익률은 현재 전장보다 2bp(1bp=0.01%포인트) 상승한 2.32%를 기록 중이다.금선물은 하락세를 보이고 있다. 12월 인도분 금선물은 0.54% 내린 온스당 1222.80달러를 나타내고 있다.국제유가는 상승세를 보이고 있다. 서부 텍사스산 원유(wti) 1월 인도분 선물은 전장보다 1.36% 오른 배럴당 82.54달러에 거래되고 있다.◇ 페북·오비탈·허시·듀폰 부진페이스북은 전날 3분기 실적은 양호했으나 4분기엔 매출 증가세가 둔화하고 내년엔 영업비용이 늘어날 것이라고 밝힘에 따라 전장대비 6.15% 하락세를 나타내고 있다.미국의 민간 우주항공업체인 오비탈 사이언스는 16.047% 급락 중이다. 이에 앞서 이 업체가 제작한 상업용 안타레스 로켓이 버지니아주 미항공우주국(나사) 월포스 비행장에서 우주정거장(iss)을 향해 발사된 지 6초 만에 폭발했다.이 폭발로 로켓에 탑재됐던 무인 우주화물선 시그너스호와 iss에 체류 중인 우주인들에게 전달될 식량 및 우주실험 재료 등 총 2.2t의 화물은 고스란히 사라졌다. 발사 시설 피해액을 제외한 로켓과 화물 비용만 2억달러(약 2095억원) 이상으로 추산된다.초콜릿 제조업체인 허시는 전장대비 2.8% 하락 중이다. 이에 앞서 이 업체는 유제품 가격 증가, 달러 강세, 매출 둔화 등으로 인해 올해 영업이익과 매출 전망치를 하향 조정했다.화학제품업체인 듀폰은 전장대비 2.0% 하락 중이다. 이에 앞서 이 업체는 행동주의 투자자 넬슨 펠츠의 사업부 분리 촉구에 맞서 사업부들을 유지하는 게 경쟁력이 있다고 밝혔다. . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-30 02:00:11",
+        "url": "https://www.news1.kr/articles/?1929263",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "드라기 총재, 필요시 ecb 국채매입 시사",
+        "subtitle": "",
+        "content": "= 유럽중앙은행(ecb)이 필요시 전면적 양적완화(qe)에 나설 수 있음을 시사했다. 6일(현지시간) 마리오 드라기 ecb 총재는 독일 프랑크푸르트에서 이날 열린 정례 통화정책회의 후 기자회견에서 이 같은 의지를 밝혔다.그는 “지나치게 장기화한 저 인플레이션 시기를 타개하기 위해 반드시 필요할 경우 ecb가 주어진 권한 하에서 추가적인 비전통적 정책을 내놓는 데 정책위원들이 만장일치로 찬성했다”고 밝혔다. ecb는 유로존(유로화 사용 18개국) 경기 부양을 위해 커버드 본드 매입을 개시했으며 자산유동화증권(abs) 매입을 위한 주관사도 선정했다고 최근 밝힌 바 있다. 드라기 총재는 이와 같은 ecb의 추가 부양책에 대해 우리(ecb) 대차대조표 상에 상당한 영향을 줄 것이라고 강조했다. 드라기 총재는 이날 유로존 물가상승률이 오는 2015~2016년간 꾸준히 상승할 것이지만 향후 몇 개월 내에는 현 수준에 머물 것으로 예상했다.유로존(유로화 사용 18개국)의 소비자물가지수(cpi) 상승률은 10월 0.4%로 전월 대비 0.1%포인트 높아진 상태다. 그러나 이는 ecb의 목표치인 2%를 여전히 크게 하회한 수준이다. ecb는 이날 통화정책회의를 통해 시장 예상대로 사상 최저치인 현행 기준금리를 묶어 두기로 했다. ecb는 기준금리를 0.05%로 동결했다. 시중은행이 맡기는 하루짜리 예치금리도 현행과 같은 마이너스(-) 0.20%로, 한계대출금리는 0.30%로 각각 유지했다. 이는 모두 블룸버그가 집계한 전문가 예상에 부합한 결과다. 전문가들은 ecb가 2개월 전 기준금리를 인하하면서 새로운 사상 최저치까지 금리를 끌어내렸기 때문에 빠른 시일 내 금리 변동은 없을 것으로 내다봤다.ecb는 지난 9월 기준금리를 0.15%에서 0.1%포인트 내렸다. 또 -0.10%였던 예치금리와 0.40%를 유지했던 한계대출금리도 각각 0.1%포인트 씩 낮췄다. 이로써 ecb는 당시 통화정책회의에서 지난 6월에 이어 3개월 만에 기준금리를 다시 0.1%포인트 인하하게 됐다. ecb의 기준금리는 사상 최저, 사실상 '제로'(0) 수준 이다.그러나 ecb가 이런 조치에 그치는 것이 아니라 국채매입으로 대표되는 전면적 qe에 나설 수 있다는 관측은 지속적으로 제기되고 있다. 또 일각에서는 ecb의 회사채 매입 가능성도 점쳐지고 있다. 드라기 총재는 그간 유로존 디플레이션 위험이 높아질 경우 국채 매입에 나설 수 있다고 거듭 시사해 왔다. 그러나 유로존 최대 경제대국인 독일의 반대에 직면해 있다. 대규모 국채매입은 지나친 물가 상승을 유발하고 유로존 각국이 구조개혁을 통해 근본적 체질개선에 나설 필요성을 약화시킨다는 것이 독일의 반대 이유다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-07 07:19:54",
+        "url": "https://www.news1.kr/articles/?1942534",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕마감]ecb 정책실망·고용지표 호조에 ‘혼조’",
+        "subtitle": "",
+        "content": "= . 2일(현지시간) 뉴욕증시는 유럽중앙은행(ecb)의 부양책에 대한 실망과 고용지표 호조 등으로 인해 혼조세를 나타냈다. 이날 다우존스산업지수는 전일보다 3.66포인트, 0.02% 내린 1만6801.05로 거래를 마쳤다. 반면 나스닥지수는 8.11포인트, 0.18% 오른 4430.19로 마감했다. s&p500지수는 0.01포인트(0.00%) 상승한 1946.17로 장을 마쳤다. 이날 증시는 개장 초 유럽중앙은행(ecb)의 부양책에 대한 실망감으로 하락세를 지속했으나 이후 반발 매수세가 유입되면서 상승세로 돌아서는 등 등락을 거듭했다.이날 발표된 ecb의 부양책은 기대에 못 미치면서 투심을 위축시켰다. 그러나 미국의 실업수당 청구건수가 예상보다 하락하는 등 고용 관련지표가 호조를 보임에 따라 저가 매수세가 유입됐고 결국 혼조세로 마감했다.시장은 이날 3일 발표되는 9월 고용지표를 예의주시하는 모습을 보였다.◇ecb, 이달 중 자산매입 시작…최소 2년 지속유럽중앙은행(ecb)은 경기 부양을 위해 이달부터 최소 2년 동안 자산매입을 실시하기로 했다.마리오 드라기 ecb 총재는 이날 통화정책회의 후 가진 기자회견에서 ecb가 이달 하반기에 커버드본드를, 올해 4분기에 자산유동화증권(abs)을 매입하기 시작할 예(이름)고 밝혔다.드라기 총재는 ecb의 자산매입 프로그램이 최소 2년 동안 지속될 것이라고 설명했다.그는 ecb 위원 (이름) 필요할 경우 경기 부양을 위한 추가 조치를 실시한다는 데 만장일치로 합의했다고 말했다.이날 ecb는 정례 통화정책회의 결과 기준금리를 현행 0.05%로 동결했다. 시중은행이 ecb에 돈을 맡길 때 적용하는 예치금리도 -0.20%로, 하루짜리 초단기 한계대출 금리 역시 0.30%로 유지했다.ecb는 지난달 경기부양 조치의 일환으로 기준금리를 0.1%포인트 내리고 예치금리와 한계대출 금리도 각각 0.1%포인트씩 인하한 바 있다.그러나 ecb의 이같은 조치에 시장은 실망스럽다는 반응을 보였다.삭소 뱅크의 피터 간리 주식전략책임자는 '드라기 총재는 시장이 원한 대형 발표를 내놓지 않았다'며 '부진한 경제 지표에 투자심리는 이미 하향세로 기울었고 디플레이션 압력이 커질 가능성도 보이고 있다. 시장은 드라기의 발언을 부정적으로 받아들이고 있다'고 말했다.유로존의 물가상승률은 0.3% 수준으로, ecb의 목표치인 2%를 크게 밑돌고 있다.◇실업수당 청구 예상 밖 감소…고용시장 개선세 확인미국의 지난주 신규 실업수당 청구건수는 예상 밖의 감소세를 나타내 고용시장이 개선되고 있음을 보여줬다.미국 노동부는 지난달 27일까지 주간 신규 실업수당 청구건수가 한 주 전보다 8000건 줄어든 28만7000건으로 집계됐다고 밝혔다. 시장 전문가들은 29만7000건으로 늘어날 것이라고 예상했다.변동성을 줄이면서 고용시장의 장기 추세를 보여주는 4주 이동평균 신규 실업수당 청구건수 역시 지난주에 29만4750건으로 이전 주의 29만9000건보다 4250건 감소했다.특히 지난달 20일까지의 주간 실업보험 연속 수급 신청자 수는 한 주 만에 4만5000건 감소한 240만건을 기록했다. 이는 지난 2006년 6월 이래 최저다.이에 시장 전문가들은 3일 발표될 9월 고용지표도 개선세를 보일 것으로 기대하고 있다. 전문가들은 미국의 9월 비농업부분 고용자수가 21만5000명 증가했을 것으로 전망했다.◇ 美 제조업지표, 부진이날 발표된 미국의 제조업 지표는 부진한 것으로 나타났다.미국 상무부는 지난 8월 제조업수주가 10.1% 감소했다고 밝혔다. 이는 전월의 10.5% 증가에서 감소세로 전환한 것으로, 시장 전문가들이 예상한 -9.5%보다도 감소폭이 컸다.특히 지난 7월 22.5% 증가했던 내구재 주문은 한 달 만에 18.4% 감소로 돌아섰다.국방 부문을 제외한 신규 주문은 10.3%, 운송 부문을 제외한 신규 주문은 0.1% 감소했다. 반면 비국방 자본재 주문은 오히려 0.4% 증가했다.◇ 트위터·테슬라 '급등'..알코아 '하락'이날 뉴욕증시에서 트위터 주가는 jp모건체이스의 투자의견 상향으로 인해 3.58% 상승했다.테슬라 모터스는 신차 개발에 대한 기대감으로 4.65% 급등했다.반면 알루미늄 생산업체 알코아 주가는 2.17% 내렸고, 석유 시추업체 네이버스 인더스트리는 2.98% 하락했다.◇ 유럽 증시, 큰 폭 하락마감유럽 주요 증시는 이날 큰 폭으로 하락 마감했다. 유럽중앙은행(ecb)의 통화정책회의 결과가 시장의 기대에 미치지 못했기 때문인 것으로 풀이된다.이날 영국 ftse100 지수는 1.69% 하락한 6446.39로 거래를 마쳤다.프랑스 cac40 지수는 2.81% 내린 4242.67로, 독일 dax30 지수는 1.99% 떨어진 9195.68로 각각 장을 마쳤다.범유럽권 지수인 스톡스 유럽600지수는 2.25% 하락한 332.55를 기록했다.한편 이날 뉴욕상업거래소(nymex)에서 서부텍사스산 원유(wti) 11월 인도분 선물가격은 54센트 오른 배럴당 91.27달러에 거래됐다.12월 인도분 금 선물가격은 뉴욕상업거래소(nymex)에서 40센트 내린 온스당 1215.10달러에 체결됐다.. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-03 07:32:10",
+        "url": "https://www.news1.kr/articles/?1887737",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[도쿄마감]엔화 약세에 닛케이 7년 來 최고치",
+        "subtitle": "",
+        "content": "= 일본 증시는 25일 상승 마감했다.이날 증시는 엔화가 약세를 보인 가운데 투자심리가 개선되며 7년만에 최고치를 기록했다.닛케이225지수는 전거래일 대비 206.69(1.28%) 오른 1만6374.14를 기록하며 마감했다. 2007년 11월 이후 최고치다. 토픽스지수는 20.25(1.53%) 상승한 1346.43에 장을 마쳤다.엔화는 밤사이 해외 외환시장에서부터 약세를 나타내 도쿄 외환시장에서 엔/달러 환율은 109엔 전반대를 유지했다.엔/달러 환율은 오후 3시46분 현재 전거래일대비 0.599% 상승한 109.19~109.20엔에 거래 중이다.종목별로는 엔화 약세에 수출 관련주가 호조를 나타내 도요타자동차가 2% 오르고 미쓰비시자동차가 4% 상승했다.한편 지난 1월 거래를 처음 시작한 jpx-닛케(이름)400은 전거래일대비 1.6% 상승한 1만2246.68을 기록했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-25 16:15:50",
+        "url": "https://www.news1.kr/articles/?1875240",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[도쿄마감]엔화약세 힘입어 닛케이 0.5%↑",
+        "subtitle": "",
+        "content": "= . 일본 도쿄 증시가 29일 상승세로 마감했다. 아베 신조(安倍晋三) 일본 총리가 29일 오후 중참 양원 본회의에서 경제가 여전히 최우선 순위라고 밝힌 후 엔화 가치가 급격히 떨어진 것이 호재로 작용한 것으로 풀이된다.. . 이날 닛케이225지수는 0.5% 뛴 1만6310.64엔으로 장을 마쳤다. 토픽스지수는 0.4% 상승한 1337.30엔에 마감했다.. . 엔/달러 환율은 이날 109엔 후반을 넘어서며 6년1개월래 최고치를 기록했다.. . 아베 총리는 이날 '디플레이션 탈피를 목표로 경제를 최우선으로 하는 정책을 꾸려가겠다'고 강조하며 다만 '소비세 인상이 일본 경제에 미치는 영향을 지켜봐야 한다'고 단서를 덧붙였다. 니혼게이자이신문은 엔화 약세에 대해 '아베 총리의 디플레이션 탈피 결의 표명이 금융완화 조치의 장기화를 연상시켰을 가능성이 있다'고 진단했다.. . 이날 오후 3시 29분 현재 도쿄 외환시장에서 엔/달러 환율은 109.61엔에 거래돼 전날 109.29엔보다 상승(엔화가치 하락)했다. 엔/달러 환율은 장중 109.72엔까지 올라 2008년 8월 이후 6년 1개월 만에 최고치를 기록했다.. . 다음날에는 지난 4월 소비세 인상의 여파를 알아볼 수 있는 8월 소매판매와 산업생산이 발표된다.. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-29 17:11:43",
+        "url": "https://www.news1.kr/articles/?1880657",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "이란, opec회의서 사우디 감산 설득 예정",
+        "subtitle": "",
+        "content": "= . 이란이 이번주 열릴 석유수출국기구(opec) 회의에서 사우디아라비아의 석유 생산감축을 설득할 것으로 보인다고 이란의 메르 통신이 23일(현지시간) 이란 석유장관의 tv인터뷰를 인용해 보도했다. 메르통신은 '이란의 비잔 남다르 장게네 석유장관은 이번주 오스트리아 빈 opec회의에서 석유생산량과 공급량을 감축하도록 알리 알 나이미 사우디 석유장관을 설득할 예정'이라고 보도했다. 이란 국영 이르나(irna) 통신에 따르면 이란은 경제제재가 끝나면 석유수출을 증가시킬 계획이다. 이란은 일부 석유수출국이 이란의 경제를 약화시키기 위해 고의로 생산량을 높인 것이 최근의 유가급락의 원인 중 하나라고 보고 있다. opec는 27일 석유생산량을 결정하는 회의를 가질 예정이며 일부 산유국은 유가하락을 막기 위해 생산량 감축을 결정하자고 요구하고 있다. 북해산 브렌트유는 생산량증가와 수요감소로 6월 이후 30%가량 가격이 하락해 현재 배럴당 80달러선에 머물고 있다. opec회의에서 감산결정이 나올 가능성은 현재로선 불확실하다. 세계최대 석유수출국인 사우디가 감산이나 유지 혹은 증가 쪽을 선택할지 결정하지 못했기 때문이다.. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-24 08:59:09",
+        "url": "https://www.news1.kr/articles/?1967973",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "알리바바, 싱글데이에 10조원 사상최대 매출",
+        "subtitle": "",
+        "content": "= . 중국 최대 전자상거래업체인 중국 알리바바가 11일(현지시간) 싱글데이(중국명 '광군제'(光棍節))에 90억 달러가 넘는 역대 최대 매출을 기록했다.이날 알리바바는 싱글데이 당일 매출이 총 571억위안(약93억달러·약 10조2000억원)으로 집계됐다고 밝혔다. 이는 시장조사업체 idc가 추산한 500억위안을 웃돈 것으로 사상 최대 수준이다.주문건수로는 총 2억7800만건으로 이는 알리바바의 일간 배송 물량인 1700만건을 크게 웃돌았다. 이중 모바일 결제가 차지한 비중은 43%로 집계됐다. 알리바바는 다음 3~5일 사이에 2억 6000만건의 물품배송이 이뤄져야 한다고 말했다.앞서 알리바바는 싱글데이 개장 75초 만에 1억위안 매출을 올렸고, 2분 만에 10억위안 규모의 물건을 판매했다. 지난해에 매출액 10억위안 달성에 6분이 소요됐던 것을 고려하면 매우 빠른 속도다. 이어 38분 만에 매출액 100억 위안(1조7800억 원)을 넘었고, 오후 1시31분에 362억위안 어치를 팔아 이미 전년 전체 매출액을 돌파했다.중국에서는 11월11일을 솔로를 의미하는 숫자 '1'이 4개나 겹쳤다는 데서 착안해 '광군제(이성친구나 애인이 없는 사람을 위한 축제)' 또는 '솽스이(雙十一)'로 부른다. 이 날을 기념하는 20,30대가 증가하자 상인들이 '홀로 빈방을 지키지 말고 물건을 사면서 외로움을 달래라'고 부추기며 할인 판매를 하기 시작했다.싱글데이는 미국의 대표적 쇼핑 시즌인 블랙프라이데이의 매출액을 능가한다. idc에 따르면 지난해 알리바바의 싱글데이 매출은 57억5000만달러였다. 이는 미국 추수감사절 직후 11월 넷째주 금요일인 블랙프라이데이와 블랙프라이데이 다음주 월요일인 사이버먼데이 양일간 매출인 29억달러(지난해)의 두 배 규모다.특히 알리바바가 2009년부터 싱글데이에 대대적 할인행사를 벌이면서 알리바바의 싱글데이 매출은 천문학적인 속도로 급증, 지난 2009년부터 2013년까지 5740%의 신장률을 기록했다.올해는 알리바바 뿐만 아니라 (이름)쇼핑 업계 경쟁자인 징둥상청, 중국 최대 가전유통업체 쑤닝, 궈메이 등도 다양한 판촉 전략으로 싱글데이 할인행사에 뛰어들어 더욱 경쟁이 치열했다.. . . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-12 07:31:18",
+        "url": "https://www.news1.kr/articles/?1949836",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "글로벌 환율전쟁 '암운'…日이어 유럽, 中 마저 나서면 韓은?",
+        "subtitle": "",
+        "content": "= . . . 글로벌 환율전쟁 '암운'이 짙어지고 있다. 일본은행(boj)의 금융완화로 촉발된 엔화 약세로 중국과 한국 등 아시아 주요국과 유럽의 수출 경쟁력이 상대적으로 저하돼 시장 개입의 압박에 직면할 것으로 예상되기 때문이다. 특히 한국은 주요 선진국의 '돈 폭탄'에 뚜렷한 대응책이 미비해 사면 초가의 위기상황이 우려된다.boj는 지난달 31일 추가 금융완화는 성장촉진과 물가상승이 목적이라고 설명했지만 구체적인 작동방식은 디플레이션을 전세계 다른 곳으로 보내는 것과 다르지 않다. 모간스탠리의 한스 레데커 애널리스트는 텔레그라프에 일본은 디플레이션 압박을 아시아 다른 국가로 보내고 있다고 진단하며 '(일본과 수출 경쟁국인) 한국에서는 수많은 실적 경고가 나오고 있다'고 전했다.웨스트팩의 선임 환율 전략가 션 캘로우는 cnbc에 '환율전쟁의 최대 격전장은 한국과 일본이다. 양국간 대응에는 주목해야 한다. 한국과 일본은 수많은 영역에서 경쟁하고 있기 때문에 원화와 엔화 간 환율은 무척 민감하다'고 진단했다.boj가 연 60조~70조엔의 속도로 증가하고 있는 본원 통화(자금공급량)를 약 80조엔까지 확대한다고 밝힌 직후 엔/달러 환율은 109엔대에서 7년래 최고치인 112엔대까지 치솟았다. 아베 신조(安倍晋三) 일본 총리의 경기부양책 '아베노믹스'가 처음 소개된 2012년 가을 이후로 보면 엔화는 달러 대비 약 30% 평가절하됐다.일본은 경제 2인자 자리를 중국에 내주긴 했지만 글로벌 경제(gdp)에서 차지하는 비중은 8%이며 제조업 상품의 공급국으로서는 훨씬 큰 위상을 점하고 있다. 엔화가 약세가 되면 일본산 자동차와 가전제품의 가격 경쟁력은 높아지고 다른 국가는 그만큼 경쟁력이 저하된다. 유의미한 저하는 실적부진과 일자리 감소로 이어져 해당국에선 정치적 대응의 압박이 고조될 수밖에 없다.이 같은 양상은 이미 나타났다. 한국은행은 지난달에 기준금리를 인하했고 국회에서는 추가 대응의 압박을 받고 있다. 뉴질랜드 중앙은행 통화 강세에 대해 좀처럼 하지 않는 경고 신호를 보냈으며 체코와 스웨덴, 이스라엘 중앙은행에서는 미국과 유로존(유로화 사용 18개국), 일본, 영국, 스위스가 수년 동안 묶여 있는 것과 같은 '제로(0)' 수준의 금리 정책을 쓰고 있다.모뉴멘트증권의 마크 오스트왈드 애널리스트는 텔레그라프에 '엔/달러 환율이 120엔까지 치솟으면 아시아 전역에서 비명이 나올 것'이라고 지적했다. 한국 정부와 통화 당국은 엔화 평가절하에 따른 타격에 우려의 목소리를 꾸준히 내왔다. 지난달 말에 (이름) 대통령은 한국 경제와 기업이 직면하고 있는 세가지 주요 리스크로 성장 둔화, 낮은 인플레이션, 엔화 약세를 들었다.. 한국에선 엔화 약세로 경기 부진의 늪에 빠질 수 있다는 우려에 추가 기준금리 인하 가능성이 높다. (이름) 노무라증권 이코노미스트는 지난달 31일 리포트를 통해 '앞으로 수개월 내에 한국은행은 기준금리를 1.75%로 25bp(bp=0.01%) 낮출 것'으로 전망했다. boj가 2013년 4월 금융완화를 시작한 이후 엔화는 원화에 대해 약 20% 평가절하됐다. 중국 위안화는 지난 여름 이후 미 달러에 대해 꾸준히 강세를 보였다. 이로 인해 지난 6월 말 이후 위안화는 엔화에 대해 12.5%, 유로화에 대해 11% 평가절상됐다. 소시에테제네랄의 알버트 에드왈즈는 '중국은 통화약세를 위한 해외 채권 매입을 지금은 중단했지만 경제에서 디플레이션 조짐이 보이고 있다'고 진단했다. 에드왈즈는 이어 '중국 인플레이션이 1%를 밑돌면 평가절하에 나설 수밖에 없다. 통화전쟁은 항상 이 같은 방식으로 진행되며 디플레이션 물결이 아시아로부터 전세계로 확산될 수 있다'고 우려했다. 중국의 지난 9월 소비자물가지수(cpi)는 전년 동기 대비 1.6% 상승했다. 이는 4년 8개월래 최저이다.유로존도 마찬가지이다. 이미 디플레이션 위험으로 마리오 드라기 유럽중앙은행(ecb) 총재는 채권 매입을 시작했고 이로 인해 유로화는 약세를 보이고 있다. 전면적 양적완화(qe)는 독일의 완강한 반대로 인해 추진되지 않고 있지만 프랑스와 이탈리아 등은 qe를 주장하고 있다. 일본과 중국의 디플레이션이 수입되면 유럽 내 갈등은 악화될 수밖에 없다. 오는 6일 열리는 ecb의 통화회의에서는 드라기 총재가 보다 비둘기파적인 입장을 보일 것으로 예상된다.미국의 경우, 달러 강세의 고통을 당분간은 받아들일 수 있지만 기한이 없을 수는 없다. 스탠리 피셔 연방준비제도이사회(연준) 부의장은 최근 달러 강세에 따른 경기 둔화 여파에 대해 우려의 목소리를 냈다. 연준은 내년 봄이나 여름쯤에 기준금리 인상에 나설 것으로 관측되지만 전세계가 디플레이션에 해외에 보내는데 매진하면 미국은 통화긴축 과정을 늦추거나 중단할 수밖에 없다.월스트리트저널(wsj)은 선진국 주요국들은 지난 2년 동안 일본의 조치에 대해 앙갚음을 하는 방식의 직접적 대응은 하지 않았지만 앞으로 구두개입하거나 행동에 나서는 것은 시간 문제라고 지적했다. 그러면서 이에 따른 결과는 디플레이션과 성장 둔화의 글로벌 확산이라고 꼬집었다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-03 15:38:30",
+        "url": "https://www.news1.kr/articles/?1935628",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[중국마감] 금융주 호조에 상하이 2.31%",
+        "subtitle": "",
+        "content": "= 중국 증시는 16일 계속되는 금융주 호조의 여파로 상승 마감했다.상하이종합지수는 전거래일대비 2.31% 상승한 3021.52로 마감했으며 상하이선전 csi300지수 역시 2.68% 오른 3303.40에 장을 마쳤다.두 지수는 모두 2011년 4월 이후 최고치를 기록했으며 상하(이름)의 경우 12월 9일 이후 다시 심리적 저항선인 3000선을 돌파했다.종목별로는 중신증권과 창장증권이 각각 10.01%와 10.0% 급등하고 중국은행이 3.04% 올라 전반적인 증시 상승을 주도했다.기술기업들로 구성된 중국판 나스닥 차이넥스트종합지수는 전거래일대비 0.63% 하락한 1784.76을 기록했다.반면 홍콩증시에서 항셍지수는 전거래일대비 1.55% 하락한 2만2670.50에 장을 마쳤으며 항셍차이나기업지수는 0.68% 내린 1만1136.90에 거래됐다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-12-16 18:12:40",
+        "url": "https://www.news1.kr/articles/?2004606",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "나이지리아, 유가급락 치명타에 내년 성장률 0.9%p 하향",
+        "subtitle": "",
+        "content": "= 나이지리아가 글로벌 유가급락때문에 내년 경제성장 전망을 기존의 6.4%에서 5.5%로 하향했다. 나이지리아 재무장관은 17일(현지시간) 의회에 제출한 내년 예산안에서 이같이 성장전망을 하향 조정했다고 밝혔다. 예산안 규모도 배럴당 77.50달러 유가를 기준으로 수립된 올해 예산안에 비해 규모가 대폭 줄었다. 유가가 하루가 다르게 급락한 탓에 내년 예산안은 여러차례 수정되다가 배럴당 65달러 유가를 가정한 230억달러 규모의 예산안으로 최종 마무리됐다.원유관련 산업은 나이지리아 국내총생산(gdp)의 약 15%를 점한다. 하지만 재정수입으로 원유에 크게 의존하는 비정상적인 구조 때문에 나이지리아에 미치는 유가급락의 파장은 다른 나라에 비해 더욱 크다. 바클레이스가 12월 초에 내놓은 보고서에 따르면 나이지리아의 전체 수출액에서 원유와 천연가스가 차지하는 비중은 95%에 달하며 재정수익은 70%를 담당한다. 유가가 1달러씩 떨어질 때마다 나이지리아의 연간 원유 매출액은 7억 달러가 증발하게 돼 몇달새 반토막난 유가는 나이지리아 경제에 심대한 충격을 가할수밖에 없다. 나이지리아 재무장관은 '이 예산안을 작성하는 것이 매우 어려웠다'면서 '이 예산안의 초점은 경제 다변화로, 나이지리아가 원유수출에 의존하는 국가가 아니며 국민들도 이제 그런 식으로 생각하길 바란다'고 말했다. 설명대로 이 예산안엔 세율 인상 등 비석유수입을 최대로 증대하는 방안들이 담겼다. 유가급락은 나이지리아 화폐인 나이라에도 영향을 미치고 있다. 이날 달러 대비 나이라화 환율은 전장대비 3.6%하락한 187.10나이라로 사상최고(나이라 가치하락)를 기록했다. 유가 급락은 올해초 검은 대륙의 가장 유망한 투자처로 떠오른 나이지리아의 지위도 뒤흔들어버렸다. 올해 초 상당수의 유럽과 미국 기업들은 나이지리아를 프런티어시장 중에서 가장 유력한 나라로 보고 투자 계획을 밝히기도 했다. 이같은 투자 러시에 힘입어 나이지리아는 올 봄에 국내총생산(gdp)이 남아프리카공화국을 추월하며 아프리카 최대 경제국이라는 타이틀을 거머쥐었다. 그후 이슬람 과격단체인 보코하람의 테러로 투자자들의 이탈이 우려되다가 이제 유가급락이 나이지리아 경제에 치명타를 주게 됐다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-12-18 17:00:28",
+        "url": "https://www.news1.kr/articles/?2008394",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "소니 '전자기기에 역량 집중 3년내 부문매출 70% 증가할 것'",
+        "subtitle": "",
+        "content": "= 적자경영에 허덕이는 일본 전자업체 소니가 향후 3년안에 전자기기부문의 매출이 70%, 즉 1조 5000억엔 규모 증가하도록 하겠다고 발표했다. 스마트폰 등 잘 안되는 부문보다 잘나가는 전자기기 부문에 역량을 집중하겠다는 전략으로 풀이됐다.소니는 25일 전자기기 사업부문 전망에 관한 투자자 컨퍼런스에서 이같이 밝히며 그간 실적저하로 마음고생한 투자자들을 안심시켰다. 지난달 발표된 소니의 2분기(7~9월) 순손실은 1360억엔으로 전년동기의 193억엔 순손실보다는 악화됐지만 시장전망치인 1930억엔을 대폭 하회했다. 이는 (이름) 센서 등의 영상·음향관련 장비, 게임기 등의 판매 호조에 힘입은 것으로 그간의 구조(이름) 빛을 발하기 시작한다는 희망을 시장에 안겨줬다. 하지만 스마트폰인 엑스페리아의 매출 저조는 여전히 소니의 실적에 부담으로 작용하고 있다. 소니는 이날 컨퍼런스에서 스마트폰 부문의 매출목표를 제시하지 않았으며 내년 3월에 지침을 발표할 예(이름)고 덧붙였다. 지난주엔 엔터네인먼트 부문 투자자 컨퍼런스를 열었으며 이 자리에서 소니는 영화와 tv프로그램 매출을 향후 3년간 33%올리겠다고 발표했다. 전자부문 매출 증가 계획 발표 후 소니 주가는 도쿄 증시에서 오후 1시 반 현재 6%가까이 오르고 있다. 한편 이날 니혼게이자이신문은 소니가 지난 2007년부터 8년 동(이름) 이어온 국제축구연맹(fifa) 주요 스폰서 자리를 내놨다고 보도했다. 피파와 2005년 4월 총 330억엔(약 3112억원)에 주요 스폰서 계약을 맺었지만 이역시 현재 진행중인 대규모 구조조정 및 전자부문 집중 전략의 일환으로 계약을 연장하지 않기로 했다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-25 14:22:37",
+        "url": "https://www.news1.kr/articles/?1970831",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "루블화, 금리 대폭인상 '극약처방'에도 추락…70루블 돌파",
+        "subtitle": "",
+        "content": "= 러시아 루블화 가치가 최초로 달러당 70루블을 돌파했다. 통화 급락을 막기 위해 러시아 중앙은행이 기준금리를 17%까지 끌어올렸지만 반짝 효과를 보이는데 그쳤다.모스크바 현지시간 기준 16일 오후 3시 8분 루블/달러는 전일대비 16.3% 상승한 76.72루블을 기록 중이다(루블화 약세). 앞서 기준금리 인상에 통화 가치는 10.8% 폭등하기도 했으나 이내 방향을 바꾸면서 낙폭을 급속히 확대했다. 러 시아 중앙은행은 긴급 통화정책회의를 통해 기준금리를 기존 10.5%에서 17%로 6.5%포인트 인상했다. 1998년 러시아의 디폴트(채무불이행) 사태 이후 가장 큰 인상폭이다. 중앙은행은 루블화 절하 리스크를 억제하기 위해 이번 금리 인상을 단행했다고 밝혔지만 효과는 채 하루을 넘기지 못했다. 올해만 여섯 번 금리를 올린 러시아 중앙은행은 루블화 방어를 위해 여러 차례 시중에 유동성을 투입했지만 효과는 미미했다. 올해 들어 중앙은행이 유동성 공급에 사용한 자금은 800억달러가 넘는다. 러시아 외환보유고는 4160억달러를 기록해 5년래 최저 수준으로 떨어졌다.다른 러시아 금융시장도 악재가 지속되고 있다. 달러화로 거래되는 rts지수는 17% 이상 하락하며 2009년 3월 이후 최저로 떨어졌다. 러시아 10년물 국채 수익률은 2%포인트 이상 올라 사상 처음으로 15%대에 도달했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-12-16 21:34:39",
+        "url": "https://www.news1.kr/articles/?2004752",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "中, 신용카드 시장 '개방 확대'…비자 등 '반사이익'",
+        "subtitle": "",
+        "content": "= 중국정부가 29일(현지시간) 신용카드 결제 독점을 완화하고 비자나 마스타 등 외국계기업의 시장참여를 허용할 계획이라고 월스트리트저널(wsj)이 보도했다. 중국 국무원은 이날 저녁 웹사이트에 성명을 게재해 '자격 요건을 갖춘 국내외 기업들은 은행 카드-결제 청산 사업체 설립을 신청할 수 있다'고 밝혔다. 현재 중국 신용카드 결제 시장은 국영기업 중국은련(中???, 유니온페이)이 독점하고 있다. 국무원은 이같은 조치가 중국 금융부문 개방 노력의 일환이라고 밝혔다. 하지만 이를 위한 일(이름) 상세한 내용은 성명에 담기지 않아 개방속도나 규모 등은 아직 불투명하다. 2012년 세계무역기구(wto)가 중국의 신용카드 결제 시스템이 미국 기업에 대해 차별적이라고 말한 후 중국정부는 신용카드 결제시장을 개혁·개방할 것이라고 약속한 바 있다. 이 소식 후 비자는 뉴욕증시에서 4.12%, 마스타카드는 2.08%올랐다. 아메리칸익스프레스는 0.37%상승했다. 소비중심의 경제구조로 전환중인 중국시장에서 신용카드 결제 시장은 막대한 성장 잠재력을 가진 것으로 평가되고 있다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-30 09:14:14",
+        "url": "https://www.news1.kr/articles/?1929541",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[중국마감]경기부양 기대에 금융주 등 강세…상하이 0.58%↑",
+        "subtitle": "",
+        "content": "= 중국 증시가 3일 추가 부양 기대감에 금융 및 부동산주가 강세를 나타내 상승 마감했다.이날 상하이종합지수는 전거래일대비 0.58% 상승한 2779.53으로 마감했으며 상하이선전 csi300지수 역시 1.49% 오른 2967.55에 장을 마쳤다.증시는 중국 정부가 금융업과 부동산부문에 대해 추가 부양에 나설 것이라는 기대감이 형성된 가운데 중국민생은행과 창장증권이 각각 4.2%와 4.8% 오르고 대형 부동산개발기업 베이징완퉁부동산이 10.07% 상승해 전반적인 상승을 이끌었다.기술기업들로 구성된 중국판 나스닥 차이넥스트종합지수는 전거래일대비 1.58% 상승한 1777.41을 기록했다.이날 발표된 11월 서비스업 경기지수는 전기와 비교해 소폭 개선됐지만 경제 성장세가 둔화하고 있다는 우려를 누그러뜨리지는 못할 것으로 시장 전문가들은 봤다. 중국 정부의 비제조업(서비스업) 구매관리자지수(pmi)는 53.9로 전월 53.8에서 소폭 개선됐다. 민간조사 기관인 hsbc/마르키트가 발표한 지난달 비제조업 pmi도 53.0으로 전월 52.9에서 소폭 상승했다. pmi 지수가 50(이름)면 '경기 확장'을 미만이면 '경기 위축'을 의미한다.서비스업의 경기 개선은 제조업 상황과 대조를 이룬다. 앞서 이번주에 나온 제조업 pmi 수치들은 최소 6개월래 최저치를 기록했다. 이로 인해 중국 당국이 추가적으로 재정 및 통화 완화책을 발표할 것이란 기대가 높아진 상태이다. 홍콩 소재 rbs의 이코노미스트 루이스 쿠이스 이코노미스트는 '상항이 개선되기보다는 악화되고 있다'며 '내년 1분기에 대출금리가 5.25%로 한차례 더 낮춰질 것'이라고 전망했다.한편 홍콩증시에서 항셍지수는 전거래일대비 0.95% 하락한 2만3428.62에 장을 마쳤으며 항셍차이나기업지수는 0.59% 하락한 1만1060.21에 거래됐다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-12-03 18:52:50",
+        "url": "https://www.news1.kr/articles/?1985014",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[도쿄마감]中 지표부진에 투심위축…닛케이 0.37% ↓",
+        "subtitle": "",
+        "content": "= 일본 증시는 23일 하락 마감했다.증시는 이날 발표된 중국의 제조업 구매관리자지수(pmi)가 소폭 상승에 그친것과 관련해 글로벌 성장 둔화 우려가 제기되며 하락했다.닛케이225지수는 전거래일 대비 56.81(0.37%) 떨어진 1만5138.96으로 마감했으며 토픽스지수 역시 4.07(0.33%) 하락한 1232.34로 장을 마쳤다.hsbc와 마킷은 이날 중국의 10월 제조업 pmi 잠정치가 50.4를 기록했다고 발표했다. 이는 시장 전망치이자 직전월 수치인 50.2를 소폭 상회한 것이었으나 투자자들의 글로벌 성장 둔화에 대한 불안감을 잠재우지는 못했다.hsbc의 취훙빈(屈宏斌) 수석 이코노미스트는 '이번달에 제조업 부문이 꾸준히 개선된 것으로 보이지만 수요가 불충분하다는 신호가 지속해서 나타나고 있다'고 말했다.종목별로는 일본의 에어백 제조업체 타카타가 불량 에어백과 관련 미국에서 780여만대의 차량에 대한 리콜을 실시하기로 한 것이 알려지며 6.2% 급락해 전반적인 증시 하락에 영향을 미쳤다.엔화는 이날 등락을 거듭하며 전반적인 약세를 나타냈으나 장중반 이후 강세를 보여 증시 하락을 막지 못했다.엔/달러 환율은 오후 3시58분 현재 전거래일대비 0.318% 상승한 107.29~107.32엔에 거래 중이다.한편 지난 1월 거래를 처음 시작한 jpx-닛케(이름)400은 전거래일대비 0.33% 하락한 1만1212.87을 기록했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-23 16:36:35",
+        "url": "https://www.news1.kr/articles/?1918793",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[인도마감] 4일 연속 하락세…선섹스 2%↓",
+        "subtitle": "",
+        "content": "= 인도증시가 4일 연속 떨어졌다. 유가 급락세로 루피화 가치가 내려가면서 증시 하락세를 부추겼다. 무역적자폭의 크게 확대된 점도 요인으로 작용했다. 이날 선섹스 지수는 전일대비 1.97% 하락한 2만6781.44를 기록했다. 니프티지수도 1.85% 후퇴한 8067.60으로 장을 끝냈다.전날 장마감 후 발표된 인도 11월 무역수지는 수입이 전년대비 26.8% 급등하며 적자폭이 작년 5월 이후 (이름)준으로 늘어났다. 금 수입 제한조치를 철폐하면서 수입량이 7배 가까이 늘어난 까닭이다. 러시아 루블화 폭락과 중국 경기둔화 우려도 증시 하락에 일조했다. 러시아 중앙은행은 긴급 통화정책회의를 통해 기준금리를 17%까지 높였지만 루블화 하락세는 수그러들지 않고 있다. 이 날 발표된 중국 12월 민간 제조업 구매관리자지수(pmi) 잠정치는 49.5를 기록해 지난 5월 이후 처음으로 확장위축 기준선인 50을 하회했다. 지오지트 bnp 파리바의 가우랑 샤 부회장은 '저유가는 인도에 긍정적인 흐름이지만 전 세계적인 움직임에 맞춰 부정적인 반응을 보이고 있다'고 말했다.글로벌 증시 매도세에 신흥국 자산으로 향하는 자금 흐름도 줄고 있다. 크레디트스위스에 따르면 올해 인도 주식 및 채권시장에 유입된 자금은 약 180억~200억달러로 추산돼 작년 430억달러에 크게 못 미칠 것으로 전망된다.개별주 중에서는 인도 최대 구리 생산업체 세사 스털라이트가 하락세를 지속하며 주가가 7개월래 최저로 내려갔다. 인도상업은행도 9월말 이후 가장 큰 낙폭을 기록했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-12-16 21:11:18",
+        "url": "https://www.news1.kr/articles/?2004739",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "英은행 스탠다드차타드, 신흥시장 지점 80~100곳 폐쇄",
+        "subtitle": "",
+        "content": "= 영국 은행 스탠다드차타드(sc)가 소매 부문 구조조정을 실시한다.파이낸셜타임스(ft)는 11일(현지시간) sc가 실적악화를 만회하고 주주들의 불만을 해소하기 위해 아시아, 아프리카, 중동 등 신흥시장에 있는 지점 1248곳 가운데 80~100곳을 내년에 폐쇄할 계획이라고 보도했다.이는 앞서 내년에 4억달러의 비용을 절감하겠다고 한 계획의 일관으로 sc는 소매지점 폐쇄 등으로 목표액의 절반을 달성할 수 있을 것으로 기대하고 있다.앤디 할포드 sc 재무 이사는 이날 사흘 일정의 투자발표회를 시작하며 sc가 전략을 수정하고 있다고 밝혔다.그럼에도 실적악화로 인해 경영진이 받는 압력은 갈수록 커지고 있다. sc는 올 한해 세차례나 수익경고를 발표했으며 지난 3분기 순이익은 16% 줄었고 주가는 올 들어 30% 추락했다.반면 비효율성 지표인 비용수익비율(cir·cost income ratio)은 67%까지 치솟았다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-12 11:41:03",
+        "url": "https://www.news1.kr/articles/?1950518",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕개장전] 지정학적 갈등에도 선물 소폭 강세",
+        "subtitle": "",
+        "content": "= 우크라이나, 이라크, 이스라엘을 둘러싼 지정학적 갈등에 투자자들이 여전히 주목하고 있는 가운데 12일(현지시간) 정규장 시황을 예고하는 뉴욕증시 지수선물은 강보합세다.미국 동부시간 기준 오전 8시10분 현재 다우존스 지수 선물은 전장보다 0.02% 오른 1만6518을 나타내고 있다. s&p500 지수 선물은 0.05% 상승한 1933.50을, 나스닥 지수 선물은 0.04% 뛴 3906.50을 보이고 있다. 이날 러시아에서는 인도주의적 지원물품을 실은 280대의 수송 차량이 모스크바를 떠나 우크라(이름) 향했다고 일부 외신은 전했다. 그러나 나토(북대서양조약기구)는 지원물품이라는 명목 하에 러시아가 수송 차량에 우크라이나 개입을 돕는 다른 물품을 숨기고 있을 수 있다는 점을 우려하고 있다. 버락 오바마 미국 대통령은 급진주의 수니파 반군이 준동한 이라크에서 새 총리가 지명된 데 대해 환영 의사를 나타냈다. 에반 루카스 ig 시장 전략가는 “우크라이나 긴장이 완화했으며 이라크 정세가 변화할 것으로 보여짐에 따라 지난 2주간 나타났던 혼란스런 매도세가 가라앉을 수 있을 것”이라고 진단했다. 증시 비관론자인 '닥터둠' 마크 파버는 전날 미국 경제전문방송 cnbc의 '스쿼크박스' 프로그램에 나와 신고점 달성 가능성은 의심스럽지만 증시가 과도한 매도세를 딛고 반등하고 있다고 진단했다.다만 그는 기술적 피해가 상당해 신고점을 달성한다면 매우 제한적인 종목에 그칠 것이라고 했다. 또 지난주에는 미국 증시가 향후 30-60일 사이 정점에 올랐다가 오는 10월께 20-30%의 조정을 겪을 것으로 내다봤다.중동에서는 이라크와 팔레스타인 무장정파 하마스 간 72시간의 휴전이 지난 10일 합의됐다.개장 전 발표된 nfib 7월 소기업낙관지수는 전문가 예상을 0.3포인트 밑돈 95.7로 집계됐다. 이는 전월보다는 0.7포인트 높은 수준이다. 6월 미국노동부 월간보고서(jolts) 역시 이날 투자자들이 주목하고 있는 발표다.간 질환 치료제 시험 결과 긍정적 수치들이 나타났다고 전날 발표한 인터셉트 제약 주가가 선물 시장에서 53% 상승 중이다. 플라워스 푸즈 주가는 실망스런 분기 실적과 연간 전망 발표 후 10% 하락세다. 독일 dax30 증시는 8월 zew 투자자신뢰지수가 시장 전문가 예상을 밑돈 것으로 나타나자 0.67% 하락세를 나타내고 있다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-08-13 01:00:13",
+        "url": "https://www.news1.kr/articles/?1812296",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "英 9월 소매판매 0.3%↓…예상보다 크게 감소",
+        "subtitle": "",
+        "content": "= . 지난달 영국의 소매판매가 예상보다 큰 감소세를 나타냈다. 따뜻한 날씨 탓에 소비자들이 겨울 대비 지출을 미뤘기 때문이라는 분석이다.. 영국 통계청은 9월 자동차용 연료를 포함한 소매판매가 전월 대비 0.3% 감소했다고 23일(현지시간) 밝혔다. 시장 전문가들은 0.1% 감소를 예상했다.. 같은 기간 연료를 제외한 소매판매도 0.3% 감소한 것으로 집계됐다.. 특히 의류와 신발 등의 판매가 7.8% 감소해 2012년 4월 이래 가장 큰 감소폭을 기록했다.. 고용은 증가하고 있지만 임금 상승 속도가 느려 가계 지출을 제한하고 있다고 전문가들은 분석했다.. 또한 소매업체들은 경쟁 심화로 가격 인하에도 나서고 있다. 지난달 상점 가격은 전년 동기 대비 1.4% 하락해 2009년 7월 이후 가장 크게 떨어졌다.. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-23 19:30:34",
+        "url": "https://www.news1.kr/articles/?1919167",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "피셔 총재, 'qe 다음주 종료 지지'",
+        "subtitle": "",
+        "content": "= 리처드 피셔 댈러스 연방준비은행(연은) 총재가 20일(현지시간) 양적완화(qe) 프로그램의 다음주 종료를 지지한다고 밝혔다. 이날 미 경제전문방송 cnbc와의 인터뷰에서 피셔 총재는 지난주의 시장 변동성을 걱정하지 않으며 인플레이션이 하향추세에 있다고 생각하지도 않는다고 말했다. 지난주 제임스 블라드 세인트루이스 연은 총재는 미국의 인플레이션 전망이 약화되고 있다면서 매월 150억달러 규모 자산매입을 12월까지 연장하기를 지지한다고 밝힌 바 있다. 현재까지 블라드 총재의 이런 의견은 미 연방준비제도이사회(연준)의 다른 정책위원들의 지지를 얻지는 못하고 있다. 피셔 총재는 연준내 가장 매파적 인물중 하나로, 올해 정책결정 투표권이 있다. 피셔 총재는 인터뷰에서 에볼라 바이러스의 경제 파급에 대한 견해도 밝혔다. 그는 에볼라 바이러스 공포가 텍사스 경제에 영향을 미치지 않았으며 낮은 유가가 텍사스 경제의 둔화를 불러오지도 않을 것으로 보았다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-20 22:02:19",
+        "url": "https://www.news1.kr/articles/?1913085",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美 주간 신규실업수당 청구건수 8년 만에 최저",
+        "subtitle": "",
+        "content": "= 미국의 지난주 신규실업수당 청구건수가 8년여 만에 최저 수준을 기록했다. . . 미 노동부는 지난 7월19일까지 한 주 동안 신규실업수당 청구건수가 1만9000건 감소한 28만4000건으로 집계됐다고 24일(현지시간) 밝혔다. . . 이는 지난 2006년 2월 이후 최저치이자 월가 전문가 예상치 30만7000건을 크게 밑돈 수준이다.. . 변동성을 줄여 추세를 파악할 수 있는 4주 이동평균 건수는 7250건 감소한 30만2000건을 나타냈다. . . 이는 지난 2007년 5월 이후 최저치다.. . 최근 수주간 실업수당 청구는 감소세를 이어왔으며 지난 2월 이후 비농업부문 취업자 수는 매월 20만명을 넘어서는 등 뚜렷한 개선세를 보였다. . . 톰 포르셀리 rbc 미국 시장 수석 이코노미스트는 '고용 시장 개선을 나타내는 광범위한 경향이 명백히 나타나고 있다'고 진단했다. . . 노동부 관계자는 이날 지표와 관련해 계절적 요인 외에 특별히 다른 점은 없다고 설명했다.. . 한편 지난 7월12일까지 지속적으로 실업수당을 받은 건수는 8000건 감소한 250만건으로 2007년 6월 이후 최저수준을 기록했다. .",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-07-25 01:51:12",
+        "url": "https://www.news1.kr/articles/?1786347",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "日 “엔화 움직임, 신중하게 지켜보며 대응하겠다”",
+        "subtitle": "",
+        "content": "= . 일본 정부는 1일 엔화 약세에 대해서 신중하게 지켜보면서 대응하겠다고 말했다.가토 가쓰노부(加藤勝信) 관방 부(副)장관은 이날 엔화 가치가 미 달러 대비 110엔을 일시적으로 기록한 것과 관련해 '플러스라는 견해도 있고 반대로 물가 등에 미치는 영향도 있다'며 '그러한 것을 신중하게 지켜보면서 대응하겠다'고 밝혔다.가토 부장관은 일본은행(boj)의 9월 전국 기업 단기경제 관측조사에서 대기업 제조업의 업황판단지수(단칸지수)가 13으로 2분기만에 개선된 것에 대해서는 '엔화 약세로 인해 수출 관련 업종이 개선된 것 등이 영향을 미친 것 같다'고 말했다.그는 이어 '(지난 4월) 소비세율 인상에 따른 갑작스러운 수요 감소가 누그러졌다'고 진단했다. 소비세율 추가 인상에 대해서는 '앞으로 다양한 지표, 특히 7~9월 국내총생산(gdp) 등을 보면서 종합적으로 판단하겠다'고 덧붙였다.이날 아마리 아키라(甘利明??) 경제재생담당 장관은 니혼게이자이신문과의 인터뷰에서 환율에 대해 '일반적으로 과도한 엔화 강세도, 과도한 엔화 약세도, 과도한 속도의 변동도 어느 나라의 경제에 있어서도 바람직한 것은 아니다'고 말했다.이날 엔/달러 환율은 이날 개장 직후 109.7엔 수준에서 추이하다 오전 한때 110.09엔까지 치솟았다. 오후 1시 49분 현재 109.90엔을 나타내고 있다.미국의 지속적인 경제 회복세로 미국의 기준금리 인상이 시장의 예상보다 앞당겨질 수 있는 관측이 제기되고 있는 가운데 일본은 추가 금융완화에 나설 것으로 예상이 되면서 엔화를 팔고 달러를 매수하는 움직임이 지속되고 있다.심리적 고점이 되는 1달러=110엔을 웃돈 것은 리먼 쇼크 직전인 2008년 8월 25일 이후 처음이다. 올해 2월 이후 큰 변동성이 없었던 엔화 환율은 지난 8월 말부터 뚜렷한 상승 흐름을 보이고 있다. 지난 9월 한달 동안에 약 5엔 이상 올랐다.. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-01 14:23:58",
+        "url": "https://www.news1.kr/articles/?1884555",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "무디스, 러시아 신용등급 'baa2'로 강등",
+        "subtitle": "",
+        "content": "= 17일(현지시간) 국제신용평가사 무디스가 러시아의 신용등급을 'baa1'에서 'baa2'로 한 단계 강등했다.. 등급 전망은 '부정적'을 유지했다.무디스는 성명에서 '이미 잠재 성장률이 떨어지고 있던 상태에서 계속되는 우크라이나 사태와 서방의 대러 제재 등까지 더해져 러시아 경제가 장기적 타격을 입을 것으로 예상된다'며 등급 강등 이유를 설명했다.. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-18 09:37:39",
+        "url": "https://www.news1.kr/articles/?1909928",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕개장] s&p 나흘간 랠리 후 관망세에 '강보합세'",
+        "subtitle": "",
+        "content": "= . 뉴욕증시가 22일(현지시간) 강보합세로 장을 열었다. 전날 스탠다드앤푸어스(s&p) 500지수가 2013년 1월 이후 최대의 4거래일 상승폭을 기록한 후 투자자들이 이날 숨을 고르며 기업실적 등을 관망하고 있는 것으로 풀이된다.다우존스산업평균지수는 전장대비 13.48(0.08%) 상승한 1만6628.29에 출발했다.스탠다드앤푸어스(s&p) 500지수는 전장대비 2.46(0.13%) 오른 1943.74에 장을 열었다.나스닥종합지수는 전장대비 5.82(0.13%) 상승한 4425.30에 거래를 개시했다.. . . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-22 22:52:41",
+        "url": "https://www.news1.kr/articles/?1917107",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "달러대비 러 루블화 40.05…사상최고",
+        "subtitle": "",
+        "content": "= 달러대비 러시아 루블화 환율이 40루블을 넘으며 고공행진하고 있다. afp통신은 6일(현지시간) 모스크바 외환시장에서 달러대비 루블화 환율이 40.05루블(달러 강세)까지 오르며 사상 처음 심리적 상한선인 40을 넘어섰다고 보도했다. 유로대비 루블화 역시 50.11을 기록하며 높은 환율 수준(유로화 강세)을 유지하고 있다. 전문가들은 최근 몇달간 루블화가 미국과 유럽의 러시아에 대한 제재와 유가 하락 등으로 강한 하방압력을 받아왔다고 말했다. 지난해 12월 31일 기준 달러 대비 루블화 환율은 32.90, 유로 대비 루블화 환율은 45.23이었다. 러시아 중앙은행은 지난주 루블화 가치 급락을 막기 위해 시장에 개입했지만 환율 상승을 막지 못하고 있다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-06 20:09:10",
+        "url": "https://www.news1.kr/articles/?1891526",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "세계 최대 소비성장 국가…중국 아닌 말라위, 몽골도 주목",
+        "subtitle": "",
+        "content": "= 세계최대 소비성장국가는 중국, 인도 등 인구대국의 신흥시장권이 아닌 말라위나 시에라리온 같은 아프리카 소국(小國)들이라고 글로벌 시장조사기관인 유로모니터 인터내셔널이 23일(현지시간) 보고서에서 밝혔다.보고서는 올해 가장 소비자 지출 성장세가 빠른 국가는 말라위, 시에라리온, 투크르메니스탄, 사우디아라비아, 몽골 순이라고 설명했다. 아프리카 남동부의 내륙 국가인 말라위의 소비자 지출은 전년대비 18.2% 성장할 전망이며 서아프리카의 시에라리온은 14.7%증가할 것으로 분석됐다. 하지만 유로모니터는 말라위와 시에라리온은 실제 경제수준의 개선이라기 보다는 지출수준이 매우 낮은 상태라 변동성이 컸던 경우라고 보았다. 또한 말라위는 335달러, 시에라리온은 688달러로 1인당 소비지출액이 작으며 외환 부족과 인프라 시설 미비 등으로 투자에 나서기는 위험한 지역이라고 설명했다. 말라위의 인구는 1640만명, 시에라리온의 인구는 610만명이다. 특히 시에라리온은 에볼라 바이러스가 폭발적인 확산세를 보이므로 빈곤과 실업난, 부패문제가 심화될 가능성이 있다고 보았다.반면 3,4위를 차지한 투르크메니스탄과 사우디에 대해서는 견조한 펀더멘탈위에 급성장하고 있는 국가로 평가했다. 중앙아시아의 투르크메니스탄은 중산층 증가로 인한 가처분 소득 성장에 힘입어 소비 규모가 14.4% 증가할 것으로 전망됐다. 올해 투르크메니스탄은 일인당 3594달러를 지출할 것으로 전망됐다. 중동의 부국인 사우디는 소비자 지출이 7786달러, 소비시장은 2410억달러에 도달할 것으로 전망된다. 올해 소비규모는 호텔업과 레스토랑업 성장세에 힘입어 15.6% 증가할 것으로 예상된다. 또한 5위를 차지한 몽골은 소비가 11.8% 늘어나며 1인당 소비는 1785달러를 기록할 것으로 전망됐다. 유로모니터는 몽골 인구가 280만명에 불과해 수요가 늘어나는데 한계가 있지만 세계에서 가장 빠르게 성장하는 국가 중 하나라고 전했다.유로모니터는 올해 기대 소비자지출액과 연간 실질성장률을 분석한 후 이같이 결론내렸다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-23 15:13:56",
+        "url": "https://www.news1.kr/articles/?1918420",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[중국마감]차익실현 줄고 금융주 호조…상하이 1.39% ↑",
+        "subtitle": "",
+        "content": "= 중국 증시는 21일 상승 마감했다.이날 증시는 전거래일까지 (이름) 차익실현 매물의 출현이 주춤해진 가운데 금융주가 호조를 나타내 상승했다.상하이종합지수는 전거래일대비 1.39% 상승한 2486.79로 마감했으며 상하이선전 csi300지수 역시 1.83% 오른 2583.46에 장을 마쳤다.당초 증시는 17일 실시된 상하이-홍콩 증시 간 주식 교차거래제도인 후강퉁으로 인해 주식 거래량과 가치가 크게 증가할 것으로 예상됐으나 투자자들이 상승분을 차익실현하며 기대에 미치지 못했다.이번 한 주 두 지수는 각각 0.3%와 0.1% 상승을 기록했다.그러나 이날 차익실현이 주춤해진 가운데 그동안 차익실현이 주로 이뤄졌던 금융주가 시장 실적을 상회해 중신증권이 6.7% 오르고 하이퉁증권과 초상증권이 1일 상승최대치인 10% 상승을 기록해 전반적인 증시 상승을 이끌었다.기술기업들로 구성된 중국판 나스닥 차이넥스트종합지수는 전거래일대비 1.00% 상승한 1671.39를 기록했다.반면 홍콩증시에서 항셍지수는 전거래일대비 0.37% 상승한 2만3437.12에 장을 마쳤으며 항셍차이나기업지수는 0.65% 상승한 1만447.18에 거래됐다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-21 17:27:57",
+        "url": "https://www.news1.kr/articles/?1966425",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "日 '아베노믹스' 되살리자 충격의 추가 완화…엔화 급락(종합)",
+        "subtitle": "",
+        "content": "= . . . 일본은행(boj)이 양적질적 금융완화(qqe)를 확대하기로 결정해 시장을 놀라게 했다. 대다수 전문가들은 정책 변동이 없을 것으로 예상했었다. boj는 취약한 수요와 국제유가 하락으로 인해 '디플레이션 심리의 (이름) 지연될 우려가 있다'고 결정 이유를 설명했다. 지난해 4월 현재의 금융완화를 도입한 이후 추가 완화책을 발표한 것은 이번이 처음이다. 이날 boj의 추가 완화 결정은 아베 신조(安倍晋三) 총리의 경기부양책 아베노믹스가 지난 4월 소비세율 인상 뒤에는 힘을 쓰지 못하고 있다는 방증이다. ◇자금 10조~20조엔 확대boj는 31일 금융정책 결정회의를 열고 연 60조~70조엔의 속도로 증가하고 있는 본원 통화(자금공급량)를 약 80조엔까지 확대하기로 했다. 이날 boj의 금융완화에는 통화정책 위원 중 5명이 찬성했고, 4명은 반대해 간신히 승인됐다. 구체적으로, 장기 국채 매입 속도를 연간 약 80조엔으로 현재 약 50조엔에서 30조엔 늘리고 평균 잔존 기간도 지금까지 7년 정도에서 이번에 7~10년 정도로 최대 3년 정도 연장하기로 결정했다. 상(이름)펀드(etf)와 부동산투자신탁(reit) 보유 잔액은 모두 3배로 늘려 각각 매입 속도를 연간 약 3조엔으로, 연간 약 900억엔으로 연장시킨다.이날 오후 boj의 결정에 미 달러 대비 엔화 가치는 급락세를 보였다. 이날 오전에 109엔대 초반에서 추이하던 엔/달러 환율은 오후 4시 1분에는 111.2엔까치 치솟았다. 이는 2008년 1월 이후 최고치이다.증시는 급등했다. 이날 닛케이225지수 종가는 전일대비 755.56엔(4.83%) 오른 1만 6413.76엔으로 7여년래 최고치를 기록했다. 이날 상승폭은 2013년 6월 이후 최대이다. 일본 국채 10년물 금리는 0.45%까지 급락해 boj가 qqe 도입을 발표한 지난해 4월 이후 최저치를 기록했다. rbs 증권의 선임 이코노미스트 니시오카 준코는 로이터에 'boj 이사들은 최근에 이처럼 비관적인 전망에 대해 우려를 나타내지 않았기 때문에 오늘 결정은 시장을 크게 놀라게 했다. 오늘 결정은 명백히 물가 상승률 하락 때문에 나온 것이다'고 진단했다.준코는 '오늘 결정은 엔화의 급락세를 촉발시켜서 수입가격을 높일 것이다. 이는 인플레이션이 boj의 목표치로 상승하는데 일조할 것이다'고 덧붙였다.그동안 구로다 하루히코(?田東彦) boj 총재는 임금 인상, 인플레이션 기대치 제고, 보다 공격적인 기업의 가격 결정 요인들이 맞물려 소비자물가지수(cpi)는 당초 계획한 약 2년 내 시점에 목표치 2%에 도달할 것으로 전망해왔다.하지만 지난 4월 소비세율 인상에 따라 경기 부진으로 cpi는 거의 매달 하락세를 보여왔다. 지난 9월 신선식품을 제외한 cpi(소비세율 효과 제외)는 11개월래 최저인 1%를 기록했다. 시장 전문가들은 cpi가 1% 아래로 떨어지면 boj가 추가로 완화에 나설 것으로 봤으며 지난 7월 구로다 총재는 cpi가 1% 이하로 하락할 가능성은 '없다'고 잘라 말했다. boj는 '물가에 미치는 현재의 하방 압력이 지속되면 디플레이션 심리의 (이름) 늦춰질 위험이 있다'고 지적했다.boj는 또 '이 같은 위험이 뚜렷하게 나타나는 것으로 예방하고 경기 모멘텀(상승동력) 개선세를 유지시키기 위해 qqe를 확대하는 것이 적절하다고 판단했다'고 설명했다.이날 아마리 아키라(甘利明) 경제 재정 재생산은 boj의 추가 완화에 '현재의 금융 경제 상황과 향후 전망을 바탕으로 대응한 것이다. 적기의 대응으로 본다'고 말했다. 소비세율 10% 추가 인상 결정에 대해서는 '경제 상황을 제대로 분석해 내각에서 판단할 문제이다'고 말했다.일본 정부는 연내에 내년 10월 소비세율 추가 인상 여부를 결정할 방침이다.◇성장률 및 cpi 전망치 하향. 이날 boj는 '경제 및 물가 정세 전망' 보고서를 통해 국내총생산(gdp) 및 cpi 증가율 전망치도 하향 조정했다.이에 따르면 정책위원들의 cpi 중앙값은 신선식품을 제외한 근원 cpi(소비증세의 영향을 제외)가 2014회계연도(2014년4월~2015년3월)에는 1.2%로 지난 7월 전망치에서 0.1% 포인트 떨어졌다. 내년도는 1.9%에서 1.7%로 낮췄으며 2016년은 2.1%로 종전 전망치를 유지했다.소비세율 인하 효과를 반영한 cpi는 올해는 3.3%에서 3.2%로, 내년도는 2.6%에서 2.4%로 낮췄다. 2016년은 2.8%로 유지했다. 소비 증세 후 수요 측면이 취약하고 국제 유가가 하락하고 있는 상황을 반영했다. boj는 향후 물가 전망에 대해 '전망기간 중반 무렵에 2% 정도에 도달할 가능성이 높다'고 기존의 견해를 유지했다.boj는 실질 국내총생산(gdp) 증가율 전망치는 올해가 종전 1.0%에서 0.5%로 낮췄다. 인하는 1월, 4월, 7월에 이어 올해에만 4번째이다. 내년은 1.5%로 유지했고, 2016년은 1.3%에서 1.2%로 하향 조정했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-02 12:24:01",
+        "url": "https://www.news1.kr/articles/?1932821",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美 의료진에서 2번째 에볼라 전염자 발생 (2보)",
+        "subtitle": "",
+        "content": "= 미국 텍사스주 보건장로병원 의료진에서 또 에볼라 바이러스 감염 양성 판정자가 나왔다고 15일(현지시간) afp통신이 보도했다.미국 내 에볼라 감염자로는 3번째이며, 첫번째 감염자를 돌보던 의료진 중엔 2번째 전염자다. 이에 에볼라 확산에 대한 우려도 더욱 높아지고 있다.같은 병원에서 미국 내 최초로 에볼라 확진 판명을 받았던 토마스 에릭 던컨은 치료를 받던 중 지난 8일 숨졌다.2번째 발병자는 이 병원에서 던컨의 치료에 참여했던 26세의 베트남계 여성 간호사인 니나 팸이다. 그는 70여명의 의료진 중 1명으로 11일 동안 던컨과 접촉했던 것으로 알려졌다.팸은 현재 에볼라 완치자의 혈청 수혈치료를 통해 안정적인 상태를 보이는 것으로 알려졌다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-15 20:59:38",
+        "url": "https://www.news1.kr/articles/?1905795",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[중국마감]증권주·항공주 호조에 상하이 0.60% ↑",
+        "subtitle": "",
+        "content": "= 중국 증시는 15일 상승 마감했다.증시는 이날 발표된 경제지표 부진에도 불구하고 증권주와 항공주가 호조를 나타내 상승했다.상하이종합지수는 전거래일 대비 0.60% 상승한 2373.67을 기록했다. 상하이선전 csi300 지수 역시 0.71% 오른 2463.87로 장을 마쳤다.중국 국가통계국은 이날 9월 생산자물가지수(ppi)가 전년대비 1.8%하락했다고 밝혔다. ppi는 31개월 연속 하락세를 나타냈다.전문가들이 예상한 1.5%하락과 직전월(8월)의 1.2%하락보다 낙폭이 컸다. 전월비로는 0.4% 떨어졌다.전문가들은 중국 경제성장 둔화에 따른 수요 악화, 과잉생산, 원자재 가격 하락 등이 ppi 하락에 영향을 미치고 있는 것으로 분석했다.하지만 부진한 지표에도 불구하고 증권주와 항공주가 호조를 나타내며 증시 상승을 이끌었다.증권주는 이달 말부터 상하이-홍콩 주식시장 간 교차거래가 시작되는 것에 기대심리가 형성되며 퍼시픽증권이 10.05%, 화타이증권이 4.24% 급등했다.항공주도 중국 정부가 항공산업 지원에 나설 것이라도 소식에 중국국제항공이 9.92% 급등했다.기술기업들로 구성된 중국판 나스닥 차이넥스트종합지수는 전거래일대비 0.31% 상승한 1688.64를 기록했다.홍콩증시에서 항셍지수는 전거래일보다 0.40% 오른 2만3140.05에 장을 마쳤으며 항셍차이나기업지수는 0.29% 상승한 1만284.88에 거래됐다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-15 19:22:15",
+        "url": "https://www.news1.kr/articles/?1905852",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "'내년 亞 중앙은행에 쉽지 않은 해'…韓 中 印 금리 인하 전망",
+        "subtitle": "",
+        "content": "= . . . 내년에는 미국의 노멀라(이름)션(normalization·통화정책 (이름))에 따라 촉발될 수 있는 변동성에 방어벽을 세우면서 성장도 뒷받침해야 하기 때문에 중앙은행들의 균형잡힌 행동이 요청된다.도이체방크는 20일(현지시간) 내년은 특히 아시아 중앙은행들에게 쉽지 않은 해가 될 것이라고 전망했다. 기준금리를 인상해야할지 낮춰야할지 판단하는데 감안해야할 외부 요인들이 많은 까닭이다.하지만 중앙은행들이 이 미묘한 과정을 거쳐갈 때 위안거리는 있다. 인플레이션 압박이 전반적으로 약화됐다는 것이다. 도이체방크의 아시아 담당 선임 이코노미스트 타이무르 바이그는 cnbc에 '미국 경제가 힘을 내고 있지만 유럽과 중국은 모멘텀(상승동력)을 잃고 있는 등 글로벌 전망이 다방면으로 퍼질 때에 완만한 인플레이션 전망은 숨 쉴 공간을 준다'고 평가했다. 도이체방크는 인도와 인도네시아를 제외하면 식료품과 연료 가격 안정에 따라 내년에 아시아에서 인플레이션이 4%를 넘는 곳이 없을 것으로 봤다. 도이체방크는 내년에 기준금리가 인하될 곳으로는 한국을 비롯해 중국, 인도를 꼽았다. 한국은행은 25bp(bp=0.01%), 중국 인민은행과 인도 중앙은행(rbi)는 50bp를 낮출 것으로 예상했다. 한국은행에 대해서는 올 들어 8월과 10월 금리를 두차례 낮췄는데, 경기촉진에 발벗고 나선 정부의 압박에 항복해 인하를 단행한 것으로 여겨진다고 전했다. 중국 인민은행은 광범위한 통화완화 압박에 귀를 닫으면서 농총과 중소기업 고객에 대출하는 은행들을 대상으로 지준율을 (이름)는 정책을 썼다.인도 중앙은행은 기준금리 역할을 하는 리포(repo) 금리를 지난 1월 25bp 인상한 이후 금리를 동결해왔다. 하지만 인플레이션 완화로 인해 중앙은행들이 금리를 낮춰야 한다는 요청이 많아지고 있다.아시아에서 모든 국가들이 디플레이션 상황에 직면해 있는 것은 아니다. 인도네시아, 필리핀, 말레(이름)는 내년에 통화 긴축이 예상된다.도이체방크는 인도네시아와 말레(이름) 중앙은행은 25bp 인상, 필리핀 중앙은행은 50bp 인상을 전망했다. 바이그는 '이들 국가에서는 지역의 요인들에 의해 금리 인상 압박이 있다'고 진단했다. 인도네시아에서는 조코 위도도(조코위) 신임 대통령이 연료 보조금 규모를 줄이면서 물가는 올해 연말로 다가가서면서 급등할 것으로 예상된다. 보조금 규모가 축소되자 중앙은행은 지난 18일 기준금리를 25bp 오른 7.75%로 인상했다.말레(이름)에서는 정부가 보조금을 줄이고 과세대상을 확대하면서 물가 상승이 예상된다. 말레(이름)는 내년 4월부터 자국 내에서 거래되는 상품과 서비스에 6%의 세금을 부과한다. 필리핀의 경우, 지난 수년간에 걸친 급성장으로 수요 견인 인플레이션이 촉발됐다.. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-21 15:10:13",
+        "url": "https://www.news1.kr/articles/?1966047",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "국제유가 수요둔화에 opec내분까지…wti 배럴당 81.84달러",
+        "subtitle": "",
+        "content": "= 국제유가가 14일(현지시간) 약 2년 4개월 만에 최저치를 기록하며 주저앉았다. 국제에너지기구(iea)의 원유 수요 전망치 하향 조정, 글로벌 경제 성장 약화에 따른 수요 감소, 미국의 셰일가스 붐 등 다양한 악재가 중첩됐지만 특히 석유수출국기구(opec)의 내홍이 결정타를 날린 것으로 보인다. 이날 뉴욕상업거래소(nymex)에서 서부텍사스산 원유(wti) 11월 인도분 선물가격은 전 거래일보다 3.90달러(4.6%) 내린 배럴당 81.84달러에 체결됐다. 이는 2012년6월28일 이후 최저다.직접적으로는 iea가 올해 세계 원유 수요 전망치를 22% 낮춰 원유 공급 과잉에 대한 우려가 커졌지만 최근에 opec국가들이 가격보다는 시장 점유에 힘쓰겠다고 말하는 등 회원국가들간의 불협화음이 커진 것이 유가에 더욱 근본적인 영향을 미쳤다.최근 세계최대 산유국 사우디아라비아는 일방적인 생산량 감축으로 가격을 지지하기 보다는 시장 점유율을 유지하는 데 주력하겠다고 밝혔다. 또한 지난주에는 80달러 이하로 유가가 내려가도 감수할 수 있다고 말했다. 이에 쿠웨이트까지 원유생산량 감축에 반대하면서 사우디를 돕고 나서 역학관계가 한층 복잡해졌다. 12일 쿠웨이트 석유 장관은 유가가 배럴당 76~77달러에서 하락을 멈출 것으로 보인다고 말하며 80달러 이하의 가격에 대비하는 태도를 보였다. 이는 외무장관이 나서서 유가 하락 문제에 대처하자고 한 베네수엘라를 비롯해 생산량 감축을 주장하는 국가들에 정면으로 맞선 것이다. 게다가 같은 사우디에도 내분이 일어났다. 알 왈리드 빈 탈랄 사우디 왕자는 14일 사우디 석유장관에게 공개 편지를 보내 사우디아라비아가 올해 예산을 맞추려면 유가가 배럴당 80~90달러가 될 필요가 있다면서 현재의 낮은 유가는 '사우디에 막대한 재정손실을 안겨줄 것'이라고 우려했다. 그간 미국 등 북미 지역의 셰일가스 생산은 꾸준히 늘어나는 데 비해 opec의 원유 생산량은 줄지 않으면서 국제유가 시장 상황은 점점 악화돼 왔다. 지정학적 위기로 유가를 끌어올렸던 리스크들, 즉 리비아 내전 등도 상대적으로 유전지역은 안전했기에 별 영향을 미치지 못했다.밖으로는 미국산 셰일가스의 도전에, 안에서는 회원국간의 '살아남기' 전략때문에 국제유가 생산량과 가격을 결정하는 역할을 해왔던 opec의 위상까지 흔들릴 전망이다.전문가들은 opec가 글로벌 시장의 역학이 급격히 바뀜에도 수요공급의 균형을 맞추는 역할을 하길 회피하고 있다고 지적하고 있다. 일부 전문가는 향후엔 일사분한한 목소리를 내지 못하는 opec가 아닌 미국측이 셰일가스 생산을 조절함으로써 글로벌 석유생산량 및 가격이 조절될 것으로 보고 있다. 하지만 이를 위해선 급격한 가격하락이 선행되야 한다고 분석하고 있다. 이래야만 셰일가스 등의 비전통적 자원이 시장의 주도력을 가져올 수 있다는 말이다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-15 17:40:56",
+        "url": "https://www.news1.kr/articles/?1905654",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美 8월 소매판매 0.6%증가…하반기 경제 '청신호'(상보)",
+        "subtitle": "",
+        "content": "= 지난달 미국의 소매판매가 4월 이후 가장 큰 폭으로 증가해 올해 하반기 경제에 대한 전망이 밝아졌다. 12일(현지시간) 미국 상무부는 8월 소매판매가 전월대비 0.6%증가(계절조정치)했다고 발표했다.이는 시장 전망치인 0.6% 증가에 부합했으며 4월 이후 가장 큰 폭의 증가세를 나타냈다.자동차부문을 제외하면 0.3%증가했다. 시장 전문가들은 자동차 부문을 제외하면 0.2%증가했을 것으로 보았다.소매판매는 미 경제의 70%를 차지하는 소비 부문의 활력을 점검할 수 있는 지표로 이날 발표된 결과는 하반기 미국 경제의 청신호로 풀이됐다. 이날 상무부는 6월과 7월 지표도 상향조정했다. 직전월과 변화없다고 발표됐던 7월 소매판매는 이날 전월비 0.3%증가로, 0.2% 증가로 발표됐던 6월 소매판매는 0.4%증가로 상향조정됐다. 전년비로 8월 소매판매는 5%증가했다. 또한 잡화점·백화점 판매 부문을 제외하고 모든 부문이 고른 증가세를 보였다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-09-12 21:54:23",
+        "url": "https://www.news1.kr/articles/?1854841",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕주간전망] 유가 추락· 유로존 뇌관 '그렉시트' 주목",
+        "subtitle": "",
+        "content": "= 뉴욕증권거래소(nyse). © 로이터=뉴스1이번 주 투자자들은 16~17일(현지시간) 열리는 미연방준비제도이사회(연준)의 정례 연방공개시장위원회(fomc) 회의와 17일 예정된 그리스 대통령선거 등 국내외 이벤트에 주목할 것으로 전망된다.지난주 증시는 국제유가 급락으로 인한 글로벌 디플레이션 우려가 높아져 큰 폭의 하락세로 마감했다. 다우존스산업평균지수는 주간 기준으로 3.8% 하락해 2011년 9월 이후 최악의 한주를 보냈다. 또한 스탠다드앤푸어스(s&p) 500지수는 3.5% 밀려 2012년 5월 이후 가장 큰 낙폭을 보였다. 나스닥종합지수도 2.7% 떨어졌다.시장은 이번 주 열릴 fomc 회의에서 기준금리 인상시기와 관련해 어떤 단서가 나올 것인지에 촉각을 곤두세우고 있다. 앞서 경제전문 월스트리트저널(wsj)의 연준 담당 (이름)자인 존 힐센래스는 fomc 성명에서 저금리 기조가 유지되는 기간을 정의했던 '상당기간'이라는 문구가 삭제될 가능성이 있다고 전망했다.그는 시장 참가자들에겐 '상당기간'이라는 문구가 최소 6개월간은 제로(0) 금리 기조가 유지된다는 의미로 이는 일종의 '보험'과 같다고 설명했다. 따라서 연준이 이 문구를 삭제할 경우 이는 기준금리 인상이 임박했다는 확실한 신호가 된다고 강조했다.반면에 일각에선 최근 다시 불거진 글로벌 경기둔화에 대한 우려로 인해 연준이 오히려 기준금리 인상 시점을 늦출 수 가능성이 있다는 전망도 나온다. 월가의 전문가들은 일반적으로 연준의 기준금리 인상 시점을 내년 중순쯤이 될 것으로 내다보고 있다.최근 바닥을 모르고 추락하고 있는 국제유가도 시장의 관심사다. 석유 수요 둔화 우려가 증폭되고 있는 가운데 유가 하락은 내년 초까지 이어질 것으로 전망돼 시장의 변동성은 상당 기간 지속될 것으로 보인다.지난 12일(현지시간) 북해산 브렌트유 1월 인도분 선물가격은 전거래일 대비 배럴당 1.83달러(2.87%) 하락한 61.85달러를 기록하며 지난 6월 연고점 대비 45% 급락했다. 서부텍사스중질유(wti) 1월 인도분 선물가격은 아예 50달러대에 진입했다. 2.14달러(3.57%) 떨어진 57.81달러를 나타냈다. 2009년 5월 이후 최저치이다.오는 17일 예정된 그리스의 대통령 선거도 주목거리다. 유로존 경제의 뇌관인 그리스의 정치적 불확실성이 고조될지가 관심사다.그리스 신민당의 안도니스 사마라스 총리는 지난 9일 내년 2월로 예정된 의회의 대통령 선출을 앞당겨 17일에 선거를 치를 것이라고 밝혔다.하루 앞선 8일엔 그리스가 추진했던 연내 구제금융 졸업이 유럽연합(eu) 재무장관회의에서 무산됐다. 현지에선 사마라스 총리가 대선 정국을 통해 마지막 구제금융 협상에 대비한 배수의 진을 쳤다고 관측하고 있다.제1야당인 급진좌파연합(시리자)의 알렉시스 치프라스 대표는 의회의 대통령 선출이 부결될 것이라고 반발하고 있다. 그는 구제금융에 따른 긴축정책 폐지와 국채 탕감을 주장하고 있다.17일 1차 선거에서는 여야 모두 대통령 당선에 필요한 득표가 어려울 것으로 예상되며, 따라서 2차, 3차 투표까지 이어질 확률이 크다. 1~2차에선 전체 의석 300명 중 200명(3분의 2), 3차 180명(5분의 3)의 지지가 필요하다. 3차 투표에서도 대통령 선출에 실패하면 의회는 해산하고 21일 안에 총선을 치러야 한다. 이 경우 유로존 탈퇴를 주장하는 시리자의 정당의 영향력이 커지며 '그렉시트(그리스의 유로존 탈퇴)'이슈가 다시 한번 유로존을 뒤흔들 우려가 높다.투자자들은 일본은행이 오는 17일 개최할 예정인 정례 통화정책회의에도 관심을 나타내고 있다. 이 회의는 14일 집권 자민당의 압승으로 끝날 것이 확실한 중의원 선거 이후 처음으로 개최하는 것이다.전문가들은 일본은행이 이번 회의에서 통화완화를 확대할 가능성은 낮다고 보고 있다. 다만, 일각에선 일본은행이 앞서 10월 예상을 깨고 추가 양적완화(qe)를 단행한 전례가 있다며 그 결과를 속단할 수는 없다는 전망도 나온다.주요지표로는 15일엔 지난달 산업생산이 발표될 예정이다. 시장에선 0.7% 증가를 예상하고 있다. 같은 날 이달의 엠파이어스테이트 제조업지수도 나온다.16일엔 지난달 건축허가건수와 이달의 마킷의 제조업 구매관리자지수(pmi) 속보치도 발표된다. 또한 17일엔 지난달 소비자물가지수가 나올 예정이다. 전문가들은 전월 대비 0.1% 감소를 예상하고 있다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-12-14 21:54:46",
+        "url": "https://www.news1.kr/articles/?2000956",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "핌코 자금이탈 본격화…플로리다 연기금 19억$ 투자 감축",
+        "subtitle": "",
+        "content": "= 주 연기금 등을 관리하는 기관투자자들이 줄줄이 핌코 투자규모를 줄이면서 '채권왕' 빌 그로스가 떠난 핌코의 자금이탈이 본격화되고 있다. 플로리다주 행정위원회는 7일(현지시간) 플로리다 주 은퇴연금기금의 핌코 투자를 19억 달러(약 2조 280억원) 감축한다고 발표했다. 아울러 주 공무원들이 가입하고 있는 401(k) 기업연금으로부터 핌코 투자물량 10억달러도 인출한다고 밝혔다. 행정위원회는 이들 자산을 내부적으로, 또는 블랙록과 누버거 버먼 등 외부 자산운용분을 늘리는 쪽으로 돌릴 것이라고 덧붙였다. 플로리다주 행정위원회는 1810억달러 규모의 주 연기금을 관리한다. 행정위원회는 지난해 4분기 이후 경영분쟁과 대표펀드인 토털리턴 펀드의 수익률 난조 등을 (이름) 핌코를 '워치 리스트'에 올렸다가 이같이 투자분 감축의 결정까지 내렸다. 앞서 지난 2일에는 미 최대 할인증권사인 찰스 슈왑이 자사가 운용하는 퇴직펀드 투자 대상에서 핌코의 토탈리턴펀드를 제외시킨 바 있다. 공동 설립자이자 최고투자책임자(cio)를 맡아온 그로스는 지난달 26일 핌코를 떠나 재너스 캐피탈에 합류한다고 밝혔다. 그의 사임은 토탈리턴펀드의 자금 이탈을 더욱 가속화해 지난달 한 달 동안 전체 펀드 자산의 10%에 이르는 235억달러가 순유출됐다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-08 08:34:39",
+        "url": "https://www.news1.kr/articles/?1893981",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "jp모간, 씨티, ubs 등 5개은 환율조작 34억$ 벌금 폭탄",
+        "subtitle": "",
+        "content": "= 미국과 영국, 스위스 금융당국이 12일(현지시간) 글로벌 대형은행 5곳에 환율 조작 혐의로 34억달러(약 3조7200억원)에 이르는 벌금을 부과했다. 당초 언론매체들은 바클레이즈를 포함해 6개 은행이 벌금을 받게 될 것이라고 보도했지만 바클레이즈는 영국금융감독청(fca)의 조사가 진행중이라는 (이름) 이날 대상에서 제외됐다. 이날 영국 hsbc와 로열뱅크오브스코틀랜드(rbs), 미국 씨티그룹과 jp모간체이스, 스위스의 ubs 등 5개 은행이 합의한 이 벌금은 당초 규제기관들이 제시한 벌금에서 은행들의 조기 합의를 조건으로 30% 감축된 액수다. 규제당국은 조사에서 외환트레이더들이 2013년 10월 무렵까지 (이름) 채트룸을 만들고 암호명을 이용해 고객들을 지칭하면서 고객주문 등 비밀 정보를 공유하고 환율을 조작한 혐의를 발견했다. 2012년 바클레이즈가 런던 은행간 금리(리보·libor) 조작 파문을 일으킨 이후 글로벌 은행권에선 금과 은, 원유, 환율 등을 둘러싼 조작 시비가 잇따랐다. 글로벌 은행들의 환율 조작 혐의에 대한 조사는 지난해 봄 fca가 시작했다. 조사가 본격화하자 주요 은행들은 트레이더들을 상대로 경쟁은행과의 메신저 통신을 금지하는 등 발빠르게 대응했다. 그 사이 30여명의 트레이더가 해고되거나 정직 당했고 이들 중 일부는 미국과 영국에서 형사 조사를 받고 있다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-11-12 17:57:59",
+        "url": "https://www.news1.kr/articles/?1951383",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美 9월 소비자기대지수, 5개월 만에 하락(상보)",
+        "subtitle": "",
+        "content": "= 미국 소비자들의 경기 기대감이 예상 밖으로 하락했다.미국 컨퍼런스보드는 9월 소비자 기대지수가 전달 93.4(수정치)에서 86.0으로 하락했다고 30일(현지시간) 밝혔다. 이는 전문가 집계 전망치 92.5를 밑도는 결과며 4개월 저점이다. 또 이는 5개월 만의 하락이다.현재상(이름)가 8월 93.9에서 9월 89.4로 하락했으며 향후 6개월에 대한 기대지수도 93.1에서 83.7로 떨어졌다. 린 프랑코 컨퍼런스보드 이사는 '경기와 고용시장, 잠재적인 미래 수입의 단기 전망에 대한 소비자의 자신감이 줄어든 것으로 보인다'며 '종합적으로 말하자면 소비자들은 향후 수개월 동안 경기 성장세가 둔화될 것으로 예상하고 있다'고 말했다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-01 00:14:12",
+        "url": "https://www.news1.kr/articles/?1883438",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "구글, 광고수익 감소에 3q 순익 전년比 5.4% 감소",
+        "subtitle": "",
+        "content": "= 구글 로고. © 로이터=뉴스1. . . 구글의 3분기(7~9월) 순익이 광고수익 감소로 인해 월가의 예상에 미치지 못한 것으로 나타났다.구글은 16일(현지시간) 지난 3분기 순익이 28억1000만달러(약 2조9814억원), 주당 4.09달러를 기록했다고 발표했다. 전년 동기의 기록인 29억7000만달러(주당 4.38달러)보다 약 5.4% 낮은 수준이다.또한 일회성 항목을 제외한 조정 순이익도 주당 6.35달러로, 시장 예상치인 주당 6.54달러를 밑돌았다.매출은 165억2000만달러로 전년 동기의 137억5000만달러보다 증가했다. 하지만 시장 전망치인 165억7000만달러보다 소폭 낮은 수준이다.로이터통신은 구글이 매출과 순익에서 감소를 기록함에 따라 그간 광고단가를 개선한 노력에 대한 효과가 빛을 바랬다고 평가했다.구글은 지난 3분기에 자사 검색 광고 매출의 대부분을 차지하는 '유료 클릭 수'(paid clicks)가 17% 늘었다. 이는 사용자가 (이름)색 서비스 이용 시 광고를 클릭하는 수치로, 지난 2분기의 25% 증가보다 낮은 수준이다.하지만 지난 수년간 하락의 늪에 빠져 허우적대던 (이름) 광고율(online advertising rates)은 3분기에 전년대비 2% 하락에 그쳐 개선되는 모습을 보였다. 이는 (이름) 광고율 수준을 나타내는 '클릭당 단가'(cpc)가 2분기에 6% 하락이었던 것과 비교하면 획기적인 개선이다. 이는 광고단가가 올라간 데 따른 효과다.구글은 3분기 지출을 확대했다. 특히 연구개발(r&d)에서 인력을 약 3000명을 늘려 이 분야의 인건비 등 관련 비용이 약 46% 증가했다.이날 구글은 오미드 코르데스타니를 신임 최고 비즈니스 책임자로 임명했다고 밝혔다. 그는 3개월 전 일본 소프트뱅크로 자리를 옮긴 니케쉬 아로라 전 책임자를 대신하게 된다.신임 최고 비즈니스 책임자는 구글의 모든 수익사업과 판매를 총괄하고 투자자들과 월가를 연결하는 연락사무소의 역할의 하는 요직이다.이날 구글 주가는 시간 외 거래에서 약 2.7% 하락한 510.11달러에서 거래 중이다. . . . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-10-17 10:54:32",
+        "url": "https://www.news1.kr/articles/?1908432",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "日혼다, 다카타 에어백 결함 리콜 전세계로 확대…1300만대",
+        "subtitle": "",
+        "content": "= . 일본 자동차 업체 혼다가 부품사 다카타가 제조한 에어백 결함과 관련해 리콜 대상 지역을 전세계로 확대하며 필요시 다카타를 재정적으로 지원할 방침이라고 밝혔다. 혼다의 이토 다카노부(伊東孝紳) 사장은 9일자 니혼게이자이신문과의 인터뷰에서 '같은 문제가 있다면 어디에서나 동일하게 다루고 싶다'며 리콜을 전세계로 확대할 생각임을 분명히 했다.혼다는 미국 남부 지역에서 약 300만대를, 그 이외 지역에서 600만대를 공식 리콜했다. 전세계로 확대하면 미국은 대상이 2배 늘고 중국과 일본 등에서 100만대를 더해 총 1300만대가 리콜 대상이 된다.미국에서 리콜 차량 대수가 많은 것은 문제의 에어백 푸품이 주로 다카타 멕시코 공장에서 제조됐기 때문이다. 미국 이외 지역에선 다른 공장에서 만든 부품도 많이 쓰고 있다. 문제의 에어백을 장착한 차량은 총 2000만대에 달할 것으로 추산된다.혼다는 다카타의 최대 고객이자 주주(1.2% 보유)로서 리콜 확대에 따른 추가 비용 부담을 분담할 의향이다. 이토 사장은 다카타가 경영위기에 빠지는 경우, '아무데도 지원하지 않으면 우리라도 무엇인가 하지 않으면 안된다'고 말했다.니혼게이자이신문은 리콜 확대에 따른 다카타의 추가 손실액은 미국분만 1000억엔을 초과한다는 증권사 진단도 있다고 소개했다. 현재까지 다카타의 에어백과 관련해 리콜 조치를 내놓은 업체는 10곳이 넘는다.다카타의 결함 에어백은 작동시에 이상 파열해 금속 조각이 튀어 탑승자를 부상시킬 가능성이 있다. 지금까지 미국과 말레(이름)에서 이 결함과 관련해 3명의 사망자가 나왔다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "국제_국제경제",
+        "writer": "(이름)",
+        "write_date": "2014-12-09 14:34:35",
+        "url": "https://www.news1.kr/articles/?1993119",
+        "source_site": "뉴스1"
+      }
+    ]
+  }
+}
