@@ -1,0 +1,24 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_웹데이터 말뭉치 구축__7000028361",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "category": 0,
+      "type": 0,
+      "source_file": "BWHE217000028361",
+      "source": "0"
+    },
+    "text": [
+      {
+        "title": "mama로 일본에 다시 돌아온 k-pop의 향연",
+        "subtitle": "",
+        "content": "【요코하마=뉴시스】 (이름) 특파원 = 29일 오후 7시 일본에 다시 돌아온 한류를 환영하는 열기로 요코하마가 후끈 달아올랐다. 약 1만5000여명의 일본 케이팝(k-pop) 팬들이 한국어로 트와이스의 인기곡 ‘너무해’를 따라 부르고 춤을 추며 시작된 ‘2017 mama(mnet asian music awards) in japan’가 29일 요코하마(",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2017-11-29 22:41:32",
+        "url": "https://newsis.com/view/?id=NISX20171129_0000162555",
+        "source_site": "뉴시스"
+      }
+    ]
+  }
+}

@@ -1,0 +1,564 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_웹데이터 말뭉치 구축__7000025617",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "category": 0,
+      "type": 0,
+      "source_file": "BWHE217000025617",
+      "source": "0"
+    },
+    "text": [
+      {
+        "title": "4월 6일 아침을 여는 글",
+        "subtitle": "",
+        "content": "= '과거는 흘러갔고 어쩔 수 없는 거야. 그렇지? 그럴 땐 바로 신경 끄고 사는 게 상책이야!' -영화 '라이온 킹' 中-<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-06 09:04:43",
+        "url": "https://www.news1.kr/articles/?2171420",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "독일 국채 금리 사상 '최저'…ecb qe 지속 의지 영향",
+        "subtitle": "",
+        "content": "= 유럽중앙은행(ecb)이 양적완화(qe) 정책을 지속하겠다는 의지를 보이자 독일 국채 수익률이 사상 최저 수준으로 하락했다.16일(현지시간) 월스트리트저널(wsj)에 따르면 이날 오전 중반 독일 분트채 30년물 수익률은 0.468%까지 떨어지며 사상 최저를 경신했다. 분트채 10년물도 0.088%까지 내려가며 역시 신저점을 기록했다. 이 같은 수익률 하락은 ecb가 최초 발표한 기간대로 국채매입 실시를 지속하겠다는 뜻을 내놓으며 안전자산을 찾는 투자자들이 몰려든 까닭이다. 채권은 수요가 커지면 가격이 오르는 대신 수익률은 낮아진다. 전날 마리오 드라기 ecb 총재는 통화정책회의를 마치고 가진 기자회견에서 1월 발표한대로 내년 9월까지 월 600억유로 규모의 국채매입을 지속하겠다는 뜻을 재확인했다. 미즈호인터내셔널의 피터 채트웰 선임 투자전략가는 'ecb가 기존 발표대로 국채매입을 실시하겠다고 밝힌 것은 모든 유로존 채권시장, 특히 독일 채권시장에 명백한 호재다'고 설명했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-16 19:09:37",
+        "url": "https://www.news1.kr/articles/?2189691",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "유로존 4월 cpi 전년比 '보합'…전망 부합",
+        "subtitle": "",
+        "content": "= 유로존(유로화 사용 19개국)의 소비자물가가 지난 12월 이후 처음으로 하락세에서 벗어났다. 올해부터 시작된 유럽중앙은행(ecb)의 양적완화(qe) 정책이 효과를 발휘하기 시작했다는 진단이다. 30일(현지시간) 유럽연합(eu) 통계청인 유로스타트는 4월 유로존 소비자물가지수(cpi) 잠정치가 시장 전망에 부합한 전년대비 보합을 기록했다고 발표했다. 작년 12월 이후 4개월만에 하락 행보를 끊어낸 것이다. ecb의 국채매입과 함께 이달 들어 반등세를 보인 유가도 디플레 탈피에 영향을 미쳤다. 북해산 브렌트유 가격은 4월 1일 이후 현재까지 20% 이상 오르며 배럴당 66달러 수준에 거래 중이다. abn암로뱅크의 닉 쿠니스 거시경제부문 연구원은 '유가 (이름)로 인해 물가상승률은 올해 반등할 것'이라고 말했다. 지난 1월 cpi의 경우 유가 급락 여파로 전년대비 0.6% 하락 했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-30 18:34:58",
+        "url": "https://www.news1.kr/articles/?2212572",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[프로야구] 8일 선발투수예고",
+        "subtitle": "",
+        "content": "= ◆잠실구장한화 (이름)두산 마야 ◆인천sk 행복드림구장삼성 (이름)s k (이름) ◆수원 kt 위즈 파크l g (이름)k t 어윈 ◆목동구장kia (이름)넥센 밴헤켄 ◆마산구장롯데 레일리n c 찰리<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-07 23:58:32",
+        "url": "https://www.news1.kr/articles/?2221571",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[인도마감] 옵션·파생 계약 만료에 ‘혼조마감’",
+        "subtitle": "",
+        "content": "= 인도증시가 27일(현지시간) 월간 옵션 및 파생(f&o) 상품 계약 만료를 맞아 등락을 거듭한 끝에 보합권에서 혼조 마감했다.이날 뭄바이증시의 센섹스지수는 전장 대비 33.25(0.12%) 상승한 2만7564.66에 거래를 마쳤다. 니프티지수는 4.75(0.06%) 떨어진 8334.60에 장을 마감했다.델리의 한 주식 브로커는 f&o 만기가 투자심리를 위축시켰다고 분석했다.부문별로는 은행주가 1.19%, 에너지 관련주가 0.97% 올라 선전했으며 자동차주는 2.11% 떨어져 부진했다.업체별로는 바라트중전기가 3.34% 올라 선전했고 인도석유공사(ongc)가 2.70%, 액시스뱅크가 2.26% 올라 뒤를 이었다.반면 자동차업체 타타모터스는 5.12%, 마힌드라&마힌드라는 3.05%, it기업인 인포시스는 2% 떨어져 부진했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-27 21:56:23",
+        "url": "https://www.news1.kr/articles/?2251802",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir] sk하이닉스 'd램 20%중반, 낸드 40%대 생산량 증가 예상'",
+        "subtitle": "",
+        "content": "= sk하이닉스는 23일 2015년 1분기 실적컨퍼런스콜을 열고 '비트그로스(비트 단위 환산 생산량 증가율)는 d램은 20% 중반, 낸드플래시는 40% 수준을 상회할 것'이라고 예상했다. 이어 '낸드플래시 비트그로스는 대부분 트리플레벨셀(tlc)도입을 감안한 수준'이라고 덧붙였다.sk하이닉스는 '경쟁사의 상황을 감안해 인위적으로 캐파(생산능력)를 증가시킬 계획은 없다'고 밝혔다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-23 10:51:48",
+        "url": "https://www.news1.kr/articles/?2199366",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕장중] 그리스 공포감 후퇴·中 급반등으로 ↑",
+        "subtitle": "",
+        "content": "= 미국 뉴욕증시가 9일(현지시간) 글로벌 증시의 반등 행렬에 동참하고 있다. 중국 증시가 이날 5%이상 크게 반등한 이후 아시아 주요증시들에 훈풍이 불었다. 그리스 사태에 대한 위기감이 완화된 것도 버팀목이 되고 있다.미국 동부시간 오후 12시57분 현재 다우지수는 전날보다 0.7% 상승한 1만7636.41을 기록 중이다. s&p500지수는 0.6% 오른 2059.44를, 나스닥지수는 0.9% 오른 4954.40을 나타냈다. 뉴욕증시는 이로써 전날 하락 마감한 이후 반등에 성공했다. 국제통화기금(imf)은 이날 올해 미국의 성장 전망치를 하향 조정했다. imf가 미국의 성장 전망을 비관한 것은 미국 연방준비제도이사회(frb)의 연내 기준금리 인상 방침에 우호적이지 않다는 방증이다. imf는 전날 미국의 금리인상 시점을 내년으로 미뤄야 한다고 권고했다.글로벌 증시가 그리스 사태로 겪었던 조정 국면이 끝나간다는 관측도 제기됐다. 톰 워스 체멍카날트러스트 선임 투자책임자는 '투자자들은 지금 상황이 그렇게 나쁘지 않다는 걸 깨닫고 있다'며 '우리는 이 지점을 바닥으로 여기기 시작했으며 향후 6개월 간 시장은 높게 전진할 것'이라고 전망했다. ◇imf 글로벌 성장 전망 하향 조정…그리스 위기는 제한적 imf는 이날 공개한 세계경제전망 보고서 수정판을 통해 올해 글로벌 성장률 천망치를 3.3%로 제시했다. 이는 지난 4월 세계경제전망 보고서의 전망치인 3.5%에서 하향 조정된 것이다. 다만 내년 글로벌 성장률 전망치는 4월과 동일한 3.8%로 유지됐다.미국의 올해 성장률 전망치는 2.5%로 제시됐다. 이는 4월 3.1%에서 하향 조정된 것이다. imf는 미국과 캐나다의 1분기 부진한 성장률이 올해 글로벌 성장률을 하향 조정한 중요한 배경이됐다고 지적했다.imf는 세계 경제에 미치는 하강 리스크(위험)가 4월보다 커졌다고 분석했다. 하강 리스크를 높인 요인으로 급격한 자산가격 변동 금융시장의 변동성 증가 미국 달러화 강세 중기적으로 낮은 성장률 중국의 성장률 둔화 등이 거론됐다.imf는 그러나 그리스 사태가 전 세계에 광범위한 충격을 안길 가능성이 낮다고 봤다. 올리비에 블랑샤르 imf 수석 이코노미스트는 이날 성명을 내고 '그리스가 유로존을 무질서하게 벗어나는 시나리오 하에서 고통을 겪을지 다소 의문의 여지가 남는다“면서도 ”전 세계 나머지가 겪을 효과는 제한적일 것'이라고 말했다. ◇글로벌 증시 中 반등에 주목…아시아 유럽 랠리 훈풍 이날 범유럽지표인 유로스톡스600지수는 2.2% 뛴 381.06으로 마감했다. 유로스톡스600지수는 이로써 3거래일 만에 반등하면서 지난 4월 기록한 신고가(415.18)와 격차를 10% 미만까지 추격했다. 유럽증시는 그간 그리스 사태에 대한 우려로 조정을 겪어왔다.남유럽 재정 취약국들이 이날 크게 전진했다. 스페인 ibex35지수가 2.7% 올랐다. 포르투갈의 psi20지수는 4% 급등했다. 이는 2013년 4월 이후 하루 상승폭으로 최대다. 그리스 아테네증시는 오는 13일까지 휴장할 예정이다.하인츠게르트 소넨샤인 도이체은행 전략가는 '그리스는 현 시점에서 주가에 반영됐다'며 '조정 국면에 진입했던 유럽증시들이 이제 바닥을 찾은 것으로 보인다'고 지적했다.중국 증시는 이날 정부의 각종 증시부양책에 힘입어 폭등했다. 이날 상하이종합지수는 5.8% 뛴 3709.33으로 마감했다. 이는 3일 만에 급락세를 떨친 것이다. 이날 상승폭은 2009년 이후 최대다. 도쿄증시의 닛케이225지수는 0.6% 상승한 1만9855.50을 나타냈다. ◇월그린부츠얼라이언스 실적호조로 5% 급등…코티 m&a 발표 후 6% 급락미국 최대 의약품체인인 월그린부츠얼라이언스는 시장 전망치를 웃돈 분기 실적에 힘입어 5% 상승세다.업체는 이날 지난 5월로 끝난 회계연도 3분기 조정 주당순이익(eps)이 1달러2센트를 기록했다고 밝혔다. 이는 시장 예상치인 87센트를 웃돈 것이다.미국의 화장품 향수 대기업 코티는 그러나 프록터 앤 갬블(p&g) 산하 브랜드를 대규모 자금을 투입해 인수 합병(m&a)한다는 발표의 여파로 6% 급락하고 있다.p&g 주가도 0.4% 하락하고 있다. 투자자들이 p&g의 재도약에 대해 갖는 신뢰감이 약하다는 뜻이다. p&g의 브랜드 매각은 실적 둔화를 겪는 산하 부서를 청산한다는 기존 계획의 일환이다. 코티는 이날 성명을 내고 p&g 산하 43개 화장품 향수 브랜드 사업을 125억달러에 인수하기로 합의했다고 밝혔다. p&g는 자사의 브랜드들을 기업분할 방식으로 분사시켜 코티에 넘긴다는 계획이다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-07-10 02:38:11",
+        "url": "https://www.news1.kr/articles/?2322470",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[시황]코스피, 2.60p(0.12%) 내린 2143.50 마감",
+        "subtitle": "",
+        "content": "= 26일 코스피 마감.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-26 15:03:26",
+        "url": "https://www.news1.kr/articles/?2248917",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[유럽마감] 국채 불안에 증시도 하락 압력↑",
+        "subtitle": "",
+        "content": "= 유럽 주요 증시는 12일(현지시간) 하락세로 장을 마쳤다. 유로존 채권시장에 발생한 투매가 증폭된 불안감이 증시까지 (이름) 까닭이다. 영국 ftse100지수는 전장대비 1.37% 하락한 6933.80으로 장을 끝냈다. 프랑스 cac40지수는 1.06% 떨어진 4974.65를, 독일 dax지수는 1.72% 후퇴한 1만1472를 기록했다.반면 그리스 ase지수는 1.37% 오른 829.10으로 마감했다. 유럽중앙은행(ecb)이 그리스 은행에 대한 긴급 자금지원 상한한도를 800억유로까지 늘렸다는 소식이 호재로 작용했다.독일을 비롯해 각국 국채가 매도세로 수익률이 급등하자 유로화 가치도 덩달아 상승했다. 유로화는 달러화 대비 0.8% 오른 1.1245유로까지 올랐다. 이로 인해 독일 등 유럽 주요 수출국들의 증시에 악재가 됐다는 진단이다. 스토어브랜드 어셋매니지먼트의 에스펜 펀스 연구원은 '이날 약세 흐름은 폭넓게 펼쳐지고 있다'며 '단기적으로는 그리스가 여전히 우려의 중심에 서 있으며 국채시장의 변동성 확대로 유럽중앙은행(ecb)의 양적완화(qe)에 대한 낙관적 입장 또한 후퇴할 수 있다'고 말했다. 투자은행 골드만삭스는 ecb의 국채매입이 글로벌 국채가치를 극히 높은 수준으로 밀어 올릴 것이라는 기대감이 이 같은 유로 국채 투매의 바탕이 됐다고 진단했다.개별 종목 중에서는 저가항공사 이지제트가 지난 4월 프랑스에서 발생한 파업으로 예약 취소가 늘어나면서 이로 인한 손실이 2500만파운드에 이를 것이라는 발표를 내놓으면서 9.8% 급락했다. 칼스버그는 1분기 동유럽지역 손실 규모가 확대됐다는 소식에 4.7% 하락했다. 스위스 화학업체 클라이언트는 아직 인수 관련해 아무런 제안을 받지 못했다고 밝히며 4.3% 떨어졌다. 미디어업체 알티세는 실적 부진에 9% 급락했으며 독일 철강업체 티센크루프는 올해 전체 순익 전망을 상향조정한데 힘입어 주가가 2.8% 올랐다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-13 02:14:36",
+        "url": "https://www.news1.kr/articles/?2228762",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "게임빌, 1q 영업익 15억원…전년비 59.4%↓",
+        "subtitle": "",
+        "content": "= 게임빌은 올 1분기 영업이익이 15억2700만원으로 전년 동기 대비 59.4% 감소했다고 12일 공시했다.같은 기간 매출은 355억8400만원으로 27.9% 증가했으며 당기순익도 51억9000만원으로 44.0% 증가했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-12 08:42:50",
+        "url": "https://www.news1.kr/articles/?2226845",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "금호석유화학, 1q 영업익 552억…전년比 93% 증가",
+        "subtitle": "",
+        "content": "= 금호석유화학은 올 1분기 영업이익이 552억1100만원으로 전년동기대비 93.0% 증가했다고 6일 공시했다. 매출액은 1조201억6100만원으로 같은기간 17.8% 감소했다. 당기순이익은 423억3100만원으로 전년 같은기간에 비해 240.6% 늘어난 것으로 잠정집계됐다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-06 16:16:02",
+        "url": "https://www.news1.kr/articles/?2218879",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[카드뉴스] 4월6일 점심시간 뉴스",
+        "subtitle": "",
+        "content": "= 4월6일 뉴스1의 점심시간 주요 뉴스들을 정리했습니다. (이름) 아래에 있는 기사 제목을 누르면 관련 기사를 볼 수 있습니다.. 朴대통령 '기술적으로 가능하면 세월호 인양 적극 검토'. 일본, 독도 도발 교과서 검정 오늘 발표…정부 강력 대응. 국민대에 故 남윤철 단원고 교사 이름 딴 강의실 생겨 . '스트레스 풀려고…' 광안대교서 1달러짜리 200장 뿌린 30대. 실형 선고 받고 대역배우로 활동…tv보던 수사관에 덜미. 잦은 악몽의 원인…우울증 불면증 알리는 몸의 신호 뉴스1 카드뉴스 전체보기뉴스1 페이스북 바로가기 <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-06 12:00:07",
+        "url": "https://www.news1.kr/articles/?2171963",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir] sk하이닉스 '하반기에 pc d램 가격 안정될 것'",
+        "subtitle": "",
+        "content": "= . . . sk하이닉스는 하반기에 pc d램 가격이 안정될 것으로 예상했다. sk하이닉스는 23일 열린 2015년 1분기 실적 컨퍼런스콜에서 '하반기 전략고객에 대해 lpddr4를 지원해야 하는 문제가 발생할 것'이라며 'ddr3 생산에 제한을 받게 된다'고 밝혔다. 모바일 d램 생산량을 늘리면서 pc용 d램 생산량이 줄어든다는 설명이다. sk하이닉스는 '하반기에는 제품 믹스 전환으로 현재와 같은 pc d램 가격 하락은 발생하지 않을 것'이라고 설명했다. sk하이닉스는 2분기는 1분기와 비슷한 가격 구조를 유지할 것으로 예상했다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-23 10:06:34",
+        "url": "https://www.news1.kr/articles/?2199207",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir] sk하이닉스 '설비투자, 환율 영향으로 소폭 늘어난 5조 중반대 계획'",
+        "subtitle": "",
+        "content": "= sk하이닉스는 23일 열린 2015년 1분기 실적 컨퍼런스콜에서 캐팩스(설비투자비용)에 대한 질문에 '앞서 캐팩스가 5조 초반대가 될 것이라고 발표한 바 있지만 환율 변동으로 약간 증가해 5조 중반대가 될 것'이라고 밝혔다. 이어 '전체적인 숫자를 변경할 계획은 없지만 당초 예상보다 올해 환율이 올라갈 것으로 예상된다'고 설명했다. sk하이닉스는 1분기에 2(이름) 캐팩스를 지출했다.투자비의 비중은 d램이 80%, 낸드플래시는 20%를 차지한다고 밝혔다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-23 09:50:34",
+        "url": "https://www.news1.kr/articles/?2199153",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕개장] 유가·달러 변동 관망…보합권 '혼조' 출발",
+        "subtitle": "",
+        "content": "= 뉴욕증시가 23일(현지시간) 혼조세로 출발했다.지난 주 대폭 상승 마감한 뉴욕 3대 지수는 이날 투자자들이 최근 급변하는 유가와 달러의 추이와 그 것이 증시에 미치는 영향을 분석하면서 보합권에서 출발했다.개장 직후 다우존스산업평균지수는 전장 대비 17.09(0.09%) 상승한 1만8144.74를 기록 중이다.스탠다드앤푸어스(s&p) 500지수는 전장 대비 0.52(0.02%) 오른 2108.62를 나타내고 있다.나스닥종합지수는 전장 대비 5.81(0.12%) 밀린 5020.60에 거래 중이다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-23 22:46:36",
+        "url": "https://www.news1.kr/articles/?2150671",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "5월 20일 아침을 여는 글",
+        "subtitle": "",
+        "content": "= '인생에서 원하는 것을 얻기 위한 첫번째 단계는 내가 무엇을 원하는지 결정하는 것이다' -벤 스타인<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-20 09:21:24",
+        "url": "https://www.news1.kr/articles/?2240321",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir]skt '올해 안에 4천억 수준 자사주 매입 검토'",
+        "subtitle": "",
+        "content": "= (이름) sk텔레콤 재무관리실장은 6일 올 1분기 실적발표 전화회의(컨퍼런스콜)에서 'sk브로드밴드 100% 자회사화에 소요되는 sk텔레콤 자사주는 2년 이내에 재매입할 것'이라며 '주가 등을 검토해 또 이사회 결정이 필요하지만 1년 이내 4000억원 수준 자사주 매입 고려 중'이라고 밝혔다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-06 17:13:25",
+        "url": "https://www.news1.kr/articles/?2219085",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[인도마감] sbi 악성부채 예상 하회·안정적 cpi에 나흘째 '상승세'",
+        "subtitle": "",
+        "content": "= 인도 봄베이 증권거래소. © 로이터=news1인도증시가 13일(현지시간) 상승 마감했다.인도 국영은행(sbi)의 지난해 4분기에 악성 부채가 소폭으로 증가에 그쳤다는 소식과 안정적인 소비자물가지수(cpi)에 힘입어 양대 지수가 나흘째 상승세를 이어갔다.이날 뭄바이증시의 센섹스지수는 전장 대비 289.83(1.01%) 상승한 2만9094.93에 거래를 마쳤다. 니프티지수도 93.95(1.08%) 오른 8805.50에 장을 마감했다.전날 인도 통계청은 지난달 인도의 cpi 상승률이 전년 대비 5.11%를 기록했다고 발표했다. 이는 전망치인 5.50%을 하회한 수준이다. 이에 시장이 안심을 나타내 투심이 부양된 것으로 풀이된다.이날 sbi는 전장 대비 7.97% 상승해 지난해 5월23일 이후 가장 큰 1일 상승폭을 나타냈다.sbi는 이날 지난해 4분기(10~12월)의 전체 부채 가운데 악성 부채가 차지하는 비율이 4.9%를 기록해 3분기의 4.89%를 약간 웃돌았다고 밝혔다. 이는 애널리스트들의 전망을 하회하는 수준이다. 부문별로는 일용소비재주(fmcg)가 전장 대비 1.77% 상승해 가장 선전했다. 이어서 헬스케어주가 1.56% 올랐다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-02-13 20:53:48",
+        "url": "https://www.news1.kr/articles/?2095782",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕개장] 獨 gdp 성장률 호재에 '오름세' 출발",
+        "subtitle": "",
+        "content": "= 뉴욕증권거래소(nyse). © 로이터=news1뉴욕증시가 13일(현지시간) 상승세로 출발했다.이날 발표되는 주요 지표는 거의 없는 가운데 우크라이나 사태와 그리스 부채 문제가 시장에 어떤 영향을 줄 것인지에 투자자들이 관심을 집중하는 가운데 독일의 양호한 경제성장률이 호재로 작용하고 있다.개장 직후 다우존스산업평균지수는 전장 대비 11.01(0.06%) 하락한 1만7983.39를 기록 중이다. 스탠다드앤푸어스(s&p) 500지수는 전장 대비 1.08(0.05%) 오른 2089.56을 나타내고 있다. 반면에 나스닥종합지수는 전장 대비 11.24(0.23%) 오른 4868.86에 거래 중이다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-02-13 23:43:06",
+        "url": "https://www.news1.kr/articles/?2095841",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "사우디 주도 예멘 공습으로 최소 39명 사망",
+        "subtitle": "",
+        "content": "= 수니파 맹주인 사우디아라비아의 주도로 약 24시간 이상 진행된 예멘에 대한 공습으로 최소한 39명의 시민들이 숨졌다고 afp통신이 예멘 보건부를 인용해 27일(현지시간) 보도했다. 시아파인 후티 반군이 장악한 예멘 보건부의 관리들은 이날 예멘 북부에 위치한 수도 사나의 군사기지에 대한 공습 과정에서 민간인 거주지가 타격을 받아 12명이 사망했다고 밝혔다.목격자들에 따르면 이날 전투기들은 알사마 군사기지를 겨냥해 공격했다. 이 군사기지는 아흐메드 알리 살레 전 사령관의 명령을 수행하는 부대로 추정된다.살레 전 사령관은 약 30여년간 예멘을 통치하다 쫓겨난 독재자 알리 압둘라 살레 전 예멘 대통령의 장남이다. 그는 후티 반군과 협력해 압드라부 만수르 하디 현 예멘 대통령에게 대항하고 있는 인물이다.목격자들은 이날 새벽 전투기 3대가 반군이 지난달 점거한 사나 남부지역 대통령궁을 타격했다고 전했다.주민들은 전투기들이 사나 50km 북쪽 지점인 암란주의 반군 부대와 그보다 더 북쪽인 사다주의 반군 기지에 있는 무기고도 폭격했다고 말했다.또 다른 소식통들에 따르면 동부 지역 마리브주에서도 살레 전 대통령을 따르는 부대에 대한 폭격이 이루어졌다.한 군 관리는 afp통신과의 인터뷰에서 전투기들이 사나 남부 외곽의 반군 군사기지에 있는 대규모 무기고도 폭격했다고 전했다. 이 관리는 이로 인해 이 군사기지에서 수십명의 사상자가 발생했다고 말했지만, 이는 확인된 정보는 아니다.사나 중심부에선 대공미사일이 폭발해 8명이 부상을 입었으며, 이 가운데 1명은 치명상을 입은 것으로 전해졌다.주민들에 따르면 반군은 공습이 시작된 이후 수십대의 차량을 동원해 사나를 중심으로 외곽지역에 대공미사일을 배치하고 있다. 반군은 시아파의 맹주인 이란의 지원을 받아 지난 1월 쿠데타를 통해 사나를 점령하고 현재 예멘 남부에 위치한 제2 도시인 아덴 부근까지 진격했다.적대국인 이란의 세력 확장에 위기감을 느낀 수니파 국가인 사우디는 전날 지상군 15만명과 전투기 100대를 동원한 대규모 군사작전으로 예멘 구하기에 나섰다. 시아파는 이슬람 선지자인 무함마드의 혈육인 알리를 정통성을 지닌 후계자로 본다. 반면, 수니파는 다수의 지지를 얻은 인물을 진정한 후계자로 여긴다.양 종파는 이 같은 입장 차이를 좁히지 못하고 수세기 동안 서로 반목하며 종파분쟁을 벌이고 있다.전 세계 15억명의 이슬람 신도들 중에선 수니파가 90%를 차지한다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-27 19:53:32",
+        "url": "https://www.news1.kr/articles/?2158526",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[유럽마감] 대부분 '상승'…주간 기록은 올 들어 가장 부진",
+        "subtitle": "",
+        "content": "= 독일 프랑크푸르트에 위치한 유럽중앙은행(ecb) 본부. © 로이터=news1유럽증시는 27일(현지시간) 대부분 상승으로 장을 마감했으나 주간 기록은 올 들어 가장 부진을 나타냈다.범유럽지수인 스톡스600지수는 전장 대비 0.25% 상승한 397.95에 거래를 마쳤고, 범유럽 우량주인 스톡스50지수는 0.25% 오른 3679.03에 마감했다.영국 ftse100지수는 전장 대비 0.58% 하락한 6855.02를 기록했고, 반면에 ftse유로퍼스트300지수는 전장대비 0.22% 상승한 1577.75에 거래를 마쳤다.독일 dax30지수는 전장 대비 0.21% 상승한 1만1868.33을 나타냈고, 프랑스 cac40지수는 전장 대비 0.55% 오른 5034.06에 장을 마감했다.하지만 이날 대부분의 지수 상승에도 그리스 불확실성과 중동의 지정학적 우려 등으로 인해 주간 기준으론 하락으로 이번 주 장을 마감했다. 올 들어 최대 주간 낙폭이다.덴마크 제약업체인 노보 노르디스크는 전장 대비 10.4% 급등으로 장을 마쳤다. 앞서 이 업체는 새로운 인슐린인 '트레시바'(tresiba)에 대해 다음 달 미국 판매 승인을 신청할 것이라고 밝혔다.광산 관련주는 이날 전반적인 증시 상승세에 역행했다. 원자재 거래 기업인 글렌코어와 앵글로 아메리칸은 모두 전장 대비 3% 하락했다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-28 03:43:43",
+        "url": "https://www.news1.kr/articles/?2158655",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "英 3월 산업생산 전월比 0.5% 증가",
+        "subtitle": "",
+        "content": "= . 영국의 지난 3월 산업생산이 증가세를 보인 것으로 확인됐다. 영국 통계청(ons)은 올해 3월 산업생산이 전월보다 0.5% 증가했다고 12일(현지시간) 발표했다. 앞서 시장은 전월대비 보합세를 보일 것으로 내다봤지만 이를 뒤집고 증가세를 나타냈다. 이번 결과는 작년 9월 이후 가장 큰 증가세다. 지난 2월 산업생산은 전월비 0.1% 증가한 바 있다. 전년대비 3월 산업생산도 0.7% 증가해 전망치 0.1% 증가를 크게 웃돌았다. 캐피탈이코노믹스의 비키 레드우드 연구원은 '유가 하락에 힘입어 산업생산 부문이 고비를 넘긴 것으로 보인다'고 말했다. 그는 '적어도 올해 영국 경제는 다소 균형이 이뤄질 것으로 예상한다'고 덧붙였다. 3월 영국 제조업생산은 전월대비 0.4% 증가했다. 시장은 0.3% 증가를 예상했었다. 제조업생산은 전년대비로는 1.1% 증가해 역시 전망치 1.0% 증가를 웃돌았다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-12 18:53:48",
+        "url": "https://www.news1.kr/articles/?2228582",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "뉴욕증시, 보합 출발…다우 0.08%↑",
+        "subtitle": "",
+        "content": "= 미국 뉴욕증시가 2일(현지시간) 강보합세로 출발했다.다우지수는 전날보다 0.08% 상승한 1만7711.80으로 거래를 시작했다.나스닥지수는 0.16% 오른 4877.99로, s&p500지수는 0.12% 상승한 2062.06으로 각각 출발했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-02 22:37:20",
+        "url": "https://www.news1.kr/articles/?2168423",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕개장] 옐런 연설 앞두고 보합권 '상승세' 출발",
+        "subtitle": "",
+        "content": "= 뉴욕증권거래소(nyse) 건물. © 로이터=news1뉴욕증시가 27일(현지시간) 자넷 옐런 미연방준비제도이사회(연준) 의장의 연설을 기다리는 가운데 보합권 상승세로 출발했다.개장 직후 다우존스산업평균지수는 전장 대비 1.13(0.01%) 상승한 1만7679.36을 기록 중이다. 스탠다드앤푸어스(s&p) 500지수는 전장 대비 0.31(0.02%) 오른 2056.46을 나타내고 있다. 나스닥종합지수는 전장 대비 2.98(0.06%) 오른 4866.35에 거래 중이다. 주간 기준으론 다우지수가 2.4%, s&p500지수가 2.4%, 나스닥지수가 3.1% 감소를 나타내고 있다.이날 옐런 의장은 연준 컨퍼런스 후 준비된 질의응답 시간을 통해 통화정책에 대한 견해를 밝힐 예정이다.연방공개시장위원회(fomc)의 이달 정책회의 후 미국의 기준금리 인상 시점을 두고 전문가들의 의견이 분분한 가운데 옐런 의장이 이날 이와 관련해 새로운 암시를 제시할 것인지에 시장이 촉각을 곤두세우고 있다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-27 22:52:58",
+        "url": "https://www.news1.kr/articles/?2158614",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[전문] 옐런 의장 샌프란시스코 연준 컨퍼런스 연설",
+        "subtitle": "",
+        "content": "= 자넷 옐런 미연방준비제도이사회(연준) 의장은 27일(현지시간) 올 하반기에 금리 인상이 가능성이 높지만 이는 매우 '점진적으로' 이뤄질 것이라고 밝혔다. 옐런 의장은 이날 샌프란시스코 연방준비은행 컨퍼런스에서 이 같이 말하며 다만 핵심 인플레이션 상승세나 임금 인상이 부진할 경우 인상 시점은 뒤로 미뤄질 수 있다는 점도 밝혔다.다음의 옐런 의장의 연설 전문이다.i would like to thank president williams for his kind introduction and the federal reserve bank of san francisco for inviting me to what promises to be a very stimulating and important conference. as you know, last week the federal open market committee (fomc) changed its forward guidance pertaining to the federal funds rate. with continued improvement in economic conditions, an increase in the target range for that rate may well be warranted later this year. of course, the timing of the first increase in the federal funds rate and its subsequent path will be determined by the committee in light of incoming data on labor market conditions, inflation, and other aspects of the current expansion. in my remarks today i will discuss some factors that will likely guide our decisions as we adjust the stance of monetary policy over time. i will also discuss why most of my colleagues and i believe the return of the federal funds rate to a more normal level is likely to be gradual. in doing so, i will address three questions. first, why does the committee judge that an increase in the federal funds rate target is likely to become appropriate later this year? second, how are economic and financial considerations likely to shape the course of monetary policy over the next several years? and, finally, are there special risks and other considerations that policymakers should take into account in the current environment? current economic conditions and the outlook before turning to these questions, however, let me first review where the economy is now and where it's likely headed--a necessary backdrop for understanding why, after more than six years of maintaining a near-zero federal funds rate and accumulating a large portfolio of longer-term securities, the committee is now giving serious consideration to beginning to reduce later this year some of the extraordinary monetary policy accommodation currently in place. although the recovery of the labor market from the deep recession following the financial crisis was frustratingly slow for quite a long time, progress has been more rapid of late. the unemployment rate has fallen markedly over the past few years and now stands at 5.5 percent, down from 10 percent at its peak. payroll gains have averaged 275,000 per month over the past year, well above the pace needed to sustain further declines in the unemployment rate. of course, we still have some way to go to reach our maximum employment goal. the unemployment rate has not yet declined to the 5.0 to 5.2 percent range that most fomc participants now consider to be normal in the longer run. involuntary part-time employment remains high by historical standards. labor force participation is still somewhat lower than i would expect after accounting for demographic trends.1 and wage growth continues to be quite subdued. but i think we can all agree that the recovery in the labor market has been substantial. i am cautiously optimistic that, in the context of moderate growth in aggregate output and spending, labor market conditions are likely to improve further in coming months. in particular, and despite the somewhat disappointing tone of the recent retail sales data, i think consumer spending is likely to expand at a good clip this year given such robust fundamentals as strong employment gains, boosts to real incomes from lower energy prices, continued increases in household wealth, and a relatively high level of consumer confidence. of course, not all sectors of the economy are doing as well: dollar appreciation appears to be restraining net exports, low oil prices are prompting a cutback in drilling activity, and the recovery in residential construction remains subdued. but overall, i anticipate that real gross domestic product is likely to expand somewhat faster than its potential in coming quarters, thereby promoting further gains in employment and declines in the unemployment rate. in assessing the actual strength of the labor market and the broader economy, we must bear in mind that these very welcome improvements have been achieved in the context of extraordinary monetary accommodation. while the overall level of real activity now appears to be much closer to its potential than it was a year or two ago, the economy in an 'underlying' sense remains quite weak by historical standards, for the simple reason that the increases in hiring and output that have been achieved thus far have required exceptionally low levels of short- and longer-term interest rates, reflecting a highly accommodative stance of monetary policy. interest rates have been, and remain, very low, and if underlying conditions had truly returned to normal, the economy should be booming. as i will discuss shortly, this assessment concerning the underlying strength of real activity has important policy implications. while there has been considerable progress on the maximum employment leg of our dual mandate, progress on the price stability leg has been notably absent. inflation as measured by the price index for personal consumption expenditures has been running below the fomc's longer-run goal of 2 percent for a number of years, and on a 12?month basis is currently 1/4 percent. some of the weakness in inflation likely reflects continuing slack in labor and product markets. however, much of this weakness stems from the sharp decline in the price of oil and other one-time factors that, in the fomc's judgment, are likely to have only a transitory negative effect on inflation, provided that inflation expectations remain well anchored. in this regard, i take comfort from the continued stability of survey measures of longer-run inflation expectations. and although market-based measures of inflation compensation have declined appreciably since last summer and bear close watching, i suspect that these declines are primarily driven by changes in risk premiums and market factors that i expect to prove transitory. on balance, i therefore think it is appropriate for monetary policy to remain accommodative for some time, fostering an environment of tightening labor and product markets that, together with stable inflation expectations, will help move inflation up to 2 percent over the medium term. why might an increase in the federal funds rate be warranted later this year?the committee's decision about when to begin reducing accommodation will depend importantly on how economic conditions actually evolve over time. like most of my fomc colleagues, i believe that the appropriate time has not yet arrived, but i expect that conditions may warrant an increase in the federal funds rate target sometime this year. so let me spell out the reasoning that underpins this view. i would first note that the current stance of monetary policy is clearly providing considerable economic stimulus. the near-zero setting for the federal funds rate has facilitated a sizable reduction in labor market slack over the past two years and appears to be consistent with further substantial gains. a modest increase in the federal funds rate would be highly unlikely to halt this progress, although such an increase might slow its pace somewhat. second, we need to keep in mind the well-established fact that the full effects of monetary policy are felt only after long lags. this means that policymakers cannot wait until they have achieved their objectives to begin adjusting policy. i would not consider it prudent to postpone the onset of normalization until we have reached, or are on the verge of reaching, our inflation objective. doing so would create too great a risk of significantly overshooting both our objectives of maximum sustainable employment and 2 percent inflation, potentially undermining economic growth and employment if the fomc is subsequently forced to tighten policy markedly or abruptly. in addition, holding rates too low for too long could encourage inappropriate risk-taking by investors, potentially undermining the stability of financial markets. that said, we must be reasonably confident at the time of the first rate increase that inflation will move up over time to our 2 percent objective, and that such an action will not impede continued solid growth in employment and output. an important factor working to increase my confidence in the inflation outlook will be continued improvement in the labor market. a substantial body of theory, informed by considerable historical evidence, suggests that inflation will eventually begin to rise as resource utilization continues to tighten.2 it is largely for this reason that a significant pickup in incoming readings on core inflation will not be a precondition for me to judge that an initial increase in the federal funds rate would be warranted. with respect to wages, i anticipate that real wage gains for american workers are likely to pick up to a rate more in line with trend labor productivity growth as employment settles in at its maximum sustainable level. we could see nominal wage growth eventually running notably higher than the current roughly 2 percent pace. but the outlook for wages is highly uncertain even if price inflation does move back to 2 percent and labor market conditions continue to improve as projected. for example, we cannot be sure about the future pace of productivity growth; nor can we be sure about other factors, such as global competition, the nature of technological change, and trends in unionization, that may also influence the pace of real wage growth over time. these factors, which are outside of the federal reserve's control, likely explain why real wages have failed to keep pace with productivity growth for at least the past 15 years. for such reasons, we can never be sure what growth rate of nominal wages is consistent with stable consumer price inflation, and this uncertainty limits the usefulness of wage trends as an indicator of the fed's progress in achieving its inflation objective. i have argued that a pickup in neither wage nor price inflation is indispensable for me to achieve reasonable confidence that inflation will move back to 2 percent over time. that said, i would be uncomfortable raising the federal funds rate if readings on wage growth, core consumer prices, and other indicators of underlying inflation pressures were to weaken, if market-based measures of inflation compensation were to fall appreciably further, or if survey-based measures were to begin to decline noticeably. under normal circumstances, simple monetary policy rules, such as the one proposed by john taylor, could help us decide when to raise the federal funds rate.3 even with core inflation running below the committee's 2 percent objective, taylor's rule now calls for the federal funds rate to be well above zero if the unemployment rate is currently judged to be close to its normal longer-run level and the 'normal' level of the real federal funds rate is currently close to its historical average. but the prescription offered by the taylor rule changes significantly if one instead assumes, as i do, that appreciable slack still remains in the labor market, and that the economy's equilibrium real federal funds rate--that is, the real rate consistent with the economy achieving maximum employment and price stability over the medium term--is currently quite low by historical standards.4 under assumptions that i consider more realistic under present circumstances, the same rules call for the federal funds rate to be close to zero.5 moreover, i would assert that simple rules are, well, too simple, and ignore important complexities of the current situation, about which i will have more to say shortly. the fomc will, of course, carefully deliberate about when to begin the process of removing policy accommodation. but the significance of this decision should not be overemphasized, because what matters for financial conditions and the broader economy is the entire expected path of short-term interest rates and not the precise timing of the first rate increase. the spending and investment decisions the fomc seeks to influence depend primarily on expectations of policy well into the future, as embedded in longer-term interest rates and other asset prices. more important than the timing of the committee's initial policy move will be the strategy the committee deploys in adjusting the federal funds rate over time, in response to economic developments, to achieve its dual mandate. market participants' perceptions of that reaction function and the implications for the likely longer-run trajectory of short-term interest rates will influence the borrowing costs faced by households and businesses, including the rates on corporate bonds, auto loans, and home mortgages. how are economic and financial considerations likely to shape the course of monetary policy over the next several years? let me therefore turn to the second question i posed earlier: how are economic and financial considerations likely to shape the course of monetary policy over the next few years? let me first be clear that the fomc does not intend to embark on any predetermined course of tightening following an initial decision to raise the funds rate target range--one that, for example, would involve similarly sized rate increases at every meeting or on some other schedule. rather, the actual path of policy will evolve as economic conditions evolve, and policy tightening could speed up, slow down, pause, or even reverse course depending on actual and expected developments in real activity and inflation. reflecting such data dependence, as well as some historically unusual policy considerations that i will discuss shortly, the average pace of tightening observed during previous recoveries could well provide a highly misleading guide to the actual course of monetary policy over the next few years. our goal in adjusting the federal funds rate over time will be to achieve and sustain economic conditions close to maximum employment with inflation averaging around 2 percent, responding, as best we can, to the inevitable twists and turns of the economy. keeping in mind the all-important proviso that policy is never predetermined but is always data dependent, what can we say about the appropriate path of policy, assuming the most likely outcomes for real activity, inflation, and related factors? the answer is that it depends, of course, on one's outlook for the economy. today i will focus on the modal outlook presented by fomc participants' submissions to the march summary of economic projections (sep), which assumes that no further unanticipated disturbances buffet the economy. as i noted at my press conference after last week's fomc meeting, participants generally project that the unemployment rate will continue to fall through late 2017 to levels at or somewhat below estimates of its longer-run sustainable level, accompanied by growth in real gross domestic product that runs somewhat above its estimated longer-run trend with inflation moving up to around 2 percent. this solid economic performance is projected to be consistent with a gradual normalization of monetary policy: the median funds rate projection in the march sep increases apercentage point per year on average through the end of 2017. the projected combination of a gradual rise in the nominal federal funds rate coupled with further progress on both legs of the dual mandate is consistent with an implicit assessment by the committee that the equilibrium real federal funds rate--one measure of the economy's underlying strength--is rising only slowly over time. in the wake of the financial crisis, the equilibrium real rate apparently fell well below zero because of numerous persistent headwinds. these headwinds include tighter underwriting standards and restricted access to some forms of credit; the need for households to reduce their debt burdens; contractionary fiscal policy at all levels of government after the initial effects of the fiscal stimulus package had passed; and elevated uncertainty about the economic outlook that made firms hesitant to invest and hire, and households reluctant to buy houses, cars, and other discretionary goods. fortunately, the overall force of these headwinds appears to have diminished considerably over the past year or so, allowing employment to accelerate appreciably even as the level of the federal funds rate and the volume of our asset holdings remained nearly unchanged.6 stated differently, the economy's underlying strength has been gradually improving, and the equilibrium real federal funds rate has been gradually rising. although the recent appreciation of the dollar is likely to weigh on u.s. exports over time, i nonetheless anticipate further diminution of the headwinds just noted over the next couple of years, and as the equilibrium real funds rate continues to rise, it will accordingly be appropriate to raise the actual level of the real federal funds rate in tandem, all else being equal.7 at present, the equilibrium real federal funds rate, which by some estimates is currently close to zero, appears to be well below the longer-run normal levels assessed by the fomc. the median sep estimate of this longer-run normal rate--that is, the long-run projection of the nominal funds rate less 2 percent inflation--stood at 1-3/4 percent in the fomc's recent projections.8 provided that inflation shows clear signs over time of moving up toward 2 percent in the context of continuing progress toward maximum employment, i therefore expect that a further tightening in monetary policy after the first increase in the federal funds rate will be warranted. should incoming data, however, fail to support this forecast, then the actual path of policy will need to be adjusted appropriately. are there special risks and other considerations that policymakers should take into account in the current environment? as i noted, my fomc colleagues and i generally anticipate that a rather gradual rise in the federal funds rate will be appropriate over the next few years, conditional on our baseline forecasts for real activity, inflation, and other aspects of the economy's performance. so far in my remarks, i have emphasized one key rationale for such a judgment--namely, that the equilibrium real federal funds rate is at present well below its historical average and is anticipated to rise only gradually over time as the various headwinds that have restrained the economic recovery continue to abate. if incoming data support such a forecast, the federal funds rate should be normalized, but at a gradual pace. several additional factors reinforce this conclusion, and that brings me to my third question: are there special risks and other considerations that policymakers should take into account in the current environment? keeping in mind that the actual course of monetary policy in the future will primarily depend on events as they unfold, i see three additional considerations that are relevant.9 the first, which is closely related to my expectation that the headwinds holding back growth are likely to continue to abate gradually, pertains to the risk that the equilibrium real federal funds rate may not, in fact, recover as much or as quickly as i anticipate. substantial uncertainty surrounds all estimates of the equilibrium real interest rate, and, as i will discuss momentarily, market participants appear to be fairly pessimistic about the odds that it will rise significantly over time. moreover, some recent studies have raised the prospect that the economies of the united states and other countries will grow more slowly in the future as a result of both demographic factors and a slower pace of productivity gains from technological advances. at an extreme, such developments could even amount to a type of 'secular stagnation,' in which monetary policy would need to keep real interest rates persistently quite low relative to historical norms to promote full employment and price stability, absent a highly expansive fiscal policy.10 such a risk has important implications for monetary policy in the near term, when the ability of the economy to adjust to significant rate increases will be especially uncertain. the experience of japan over the past 20 years, and sweden more recently, demonstrates that a tightening of policy when the equilibrium real rate remains low can result in appreciable economic costs, delaying the attainment of a central bank's price stability objective. international experience therefore counsels caution in removing accommodation until the committee is more confident that aggregate demand will continue to expand in line with its expectations--a view that is also supported by the research literature.11 a second reason for the committee to proceed cautiously in removing policy accommodation relates to asymmetries in the effectiveness of monetary policy in the vicinity of the zero lower bound. in the event that growth in employment and overall activity proves unexpectedly robust and inflation moves significantly above our 2 percent objective, the fomc can and will raise interest rates as needed to rein in inflation. but if growth was to falter and inflation was to fall yet further, the effective lower bound on nominal interest rates could limit the committee's ability to provide the needed degree of accommodation. with an already large balance sheet, for example, the fomc might be concerned about potential costs and risks associated with further asset purchases. research suggests that, the higher the probability of monetary policy becoming constrained by the zero lower bound in the near future because of adverse shocks, and the more severe the attendant consequences for real activity and inflation, the more current policy should lean in accommodative direction.12 in effect, such a strategy represents insurance against the zero lower bound by aiming for somewhat stronger real activity and a faster rise in inflation under the modal outlook. given the modal outlook envisioned in fomc participants' recent forecasts, with headwinds continuing to diminish, the equilibrium real rate rising, and inflation moving back up to 2 percent over the next few years, the risk that the funds rate would need to return to near zero should be declining appreciably. consistent with this assessment, almost all fomc participants now view the risks to the outlook for real activity as largely balanced, although some also see inflation risks as weighted to the downside. that said, it is sobering to note that many market participants appear to assess the risks to the outlook quite differently. for example, respondents to the survey of primary dealers in late january thought there was a 20 percent probability that, after liftoff, the funds rate would fall back to zero sometime at or before late 2017.13 in addition, both the remarkably low level of long-term government bond yields in advanced economies and the low prevailing level of inflation compensation suggest that financial market participants may hold more pessimistic views than fomc participants concerning the risks to the global outlook. since long-term yields reflect the market's probability-weighted average of all possible short-term interest rate paths, along with compensating term and risk premiums, the generally low level of yields in advanced economies suggests that investors place considerable odds on adverse scenarios that would necessitate a lower and flatter trajectory of the federal funds than envisioned in participants' modal sep projections.14 a final argument for gradually adjusting policy relates to the desirability of achieving a prompt return of inflation to the fomc's 2 percent goal, an objective that would be advanced by allowing the unemployment rate to decline for a time somewhat below estimates of its longer-run sustainable level. to a limited degree, such an outcome is envisioned in many participants' most recent sep projections. a tight labor market may also work to reverse some of the adverse supply-side developments resulting from the financial crisis. the deep recession and slow recovery likely have held back investment in physical and human capital, restrained the rate of new business formation, prompted discouraged workers to leave the labor force, and eroded the skills of the long-term unemployed.15 some of these effects might be reversed in a tight labor market, yielding long-term benefits associated with a more productive economy. that said, the quantitative importance of these supply-side mechanisms are difficult to establish, and the relevant research on this point is quite limited. of course, taking a gradualist approach is not without risks. proceeding too slowly to tighten policy could have adverse consequences for the attainment of the committee's inflation objective over time, especially if it were to undermine the fomc's inflation credibility. inflation could, for example, exhibit nonlinear dynamics in which high levels of unemployment place relatively little downward pressure on inflation, but tight labor markets generate marked upward pressure. if so, a decline in unemployment below its natural rate could cause inflation to quickly rise to an undesirably high level. rapid increases in short-term interest rates to arrest such an unwelcome development could, in turn, have adverse effects on financial markets and the broader economy. proceeding too cautiously could also have undesirable effects on financial stability. an environment of prolonged low short-term rates could prompt an excessive buildup in leverage or cause underwriting standards to erode as investors take on risks they cannot measure or manage appropriately in a reach for yield.16 at this point the evidence indicates that such vulnerabilities do not pose a significant threat, but the committee is carefully monitoring developments in this area.17 moreover, in my view, macroprudential regulatory and supervisory tools should serve as our first line of defense in addressing these risks.18 conclusion to conclude, let me emphasize that in determining when to initially increase its target range for the federal funds rate and how to adjust it thereafter, the committee's decisions will be data dependent, reflecting evolving judgments concerning the implications of incoming information for the economic outlook. we cannot be certain about the underlying strength of the expansion, the maximum level of employment consistent with price stability, or the longer-run level of interest rates consistent with maximum employment. policy must adjust as our understanding of these factors changes. however, if conditions do evolve in the manner that most of my fomc colleagues and i anticipate, i would expect the level of the federal funds rate to be normalized only gradually, reflecting the gradual diminution of headwinds from the financial crisis and the balance of risks i have enumerated of moving either too slowly or too quickly. nothing about the course of the committee's actions is predetermined except the committee's commitment to promote our dual mandate of maximum employment and price stability.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-28 07:24:07",
+        "url": "https://www.news1.kr/articles/?2158714",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "현대중공업, 가삼현 부사장 사내이사 신규 선임",
+        "subtitle": "",
+        "content": "= 현대중공업은 오는 27일 울산에서 (이름)주총회를 열고 가삼현 그룹선박영업 대표 부사장을 2년 임기 사내이사로 신규 선임하는 안건을 의결한다고 5일 공시했다.또 전 서울민사지법 판사 출신인 (이름) 법무법인 로고스 상임고문변호사를 3년 임기 사외이사로 신규 선임하는 (이름) 의결할 예(이름)고 밝혔다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-05 18:45:28",
+        "url": "https://www.news1.kr/articles/?2123570",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "두산인프라코어 '밥캣홀딩스, 사전 기업공개 추진 중'",
+        "subtitle": "",
+        "content": "= 두산인프라코어는 19일 자회사인 두산인프라코어밥캣홀딩스(dibh)의 사전 기업공개(pre ipo)를 추진 중이라고 공시했다.두산인프라코어는 '올해 중으로 약 8000억원 규모의 우선주 발행 등을 통해 dibh의 유상증자를 진행하는 방안을 추진 중'이라며 '조달한 금액은 차입금 상환에 사용될 예정'이라고 설명했다.아울러 '사전 기업공개의 규모와 방법 등은 고려중인 사항이며 현재까지 구체적으로 확정된 사항은 없다'고 덧붙였다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-19 11:06:30",
+        "url": "https://www.news1.kr/articles/?2144494",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[특징주]'황제주' 아모레퍼시픽, 장중 400만원 돌파",
+        "subtitle": "",
+        "content": "= '황제주'인 아모레퍼시픽이 장중 400만원을 돌파했다. 20일 오전 9시 55분 현재 아모레퍼시픽은 전일대비 1.59%(6만2000원) 오른 397만3000원에 거래되고 있다. 장중 403만원을 터치하며 52주 신고가도 새로썼다. 이날 대우증권은 아모레퍼시픽의 목표가를 기존 310만원에서 540만원으로 74% 상향 조정했다. (이름) 대우증권 연구원은 '아모레퍼시픽의 아시아 시장 내 지배력 강화 속도와 강도는 시장 기대치를 크게 웃돌 가능성이 크다'며 '아모레퍼시픽의 신제품 개발, 트렌드 선도 능력은 글로벌 브랜드 업체들을 초월하는 놀라운 속도로 강화되고 있다'고 분석했다. 한편 현재 기준 아모레퍼시픽은 시가총액 23조1554억원으로 유가증권시장 내 6위를 기록중으로, 현대모비스(23조1678억원)와 5위 자리를 두고 경합을 벌이고 있다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-20 10:04:44",
+        "url": "https://www.news1.kr/articles/?2193112",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[유럽마감] 그리스 디폴트 우려 완화에 '상승세'",
+        "subtitle": "",
+        "content": "= 유럽증시는 27일(현지시간) 그리스의 디폴트(국가부도) 우려 완화에 힘입어 상승 마감했다. 범유럽지수인 스톡스600지수는 전장 대비 1.31% 상승한 408.88에 거래를 마쳤고, 범유럽 우량주인 스톡스50지수는 1.76% 오른 3682.87에 마감했다.영국 ftse100지수는 전장 대비 1.21% 상승한 7033.33을 기록했고, ftse유로퍼스트300지수는 전장대비 1.27% 오른 1622.96에 거래를 마쳤다.독일 dax30지수는 전장 대비 1.26% 상승한 1만1771.13을 나타냈고, 프랑스 cac40지수는 전장대비 1.95% 오른 5182.53에 장을 마감했다.이날 외신들은 그리스와 국제채(이름) 실무 단계의 구제금융 협상 합의 초안서 작성을 시작했다고 밝혓다.보도에 따르면 그리스 정부 관계자는 이날 '브뤼셀의 구제금융 협상 관계자들이 오늘 실무 단계에서 협상 초안 작성을 시작했다'고 밝혔다.협상이 마무리될 경우 그리스 정부는 구제금융 잔여 분할금인 72억유로를 지원받게 돼 다음달 5일 예정된 imf(국제통화기금) 부채 3억유로를 상환할 수 있다.업체별로는 이탈리아 최대 보험회사 제네랄리(generali)가 2.8% 상승했다. 제네랄리는 2018년 말에 50억유로 (이름) 누적 배당금을 지급할 예(이름)고 밝힌 후 상승세를 나타냈다.노키아(nokia)도 3.6% 상승세를 기록했다. 노키아는 미국의 통신회사 에덴 록 커뮤니케이션(eden rock communications)을 인수할 계획이라고 밝힌 후 상승했다.세계 최대 산업용 효소 개발업체 노보자임(novozymes)도 3.9% 올랐다. 이 업체는 ubs가 투자의견을 ‘매수’로 상향 조정한 후 상승했다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-28 03:33:36",
+        "url": "https://www.news1.kr/articles/?2251902",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕마감] 달러 강세·기업 어닝실적 악화 우려에 하락 마감",
+        "subtitle": "",
+        "content": "= 뉴욕증권거래소(nyse). ⓒ 로이터=news1뉴욕증시는 미 달러화 강세로 인한 기업들의 수익 악화 우려로 인해 7일(현지시간) 하락을 장을 마쳤다.다우존스산업평균지수는 전장대비 5.43(0.03%) 하락한 1만7875.42를 기록했다. 스탠다드앤푸어스(s&p) 500지수는 4.29(0.21%) 내린 2076.33 나타냈다. 나스닥종합지수는 7.08(0.14%) 밀린 4910.23에 마감했다.이날 증시는 기업들의 인수합병(m&a) 소식과 지난주 고용지표 부진에 따른 미연방준비제도이사회(연준)의 기준금리 인상 행보 지연 등으로 상승 출발했다.지난주 발표된 3월 고용보고서 부진 여파는 이날도 계속 이어졌다. 6월 금리 인상설이 거의 사라진 것이나 다름없는 상황 속에서 일각에선 연준이 내년으로 금리 인상을 미뤄야 한다는 주장도 제기됐다.기업들의 m&a 소식도 장 초반엔 호재로 작용했다. 미국 항공 운송업체 페덱스를 비롯해 유럽 사모투자펀드(pef)의 기업 인수, 버크셔해서웨이의 지분 인수 소식 등이 투심을 부양했다.하지만 달러의 급격한 강세로 인해 장 막판 기업들의 어닝실적 악화 우려가 더 크게 부각되면서 3대 지수는 이날 상승분을 모두 반납하고 하락 반전한 후 장을 마쳤다. 이날 엔/달러는 전날보다 0.69% 오른 달러당 120.3050엔을 기록 중이다. 유로/달러는 전장보다 1.07% 내린 1.0816달러에 거래되고 있다.윌리엄 트러스트의 토니 로스 최고투자책임자(cio)는 '만약 달러 강세가 점진적으로 진행됐다면 기업들이 이에 대한 헤징 기회를 갖게 돼 증시엔 크게 영향을 않았을 것'이라며 '하지만 이날은 달러 강세가 급격한 속도로 이루어져 증시에 악재가 됐다'고 말했다.◇ 코처라코타 총재 '기준금리 인상 내년 후반기로 미뤄야'나라야나 코처라코타 미니애폴리스 연방준비은행 총재는 연준이 내년 하반기까지 기준금리 인상을 연기해야 한다는 주장을 내놨다.이날 노스다코다주 비즈마크 상공회의소에서 가진 조찬 행사에서 코처라코타 총재는 '연준은 통화 완화책 수준을 낮추는 데 이례적인 인내심을 발휘해야만 물가 및 고용 목표를 달성할 수 있다'고 말했다.그는 '내년 하반기까지 기준금리 인상을 미루는 게 적절하다'며 이후 2017년 말까지 금리를 약 2% 수준으로 올리는 방안을 제시했다.지난달 연방공개시장위원회(fomc) 정책회의 결과에 따르면 연준 위원들의 2017년 말 기준금리 전망 중간값은 3.125%를 기록한 바 있다.이 같은 발언은 지난주 발표된 지난달 비농업 부문 신규 일자리 수가 12만6000건을 기록해 15개월래 최저 수준을 기록한 이후 나온 것이다.전날 데니스 록하트 애틀랜타 연은 총재도 향후 두 차례 회의에서 금리 인상에 나서선 안 된다고 발언했다.또한 윌리엄 더들리 뉴욕 연은 총재는 '한번 긴축이 시작되면 금리인상의 길은 좁아질 수 있다'며 금리인상 시기가 불확실하다는 뜻을 내놨다.◇ m&a에 페덱스 악살타 인포매니카 호조 페덱스는 44억유로에 tnt익스프레스 인수를 결정했다. 이 소식에 힘입어 페덱스 주가는 2.69% 올랐다.특수코팅회사 악살타 코팅시스템스는 워렌 버핏의 버크셔 해서웨이의 지분 매입 소식에 힘입어 9.81% 급등했다. 버크셔는 악살타의 주식 2000만주를 5억6000만달러에 칼라일 그룹으로부터 사들이기로 합의했다.데이터 통합 솔루션 전문업체 인포매티카도 유럽 사모펀드 퍼미라어드 바이저스와 캐나다 국민연금인 캐나다연금투자이사회(cppib)의 53억달러 규모 현금 인수 소식에 4.28% 상승했다. 이번 인수는 미국내 차입매수(lbo) 중 최대 규모가 될 전망이다.반면 자동차 제조업체 제네럴모터스(gm)은 캐나다 정부가 잔여 gm 지분을 매각한다는 소식에 2.54% 미끄러졌다.아메리칸 익스프레스는 투자은행 오펜하이머가 자사에 대한 투자의견을 '수익률하회'(underperform)로 하향 조정했다는 소식에 1.63% 하락했다.7일(현지시간) 뉴욕증시 3대 지수. © 로이터=news1 <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-08 06:33:59",
+        "url": "https://www.news1.kr/articles/?2175099",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[유럽마감] 자동차주 부진·그리스 우려에 '하락세'",
+        "subtitle": "",
+        "content": "= 독일 프랑크푸르트에 위치한 유럽중앙은행(ecb) 본부. © 로이터=news 유럽증시는 23일(현지시간) 대부분 하락세로 장을 마감했다. 이날 증시는 유로화 강세에 따른 자동차 관련주 부진과 그리스 우려감에 따른 일부 투자자들의 차익실현으로 하락했다.범유럽지수인 스톡스600지수는 전장 대비 0.69% 하락한 401.24에 거래를 마쳤고, 범유럽 우량주인 스톡스50지수는 0.73% 떨어진 3699.04에 마감했다.영국 ftse100지수는 전장 대비 0.22% 상승한 7037.67을 기록했고, ftse유로퍼스트300지수는 전장대비 0.66% 떨어진 1600.24에 거래를 마쳤다.독일 dax30지수는 전장 대비 1.19% 하락한 1만1895.84를 나타냈고, 프랑스 cac40지수는 전장대비 0.65% 떨어진 5054.52에 장을 마감했다.지난해 달러화 대비 25% 하락했던 유로화 가치는 미연방준비제도이사회(연준)가 기준금리 인상을 서두르지 않을 것임을 밝힌 이후 반등하고 있다.하지만 유로화 약세로 수출이 늘며 수혜를 입었던 자동차 업체들은 타격을 받는 모습이다.트레이더들은 그리스 불안감이 남아있는 것도 시장에 부정적인 영향을 미치고 있다고 밝혔다.스톡스600지수에서 자동차주는 올해 30% 이상 상승세를 기록했으나 이날은 폭스바겐이 3.4% 하락하고 푸조가 2.3% 떨어지는 등 전반적으로 시장실적을 하회했다.이탈리아 타이어 업체 피렐리는 전거래일 대비 1.8% 상승했다. 이 업체는 중국 국영 화학업체인 켐차이나(중국화공)가 71억유로(약 8조5000억원)에 인수하기로 합의한 것으로 알려지면서 상승세를 이어갔다. 켐차이나는 타이어 사업부인 '중국 국영 타이어&고무'를 통해 피렐리의 대주주인 이탈리아 지주회사인 캠핀의 소유 지분 26.2%를 주당 15유로에 전량 인수한다. 이후 양사는 새로 설립하는 지주회사를 통해 올 여름까지 피렐리의 나머지 주식 전체를 주당 15유로에 사들이는 공매에 나선다는 방안에도 합의했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-24 04:32:24",
+        "url": "https://www.news1.kr/articles/?2150716",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕장중] 주요기업 실적 발표에 美 경제 불안요소…혼조세",
+        "subtitle": "",
+        "content": "= 미국 뉴욕증시가 14일(현지시간) 장중 혼조세다. 주요기업들이 이날 발표한 분기실적에서 달러화 강세를 비롯한 미국 경제의 불안요인이 드러난 탓이다. 이런 가운데 이날 발표된 주요 경제지표들은 혼조세를 나타내면서 증시에 부담을 안겼다.다우지수와 s&p500지수는 전날 하락 마감한 이후 이날 반등하고 있다. 나스닥지수는 그러나 이날까지 2거래일 연속 하락세다.미국 동부시간 오후 1시 43분 현재 다우지수는 전날보다 0.38% 오른 1만8046.51을 기록 중이다. s&p500지수는 0.12% 뛴 2095.00을, 나스닥지수는 0.32% 내린 4972.34를 각각 나타냈다. ◇웰스파고 7년만에 순익 감소로 1.3% …jp모간체이스 1.9% 미국 최대 모기지(주택담보대출) 은행인 웰스파고는 1분기 순이익이 전년 동기 대비 2% 감소한 58억달러(약 6조3500억원), 주당 1달러4센트로 집계됐다고 발표했다. 이는 2008년 이후 처음으로 순이익이 감소한 것이다. 웰스파고의 1분기 주당순이익(eps)은 시장 예상치인 99센트는 웃돌았다. 웰스파고의 매출액은 전년 동기 대비 3.2% 증가한 212억8000만달러로 집계됐다. 이는 시장 예상치인 212억4000만달러를 소폭 웃돈 것이다. 전문가들은 역사적 저금리 기조가 웰스파고의 수익성에 타격을 가했다고 입을 모은다. 웰스파고의 순이자마진(nim)은 2.95%로 떨어진 것으로 집계됐다. 이는 1990년대 이후 처음으로 3% 미만을 기록한 것이다. nim은 금융기관의 자산단위당 이익률을 뜻하는 수익성 평가지표다. 이자수익에서 조달비용 간 차액을 이자수익 자산으로 나눈 값이다. 제니퍼 톰슨 포테일스 파트너스 이코노미스트는 '금리 환경은 개선되지 않았고 경제 전망은 일반적으로 부진하다'며 '(웰스파고의) 마진이 하락 압력을 받고 있다'고 지적했다.파이낸셜타임스(ft)는 웰스파고의 1분기 실적은 글로벌 금융위기 이후 신뢰할만한 금융기관의 대명사가 된 웰스파고의 사업이 보기 드물게 지체되고 있음을 드러낸 것이라고 분석했다. 웰스파고의 순익은 2008년 1분기 20억달러에서 지난해 4분기 까지 전년 동기 대비 줄곧 증가했었다. 세계 최대 헬스케어 업체인 존슨앤존슨(j&j)은 신약 판매 호조에 힘입어 시장 전문가 예상치를 웃돈 1분기 실적을 이날 내놨다. 주가 역시 0.15% 상승세다. j&j는 그러나 달러화 강세가 불러온 역풍을 맞았다며 연간 순이익 전망치를 하향 조정했다. 미국 (이름)행인 jp모간체이스는 1.92% 상승세다. jp모간체이스는 1분기 순이익이 전년 동기 대비 12% 증가한 59억달러(약 6조4600억원), 주당 1달러45센트로 집계됐다고 이날 발표했다. 이는 애널리스트들의 예상 eps인 1달러41센트를 웃돈 것이다. jp모간체이스의 매출액은 같은 기간 4% 증가한 248억달러를 기록했다. 이 역시 예상치인 244억9000만달러를 웃돌았다.ft는 jp모간체이스가 투자은행(ib)과 주식 채권 트레이딩 부문 실적 강세에 힘입어 법률비용 부담을 덜었다고 지적했다. ◇美 소매판매 12개월來 최대폭 증가…소기업 경기기대 악화미국의 소매판매 증가율이 12개월 만에 최대치를 기록했다. 소매판매는 그러나 시장 예상치보다 부진한 속도로 증가했다. 미국의 고용시장은 활력을 찾고 있지만 소비심리는 아직 잠들어있다는 분석도 제기된다. 미 상무부는 지난 3월 소매판매가 전월 대비 0.9% 증가했다고 이날 발표했다. 이는 지난해 3월 증가율(1.5%) 이후 최대폭으로 증가한 것이다. 이로써 미국의 소매판매 증가율은 4개월 만에 처음으로 증가세로 돌아섰다. 미국의 소매판매는 지난해 12월 마이너스(-) 0.9%를 기록한 이후 지난 2월까지 줄곧 전월 대비 감소세를 유지했다. ft는 3월 미국의 소매판매 증가율이 증가세로 돌아선 것은 미국 경제가 1분기 부진을 겪은 후 다시 강세를 보일 것이란 시장의 믿음에 힘을 실어주는 것이라고 지적했다. 다만 소매판매 증가율은 시장 예상치를 0.1% 하회했다. 전문가들은 미국의 소매판매 증가율이 예상보다 부진한 것은 소비자들이 고용시장 개선에도 불구하고 여전히 저축에 집중한다는 점을 보여준 것이라고 지적했다. 미국의 한파 역시 소비자들의 구매욕을 악화시킨 요인으로 분석됐다. 미국의 생산자물가지수(ppi)는 차량 연료비 인상에 힘입어 5개월 만에 상승세로 돌아섰다. 미 노동부는 미국의 3월 ppi가 전월 대비 0.2% 상승했다고 이날 발표했다. 이는 시장 예상치에 부합한 것이다. 미국의 ppi는 이로써 지난 10월 이후 5개월 만에 전월 대비 상승세로 돌아섰다. 변동성이 큰 식품과 연료비를 제외한 근원 ppi도 전달보다 0.2% 상승했다.미국의 3월 ppi에 가장 크게 기여한 것은 상품 가격이었다. 미국의 자동차 연료 가격은 3월 현재 전월 대비 1.9% 상승했다. 이는 2008년 10월 이후 최대폭 증가한 것이다. 미국의 지난달 소기업 낙관지수는 그러나 9개월 만에 최저치까지 떨어졌다. 전미자영업연맹(nfib)은 3월 소기업지수가 전월 대비 2.8포인트 하락한 95.2로 집계됐다고 이날 밝혔다. 이는 지난해 6월 이후 최저치다. 지수 하락폭은 2012년 11월 이후 최대다. nfib 설문결과 자본지출을 확대하겠다고 응답한 기업 비율은 24%로 전월 대비 2%포인트 낮아졌다. 이는 2014년 9월 이후 최저치다. 지금이 사업 확장의 적기라고 답한 기업들의 비율도 10%를 기록해 전월 대비 3%포인트 떨어졌다. 고용 확대를 계획한 기업 비율은 10%를 기록했다. 이는 전월 대비 2%포인트 하락한 것이다. 고용이 제대로 이뤄지지 않았다고 답한 기업 비율은 전월 대비 5%포인트 낮아진 25%에 그쳤다. 직원들의 보수를 올려줬다고 답한 기업 비율은 22%로 전월 대비 2%포인트 상승했다. 보상을 낮추겠다고 답한 기업 비율은 1%포인트 낮아진 13%에 머물렀다. ◇국제유가 4거래일 연속 상승세…美 셰일원유 감산 전망 국제유가가 상승세를 거듭한 것도 주가 상승에 기여하고 있다. 뉴욕상업거래소(nymex)에서 서부 텍사스산 원유(wti) 5월 인도분은 전날보다 2.97% 상승한 배럴당 53.45달러에 체결됐다. 영국 런던 ice선물거래에서 북해산 브렌트유 5월 인도분은 1.81% 뛴 58.98달러에 거래됐다. 미국산 셰일원유 생산 규모가 감소할 것으로 예상됐고 예멘의 정정불안이 지속되면서 국제 유가는 상승 탄력을 받고 있다.미국 에너지정보청(eia)에 따르면 5월 미국 주요 셰일지역의 산유량이 전달보다 4만5000배럴 감소할 전망이다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-15 03:04:20",
+        "url": "https://www.news1.kr/articles/?2185889",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "대만 동부 해역서 규모 6.0 지진 발생",
+        "subtitle": "",
+        "content": "= 대만 동부 해역에서 23일(현지시간) 규모 6.0의 지진이 발생했다고 대만 중앙기상청이 밝혔다.기상청에 따르면 이날 지진으로 수도 타이베이에서도 진동이 감지됐다. 현재까지 부상자나 피해 소식은 보고되지 않았다.미국 지질조사국(usgs)은 지진의 규모를 5.9라고 밝혔으며 진원지는 대만 동부 화롄(花蓮)시에서 남동쪽으로 31km 떨어진 해역의 깊이 31km 지점이라고 전했다. 지진 발생 시간은 협정세계표준시(utc, 옛 gmt) 기준 오전 10시13분(대만 현지시간 저녁 6시 13분)이다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-23 20:00:02",
+        "url": "https://www.news1.kr/articles/?2150584",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir]kt '올 인건비 전년동기비 4~5% 감소할 것'",
+        "subtitle": "",
+        "content": "= 신광석 kt 최고재무책임자(cfo)는 30일 올 1분기 실적발표 전화회의(컨퍼런스콜)에서 'kt만 별도로 볼 때 올해 연간 인건비는 2014년보다 4~5% 정도 감소할 것으로 전망된다'고 밝혔다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-30 17:18:13",
+        "url": "https://www.news1.kr/articles/?2212352",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[연봉공개]고재호 대우조선해양 사장, 지난해 보수 8억8900만원",
+        "subtitle": "",
+        "content": "= 대우조선해양은 고재호 사장에 지난해 연간보수로 8억8900만원을 지급했다고 31일 공시했다. 고 사장은 급여 5억2800만원과 상여 3억6100만원을 수령했다.대우조선해양은 '고재호 사장이 계량지표와 관련해 수익성, 성장성 등 매출액을 증가시킨 점과 비계량지표에서 어려운 경영여건에도 불구하고 안정적인 경영관리와 장기발전 기반을 마련했다는 점을 고려해 보수를 지급했다'고 설명했다.고재호 사장을 포함한 등기이사 3명에게 지난해 지급된 보수총액은 13억7900만원이다. 한편 지난해 12월말 기준 대우조선해양에 근무하는 1만3600여명 직원들의 1인당 평균 급여액은 7400만원으로 나타났다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-31 16:17:09",
+        "url": "https://www.news1.kr/articles/?2163532",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "'60세 정년 시대'..민간 벤치마킹 나선 공공기관",
+        "subtitle": "",
+        "content": "= 기획재정부는 15일 한국조세재정연구원과 공동으로 316개 공공기관 대상, 임금피크제 설명회를 개최했다.내년부터 공공기관 임금피크제 도입이 의무화되지만 일부 공공기관과 노조의 반발이 나오고 있다. 기재부가 제시한 권고안에 따라 316개 전체 공공기관(공기업 30개, 준정부기관 86개, 기타 공공기관 200개)은 60세로 정년을 연장해야 하고, 정년 연장자 수만큼 신규 채용을 늘려야 한다.정년연장 대상자는 2년간 약 8000명에 이를 것으로 보인다. 기재부는 임금피크제 도입 성과를 공공기관 경영평가에 반영키로 했다. 신규 채용에 대해서는 상생고용지원금을 연간 최대 1080만원 지원한다.이날 설명회에서는 민간기업이 도입한 다양한 임금피크제 사례가 소개됐다.포스코의 경우 국내에 흔치 않은 '고용연장형' 사례로 꼽힌다. 정년를 58세로 2년 연장하는 조건에 56세부터 해마다 임금을 10%씩 깎는다. 그러나 58세 정년 이후에도 특별한 결격사유가 없으면 60세까지 일할 수 있다. 민간기업은 정년연장 나이를 보통 57~58세로 정하는데 비해 포스코는 '60세 정년'이라는 상징적 목표를 달성한 사례다.lg전자의 경우 58세로 정년을 3년 연장하고 55세 이후 임금을 매년 10%씩 삭감한다. 그러나 하던 일을 그대로 할수 있도록 보장하고 복리후생도 유지한다. '동일직무 동일처우' 원칙을 지켜 고령자를 배려했다.하나투어의 경우 정년을 55세에서 65세로 10년 연장하는 파격적인 제도를 도입했다. 50세부터 피크임금의 80%로 삭감하고 60세 이후엔 피크임금의 40%를 지급한다. 그러나 근무 일수도 주 4일~2일로 단계적으로 줄인다. 고령자의 노동시간보다는 경험과 지식을 활용하는데 초점을 맞췄다.기재부는 다음달 말까지 공공기관의 정년연장 대상자와 신규채용 규모를 제출받아 7~8월 중 이를 확정할 예정이다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-15 15:15:28",
+        "url": "https://www.news1.kr/articles/?2234110",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "(이름) 총재 '세차례 기준금리 인하 효과 지켜봐야'",
+        "subtitle": "",
+        "content": "= (이름) 한국은행 총재는 9일 열린 금융통화위원회 정례회의 뒤 가진 기자간담회에서 '세차례 금리 인하 효과를 지켜볼 필요가 있다'고 동결 이유를 밝혔다.이 총재는 '성장 및 물가 전망치가 낮아졌지만 이미 3월에 예상해서 금리를 낮췄다'며 '가계대출의 높은 증가세에 유의할 필요가 있다는 점을 감안했다'고 말했다.이날 한은 금통위는 4월 기준금리를 동결하고 연 1.75%에서 유지하기로 했다. 한은은 지난해 8월과 10월에 이어 3월에도 0.25%p씩 인하한 바 있다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-09 11:31:02",
+        "url": "https://www.news1.kr/articles/?2177831",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "코처라코타 총재 'frb, 금리 인상 내년 하반으로 연기해야'",
+        "subtitle": "",
+        "content": "= 나라야나 코처라코타 미니애폴리스 연방준비은행 총재가 미국 연방준비제도이사회(frb)의 기준금리 인상 시점을 내년 하반기까지 연기해야 한다고 7일(현지시간) 밝혔다. 코처라코타 총재는 이날 노스다코다주 비즈마크 상공회의소에서 가진 조찬 행사에서 'frb는 통화 완화책 수준을 낮추는데 이례적인 인내심을 발휘해야만이 물가 및 고용 목표를 달성할 수 있다'며 '올해 기준금리 목표 범위를 높이는 것은 실수라는 생각에 변함이 없다'고 말했다.그 는 '내년 하반기까지 기준금리 인상을 미루는 것이 적절하다(appropriate)'며 이후 2017년말까지 금리를 약 2% 수준으로 올리는 방안을 제시했다. 이는 다른 frb 인사들의 전망보다 훨씬 느린 인상 속도다. 3월 연방공개시장위원회(fomc) 의사록에 따르면 frb 위원들의 2017년말 기준금리 전망 중간값은 3.125%를 기록한 바 있다. 코 처라코타는 frb의 법적 책무인 완전고용 창출과 가격 안(이름)는 두 가지 목표에 대해 최소 몇 년이 더 지나야 둘 중 하나를 달성할 수 있다고 덧붙였다. 그는 '물가상승률이 향후 3년내에 2% 목표치에 도달할 수 없을 것으로 본다'며 도달에 필요한 기간이 더 길어질 수 있음을 시사했다. 반면 고용시장에 대해서는 작년 동안 '엄청난 개선세가 나타났다'며 긍정적인 평가를 내놨다. 다만 경기침체 이전인 2006년 고용시장 상태로 회복되기 위해서는 '작년과 같은 모습이 최소 3년간 이어져야 한다'고 말했다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-07 22:30:54",
+        "url": "https://www.news1.kr/articles/?2174973",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[인도마감] 그리스-독일 정상회담 앞두고 관망세…센섹스 0.24% ↓",
+        "subtitle": "",
+        "content": "= 인도 뭄바이의 봄베이증권거래소(bse). © 로이터=news1인도증시가 23일(현지시간) 하락 마감했다.이날 증시는 앙겔라 메르켈 독일 총리와 알렉시스 치프라스 그리스 총리의 정상 회담을 앞두고 관망세가 형성되며 소폭 하락했다.이날 뭄바이증시의 센섹스지수는 전장 대비 69.06(0.24%) 하락한 2만8192.02에 거래를 마쳤다. 니프티지수도 20.00(0.23%) 떨어진 8550.90에 장을 마감했다.치프라스 총리는 자국의 국가부도(디폴트) 위기 타개를 위해 이날 독일을 방문해 메르켈 독일 총리와 양자회담을 갖는다. 그리스는 이르면 이달 중 현금 고갈로 인해 디폴트를 맞을 위기에 직면해 있다. 다급해진 그리스는 마지막 분할 지원금 70억유로(약 8조3920억원)를 받기 위해 전전긍긍하고 있다. 이에 메르켈 총리와의 이번 회담은 그리스의 부채 문제 해결 여부에 중대한 고비가 될 전망이다.부문별로는 내구소비재 관련주가 1.03% 하락해 가장 부진했으며 it 관련주는 0.99% 떨어져 그 뒤를 이었다. 뭄바이 증시 은행주 지수인 'bankex‘도 0.88% 하락해 부진했다. 반면 금속주는 0.24% 상승했다.개별 종목에서는 바라트중전기(bhel)가 3.56% 하락해 낙폭이 컸으며 icici뱅크가 1.47%, 인도상업은행이 1.42% 하락해 부진했다. 에너지 정제기업인 릴라이언스 인더스트리는 1.26%, it아웃소싱 업체인 와이프로는 1.16% 떨어졌다. 반면 인도 최대 알루미늄 구리 생산업체인 힌달코는 3.18% 올라 선전했으며 국영기업인 인도 중앙 전력청(ntpc)은 3.09%, 천연가스 및 액화석유가스(lpg) 공급업체인 인도 국영 가일인디아는 1.71% 상승했다. 인도 최대 이통업체인 바르티 에어텔은 1.17% 오르고 타타 스틸도 1.09% 상승했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-23 20:48:37",
+        "url": "https://www.news1.kr/articles/?2150613",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[연봉공개]구자엽 ls전선 회장, 지난해 보수 19억6600만원",
+        "subtitle": "",
+        "content": "= ls전선은 구자엽 회장에 지난해 연간보수로 19억6600만원을 지급했다고 31일 공시했다. 구 회장의 보수는 급여로만 이뤄졌으며 상여는 포함돼 있지 않다.구자은 사장도 상여 없이 급여로만 7억8600만원을 수령했다. ls전선 측은 '임원급여지급 기준에 따라 연간 급여를 매달 지급했다'고 설명했다.한편 지난해 12월말 기준 ls전선에 근무하는 직원 2139명의 1인당 평균 연간급여액은 6800만원으로 나타났다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-31 16:57:13",
+        "url": "https://www.news1.kr/articles/?2163702",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[연봉공개]나세르 알 마하셔 에쓰오일 대표, 지난해 보수 6.5억원",
+        "subtitle": "",
+        "content": "= 에쓰오일은 나세르 알 마하셔 대표이사에 지난해 보수 6억4900만원을 지급했다고 31일 공시했다. 급여는 2억9700만원이며, 성과급은 1억1200만원이다. 상여금은 1억9600만원, 복리후생비 및 건강보험료는 4300만원이다.에쓰오일은 '보수위원회의 의결에 따라 (이름) 연간 고정 상여금을 지급했으며, 2014년 초에 지급한 2013년 경영성과에 따른 성과급은 보수위원회에서 연초에 정한 경영성과 목표에 대한 달성률을 고려해 정했다'고 설명했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-31 16:20:01",
+        "url": "https://www.news1.kr/articles/?2163544",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "래커 총재 'frb, 6월 금리인상 가능성 크다'",
+        "subtitle": "",
+        "content": "= 제프리 래커 리치먼드 연방준비은행 총재가 오는 6월에 미국이 기준금리 인상에 나설 수 있다는 입장을 밝혔다.래커 총재는 31일(현지시간) 리치먼드 상공회의소에서 가진 연설에서 '향후 경제지표 결과가 전망에서 상당히 멀어지지 않는 이상 오는 6월 통화정책회의에서도 금리 인상 주장은 여전히 강하게 유지될 것'이라고 밝혔다. 미국 주택시장 회복세 둔화와 달러 강세로 인한 수출 압박에도 래커 총재는 고용시장 개선세 및 강한 비즈니스 투자가 올해 미국의 경제성장을 이끌 것으로 예상했다. 그는 올해 미국 gdp(국내총생산) 성장률이 2.0%에서 2.5% 수준으로 전망했다.3 월 연방공개시장위원회(fomc) 회의에서 연방준비제도이사회(frb)는 오는 4월 회의에서는 기준금리 인상에 나서지 않겠다는 뜻을 밝힌 바 있다. 전문가들은 여전히 frb가 빠르면 6월부터 금리 인상에 나설 수 있다는 전망을 유지하고 있지만, 올해 겨울 나타났던 미국의 물가상승률 악화 및 경제둔화 신호로 인해 9월 인상 가능성을 더 높게 판단하고 있다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-31 21:29:35",
+        "url": "https://www.news1.kr/articles/?2164277",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[프로야구]31일 nc-넥센전 우천 취소",
+        "subtitle": "",
+        "content": "= 31일 창원구장에서 열릴 예(이름) nc-넥센전이 우천 취소됐다.한국야구위원회(kbo)는 이날 창원 마산야구장에서 열릴 예정이었던 ‘2015 타이어뱅크 kbo 리그’ 넥센 히어로즈와 nc의 경기가 우천으로 연기됐다고 밝혔다.취소된 경기는 추후 편성된다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-31 15:53:11",
+        "url": "https://www.news1.kr/articles/?2163425",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "英 1q gdp 수정치 0.3%↑…잠정치와 동일",
+        "subtitle": "",
+        "content": "= 영국의 지난 1분기 gdp(국내총생산) 성장률 수정치가 잠정치와 같은 수준을 나타냈다. 28일(현지시간) 영국 통계청(ons)은 1분기 gdp가 전분기대비 0.3% 성장했다고 발표했다. 시장 전망치인 0.4% 성장보다는 부진했으나 잠정치와는 동일한 수준이다. 이로써 영국 gdp는 9분기 연속 성장세를 이어갔다. 전년대비 1분기 성장률 수정치는 2.4%를 기록해 역시 잠정치에 부합했다. 시장은 전년대비 2.5% 성장할 것으로 예상했었다.ons의 조 그리스 수석연구원은 '수정치가 잠정치와 동일하게 나타난 것은 생산 및 건설부문이 다소 상향조정되면서 서비스부문의 하향을 상쇄한 덕분'이라고 설명했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-28 18:36:54",
+        "url": "https://www.news1.kr/articles/?2253812",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "대한항공, 유상증자 신주 발행가액 3만5200원 확정",
+        "subtitle": "",
+        "content": "= 대한항공은 유상증자 신주 발행가액을 1주당 3만5200원으로 확정했다고 10일 공시했다.이는 신주 배정 기준일(2015년 2월6일)의 3거래일 전인 2월3일을 기산일로 해 산정한 1차 발행가액과 구주주 청약일(2015년 3월12일) 3거래일 전인 3월9일을 기산일로 산정한 2차 발행가액 중 낮은 금액이다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-10 11:10:31",
+        "url": "https://www.news1.kr/articles/?2129327",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "롯데캐피탈, 지난해 고바야시 대표이사 보수 7억9900만원",
+        "subtitle": "",
+        "content": "= 롯데캐피탈은 지난해 보수로 고바야시 마사모토 대표이사에게 7억9900만원을 지급했다고 31일 금융감독원 사업보고서 공시를 통해 밝혔다.세부 내역으로 고바야시 대표이사의 급여는 6억9800만원, 상여는 1억100만원이었다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-31 15:57:01",
+        "url": "https://www.news1.kr/articles/?2163440",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "동부화재해상보험, 김정남 대표이사 보수 6억500만원",
+        "subtitle": "",
+        "content": "= 동부화재해상보험은 지난해 보수로 김정남 대표이사에게 6억500만원을 지급했다고 31일 금융감독원 사업보고서 공시를 통해 밝혔다.세부 내역으로 김 대표이사의 급여는 4억7000만원이었으며 생산성향상격려금이 1억1200만원, 기타 근로소득은 2200만원이었다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-31 19:05:03",
+        "url": "https://www.news1.kr/articles/?2164156",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "(이름) 총재 '큰 폭의 세수부족, 성장률 낮추는 요인'",
+        "subtitle": "",
+        "content": "= (이름) 한국은행 총재는 9일 열린 금융통화위원회 정례회의 뒤 가진 기자간담회에서 '2013년부터 2년 연속 큰폭의 세수부족이 있었고 지난해 4분기에도 0.3% 성장에 그친것도 세수부족에 기인한다'며 '큰 폭의 세수부족은 성장률을 낮추는 요인이다'고 말했다.이어 '세수부족이 생기면 당해년도 성장률에만 영향 주는게 아니라 다음해 성장률에 크게 영향 준다'고 덧붙였다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-09 11:35:25",
+        "url": "https://www.news1.kr/articles/?2177861",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[특징주] '롤러코스터' 내추럴엔도텍, 6% 약세로 내리막",
+        "subtitle": "",
+        "content": "= 내츄럴엔도텍이 다시 하락세로 전환했다. 전날 상한가로 마감했던 내츄럴엔도텍은 20일 오전 10시20분 현재 6% 약세를 기록하고 있다.장 초반에는 소폭 상승세로 출발했지만 이내 약세로 전환한 뒤 낙폭을 서서히 키우고 있다.전일 13거래일만에 상한가로 반짝 반등을 노리기도 했지만 투기성 단기차익 거래가 집중된 상황에서 방향을 유지하기 힘든 상황이다.연일 내추럴엔도텍의 주가가 출렁이고 있지만 거래소로서는 별다른 조치를 할 수 없는 상황이다.오히려 거래소는 지난달 6일 내추럴엔도텍의 소속부를 기존 벤처기업부에서 우량기업부로 업그레이드한 상태다. 소송부 변경 심사기준을 기계적으로 적용한 결과다.우량기업부 선별조건은 자기자본 700억원 이상 또는 시가총액 최근 6개월 평균 1000억원 (이름)면서, 자본잠식이 없으면 된다. 추가로 최근 3년간 자기자본이익률(roe)이 평균 3% (이름)거나 순이익 평균 30억원 이상, 최근 3년간 매출 평균 500억원 이상 등의 (이름) 붙는다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-20 10:26:00",
+        "url": "https://www.news1.kr/articles/?2240547",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "현대커머셜, 지난해 (이름) 사장 보수 7억9200만원",
+        "subtitle": "",
+        "content": "= 현대커머셜은 지난해 보수로 (이름) 사장에게 7억9200만원을 지급했다고 31일 금융감독원 사업보고서 공시를 통해 밝혔다.세부 내역으로 정 사장의 급여는 5억5000만원이었으며 성과급은 2억4200만원이었다.이 밖에도 김병희 전무이사가 6억6100만원의 보수를 수령했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-31 17:01:44",
+        "url": "https://www.news1.kr/articles/?2163721",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "(이름) 총재 '경기회복 미흡, 구조적 요인이 크게 자리잡아'",
+        "subtitle": "",
+        "content": "= (이름) 한국은행 총재는 9일 열린 금융통화위원회 정례회의 뒤 가진 기자간담회에서 '최근 경기가 회복이 미흡한 것은 세계경기 부진과 같은 경기순환적 요인도 있지만 구조적 요인이 크게 자리잡고 있다'고 말했다.이 총재는 '구조개혁 함께 가지 않으면 지속적인 회복세 기대하기 어렵다는 생각은 변함없다'며 '정부의 구조개혁 노력이 결실을 맺었으면 좋겠다'고 밝혔다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-09 11:38:31",
+        "url": "https://www.news1.kr/articles/?2177873",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "英 로열 베이비 이름은 '캠브리지의 샬럿 공주' (종합)",
+        "subtitle": "",
+        "content": "= 영국영국 '로열 베이비'의 이름이 샬럿 엘리자베스 다(이름)(charlotte elizabeth diana)로 결정됐다고 afp 통신이 4일(현지시간) 보도했다.켄싱턴궁은 이날 성명을 통해 '캠브리지 공작과 공작부인은 딸이 이름이 샬럿 엘리자베스 다(이름)로 결정된 것을 기뻐하고 있다'고 밝혔다.켄싱턴궁은 '아기는 앞으로 '캠브리지의 샬롯 공주'로 불리게 될 것'이라고 덧붙였다.샬럿은 공주의 조부인 찰스 왕세자의 찰스 여성형 이름이다. 또 가운데 엘리자베스는 증조모인 엘리자베스 여왕 2세에게 따온 것이며, 마지막 다(이름)는 할머니이며 윌리엄의 어머니인 1997년에 사망한 다(이름)의 이름이다.샬롯이란 이름은 도박업자들이 가장 선호한 이름이다. 또한 역대 영국 왕실에서 수차례 사용된 이름이기도 하다. 조지 3세의 아내인 샬럿 왕비(1761-1818)는 아마추어 식물학자였으며, 첫 번째 이름인 소피 대신 샬럿이란 중간 이름을 사용했다.조지 4세 역시 자신의 외동딸에게 샬럿이란 이름을 붙여줬으나 그는 1817년 아이를 낳다가 21세의 나이로 사망했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-05 00:20:47",
+        "url": "https://www.news1.kr/articles/?2216690",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美 3월 ppi 상승률 5개월 만에 '플러스'로 전환",
+        "subtitle": "",
+        "content": "= 미국의 생산자물가지수(ppi)가 차량 연료비 인상에 힘입어 5개월 만에 상승세로 돌아섰다.미국 노동부는 미국의 3월 ppi가 전월 대비 0.2% 상승했다고 14일(현지시간) 발표했다. 이는 시장 예상치에 부합한 것이다. 미국의 ppi는 이로써 지난 10월 이후 5개월 만에 전월 대비 상승세로 돌아섰다. 변동성이 큰 식품과 연료비를 제외한 근원 ppi도 전달보다 0.2% 상승했다.미국의 3월 ppi에 가장 크게 기여한 것은 상품 가격이었다. 미국의 자동차 연료 가격은 3월 현재 전월 대비 1.9% 상승했다. 이는 2008년 10월 이후 최대폭 증가한 것이다. 전문가들은 미국의 ppi가 상승세로 돌아선 것은 미국 연방준비제도이사회(frb)의 물가상승률 목표치 달성에 긍정적으로 기여할 것이라고 내다봤다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-04-15 00:22:04",
+        "url": "https://www.news1.kr/articles/?2185870",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "(이름) 자격정지 18개월…리우올림픽 출전 가능성 있어",
+        "subtitle": "",
+        "content": "= 금지약물 양성반응으로 파문을 일으킨 '마린보이' (이름)(26)이 국제수영연맹(fina)으로부터 18개월 선수 자격정지 징계를 받았다. 다만 내년 8월 열릴 리우데자네이루 올림픽 출전 가능성은 생겨 최악의 상황은 피했다.로이터통신에 따르면 fina는 23일(현지시간) 스위스 로잔의 사무국에서 지난해 약물 검사에서 적발된 (이름)을 출석시킨 가운데 청문회를 개최한 뒤 18개월 자격정지를 확정해 발표했다.(이름)의 징계는 fina의 도핑테스트(소변샘플 채취)를 받은 날인 지난해 9월 3일부터 소급 적용돼 내년 3월 2일 끝나는 것으로 알려졌다.fina는 (이름)이 해당 징계 기간 세운 기록들을 무효 처리하고 메달과 상금도 회수한다고 밝혔다.(이름)은 지난해 9월 열린 2014 인천아시안게임에서 메달 6개(은메달 1개, 동메달 5개)를 획득한 바 있다.fina는 성명을 통해 징계 결과에 불만이 있다면 21일 내에 스포츠중재재판소(cas)에 제소할 수 있다고 덧붙였다.(이름)은 일단 최악의 시나리오인 2년 자격정지를 피하면서 내년 8월로 예정된 리우데자네이루 올림픽에 출전할 가능성이 생겼다. 하지만 현재 대한체육회의 규정에는 '금지약물 복용으로 징계를 받은 선수는 징계가 종료된 시점으로부터 3년 이내에 국가대표 선수가 될 수 없다'고 명시돼 있어 속단하기는 이른 상황이다. 만약 (이름)이 올림픽 무대를 밟기 위해선 이 규정도 바뀌어야 한다.(이름)은 2014년 7월29일 서울의 한 병원에서 세계반도핑기구(wada) 금지약물인 남성호르몬(테스토스테론)이 포함된 '네비도' 주사를 맞았다. 이후 인천아시안게임을 앞두고 2014년 9월초 받은 도핑테스트에서 양성 반응이 나왔다.(이름) 측은 금지약물 성분이 포함된 사실을 몰랐다며 지난 1월 해당 병원장 김씨를 고소했다.수사 결과 검찰은 업무상 과실치상 등 혐의로 김씨를 불구속기소하고 (이름)이 주사제 이름과 금지약물에 해당된다는 사실을 모른 채 주사를 맞은 것으로 판단했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-24 03:57:01",
+        "url": "https://www.news1.kr/articles/?2150711",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "'is, 팔미라 원형극장에서 20명 공개 처형'-sohr",
+        "subtitle": "",
+        "content": "= 수니파 급진 무장세력 '이슬람국가(is)'가 최근 장악한 시리아 고대도시 팔미라의 원형극장에서 최소 20명을 공개처형했다고 시리아인권관측소(sohr)를 인용해 로이터통신 등이 27일(현지시간) 보도했다.sohr은 현지에 있는 소식통을 인용해 is가 로마 원형극장에서 많은 사람들이 보는 가운데 시리아 정부군을 위해 싸웠다는 (이름) 남자 20명을 처형했다고 밝혔다. 처형 방식은 총살이었던 것으로 알려졌다.라미 압델 라흐만 sohr 소장은 'is는 자신들의 힘을 과시하기 위해 (원형극장에) 많은 사람들을 모았다'고 설명했다.시리아 정부 관계자는 '처형이 사실로 확인된다면 이는 팔미라의 고대 유물들에 대해서도 is의 야만적인 만행이 시작될 수 있다는 신호가 될 수 있다'고 우려를 나타냈다.그는 '로마 원형극장을 처형지로 사용했다는 것은 그들이 인간성과는 동떨어져 있다는 것을 증명한 것이다'고 말했다.is는 약 9일간 지속적인 공격을 퍼부은 끝에 지난 21일 유네스코 지정 세계문화유산인 팔미라를 장악했다.sohr에 따르면 is는 지난 1주일간 팔미라에서 민간인 67명을 포함해 217명을 처형하고 약 600명을 포로로 잡은 것으로 알려졌다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-05-28 05:43:51",
+        "url": "https://www.news1.kr/articles/?2251924",
+        "source_site": "뉴스1"
+      }
+    ]
+  }
+}

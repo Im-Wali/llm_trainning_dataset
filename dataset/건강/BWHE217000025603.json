@@ -1,0 +1,574 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_웹데이터 말뭉치 구축__7000025603",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "category": 0,
+      "type": 0,
+      "source_file": "BWHE217000025603",
+      "source": "0"
+    },
+    "text": [
+      {
+        "title": "美 소비자 신뢰지수 7년 5개월래 최고치(상보)",
+        "subtitle": "",
+        "content": "= 미국의 1월 소비자 신뢰지수가 7년여 만에 최고치를 기록했다.컨퍼런스보드는 이번달 미국의 소비자신뢰지수가 102.9로 집계됐다고 27일(현지시간) 밝혔다. 이는 지난 2007년 8월 이후 최고치다.시장 전문가 예상치는 93.1이었다.세부 항목별로 살펴보면 1월 현재 상(이름)는 112.6으로 전월 99.9보다 상승했고, 기대지수 역시 96.4로 전월 88.5보다 올랐다.가솔린 가격 하락과 아울러 노동 시장 개선세가 (이름) 가운데 미국 실업률은 6년여만에 가장 낮은 수준을 나타내고 있다. 이 같은 추세로 인해 미국의 경기기대가 고조되고 있다. 미국 소비자 신뢰지수가 대폭 호조세를 띠면서 미국인들의 소비 지출이 급증할 수 있다는 관측도 늘고 있다. 린 프랑코 컨퍼런스보드 이사는 '현재 기업 및 고용 경기에 대한 긍정적인 평가들로 인해 소비자들의 평가가 개선됐다'고 성명을 통해 밝혔다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-28 00:32:48",
+        "url": "https://www.news1.kr/articles/?2066714",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "이라크군, 티크리트 진격 이틀째 중단…병력 증강 대기",
+        "subtitle": "",
+        "content": "= 이라크 북부 티크리트 탈환 작전에 나선 이라크군과 시아파 민병대가 14일(현지시간) 추가 병력 투입을 기다리며 이틀째 진격을 멈춘 상태라고 군사소식통이 밝혔다.이라크군과 시아파 민병대, 지원에 나선 이란군은 이슬람국가(is)가 장악한 티크리트에 지난 11일 입성해 북부와 남부 지역을 재점령했다. 티크리트 탈환 작전을 본격 시작한지 약 2주만이다.소식통은 is 대원이 여전히 티크리트 절반 정도를 장악하고 있으며 건물에 폭탄이나 지뢰를 심어 이라크군의 진격을 막고 있다고 말했다.이 소식통은 시가전을 위해서는 '고도의 훈련을 받은' 병력이 필요하다고 밝혔지만 추가 병력이 언제 도착하는지에 대해서는 함구했다.그러면서 '많은 숫자가 필요한 건 아니며 1000~2000명 정도가 필요하다. 전문인력과 군인들이 필요하다'면서 '군 사령관들은 적절하고 신중하게 세운 계획을 가동할 수 있을 때까지 작전을 중단하기로 결정했다'고 덧붙였다.사담 후세인의 고향이기도 한 티크리트 탈환은 제2의 도시 모술 재점령을 위해 이라크 정부에게 필요한 중추적 단계가 될 것이라는 분석이 지배적이다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-14 23:18:38",
+        "url": "https://www.news1.kr/articles/?2137185",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir]sk이노 '회사 사상 초유 위기…배당 안한다'",
+        "subtitle": "",
+        "content": "= sk이노베이션은 5일 열린 2014년도 실적 관련 컨퍼런스콜에서 '지난해 실적악화와 불확실한 경영환경에 따라 배당을 실시하지 않기로 이사회에서 결정했다'고 밝혔다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-02-05 16:32:58",
+        "url": "https://www.news1.kr/articles/?2081620",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "보스턴연준 총재 '각국 저인플레 우려해야'",
+        "subtitle": "",
+        "content": "= 에릭 로젠그렌 미국 보스턴 연방준비은행 총재는 저(低) 인플레이션은 수십년전 고(高) 인플레이션과 마찬가지로 경제에 문제를 일으킬만한 요인이라고 경고했다.월스트리트저널(wsj)에 따르면 로젠그렌 총재는 5일(현지시간) 독일 프랑크푸르트에서 열린 한 컨퍼런스에 참석해 '인플레이션이 중대하게 (목표치를) 미달한 문제는 21세기 들어 첫 20년간 중앙은행들에 핵심적 도전이 될 것으로 보인다'고 연설했다. 그는 '1970년대 (고 인플레이션을 일으킨) 오일쇼크와 함께 현재 충격은 잠재적 통화정책 실패를 두드러지게 한다'며 '이번 사례는 각국 중앙은행들이 현재 물가상승률이 목표치를 크게 빗나간 상황을 빠르고 격렬하게 타개하는 데 실패하는 것'이라고 지적했다. 로젠그렌 총재는 '중앙은행들의 타개 움직임 지연은 값비싼 대가를 치룰 것'이라며 '특히 가계와 기업들이 매우 낮은 물가상승률을 예상하도록 이끌 것'이라고 지적했다. 그의 이번 발언은 미국 연방준비제도이사회(frb)가 3차례에 걸쳐 진행한 양적완화 프로그램의 결과를 되돌아보는 과정에서 나온 것이다. frb는 지난해 10월까지 국채를 비롯한 자산매입을 통해 경기부양에 나서는 한편 현재도 '제로'(0) 수준인 기준금리를 유지하고 있다. 로젠그렌 총재는 유럽중앙은행(ecb)이 심각한 물가상승률 약세에 대처해 양적완화 프로그램을 가동하는 한편 일본은행(boj) 역시 비슷한 노력을 기울이고 있다고 지적했다. frb가 양적완화를 중단한 것은 미국 경제가 크게 개선됐다는 판단에 따른 것이다. 그는 그러나 '우리는 단기금리(기준금리) 또는 대차대조표 (이름)를 이루기 위해 여전히 갈길이 멀다'고 지적했다. frb는 양적완화 프로그램을 통해 대차대조표 규모를 4조6000억달러수준까지 늘렸다. 글로벌 금융위기 이전 8000억달러에서 급증한 것이다. 그러나 frb의 양적완화의 실효성에 대해서도 현재 논란이 이어지고 있다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-02-06 04:28:56",
+        "url": "https://www.news1.kr/articles/?2082200",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir](이름) 회장, '배당성향 56%..경쟁사 보다 높다'",
+        "subtitle": "",
+        "content": "= (이름) 포스코 회장은 5일 '지난해 연간 배당금은 주당 8000원으로 이를 배당성향으로 계산하면 56% 수준이다'며 '경쟁사들의 배당성향이 40% 수준인점을 감안하면 상당히 높은 수준이다'고 밝혔다. 권 회장은 '지난해 실적을 감안하면 배당금을 축소해야 하는 상(이름)만 여러가지를 고민해서 배당을 유지했다'며 '순이익이 좋지 않게 나왔지만 안정적인 배당정책을 유지해왔고 앞으로도 배당 정책을 유지할 것'이라고 덧붙였다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-02-05 16:37:10",
+        "url": "https://www.news1.kr/articles/?2081636",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "조양호 회장 '(이름) 한진그룹 모든 계열사 대표 및 등기이사 물러날 것'(3보)",
+        "subtitle": "",
+        "content": "= 조양호 한진그룹 회장은 12일 오후 1시 30분 서울 공항동에 위치한 대한항공 본사 빌딩에서 열린 기자회견에서 '국토교통부와 검찰 조사 결과와 상관없이 대한항공 부사장 직은 물론 모든 계열사의 등기이사와 대표 등 모든 자리에서 물러나도록 하겠다'며 '다시 한번 국민 여러분의 용서를 구한다'고 밝혔다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2014-12-12 13:39:03",
+        "url": "https://www.news1.kr/articles/?1998924",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[특징주]기아차, 4분기 어닝쇼크 소식에 낙폭 확대",
+        "subtitle": "",
+        "content": "= 기아차가 작년 4분기 어닝쇼크 소식에 낙폭을 확대하고 있다. 23일 오후 2시 17분 현재 기아차는 전일대비 2.39%(1200원) 하락한 4만9000원에 거래되고 있다. 이날 기아차는 올해 4분기 영업이익이 전년동기대비 23% 줄어든 5006억원을 기록했다고 밝혔다. 매출액은 0.5% 감소한 11조7019억원, 당기순이익은 54.0% 줄어든 4362억원을 기록했다. 기아차 관계자는 '수출이 높은 비율을 차지하는 사업구조상 평균 환율이 전년 동기 대비 41원 하락하고 러시아 루블화 약세 등의 영향으로 수익성이 낮아졌다'고 설명했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-23 14:22:43",
+        "url": "https://www.news1.kr/articles/?2060729",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "sk브로드밴드, 지난해 순익 43억..65% 감소",
+        "subtitle": "",
+        "content": "= sk브로드밴드는 지난해 순이익이 43억749만원으로 전년보다 64.9% 줄었다고 29일 공시했다. 같은 기간 영업이익은 581억5416만원으로 전년보다 20.5% 감소했다. 반면, 매출액은 2조6544억원으로 4.5% 증가했다.sk브로드밴드는 매출액 증가에도 이익이 줄어든 이유에 대해 '투자증가에 따른 감가상각비와 마케팅 비용 등의 증가때문'이라고 설명했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-29 08:41:47",
+        "url": "https://www.news1.kr/articles/?2068956",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "wti, iea 생산량 감소 전망에 5.3% 급반등",
+        "subtitle": "",
+        "content": "= 런던의 한 주유소. © 로이터=news1국제유가가 16일(현지시간) 급반등했다.국제에너지기구(iea)의 비(非) 석유수출국기구(오펙·opec) 산유국들의 석유 생산량 감소 전망과 미국의 소비자신뢰지수 호조 등으로 인해 서부텍사스산 원유(wti)가 5.3% 올랐다.이날 wti 2월 인도분 선물가격은 이날 전 거래일보다 5.3% 오른 배럴당 48.69달러에 체결됐다. 이로써 wti 선물가격은 이번 주 0.7% 올라 주간 기준으로 8주 만에 처음으로 상승을 나타냈다.런던 ice선물시장에서 북해산 브렌트유도 전장 대비 1.90달러(4.0%) 오른 배럴당 50.17달러에 거래됐다. 하지만 이번 주 2.2% 하락해 주간 기준 8주 연속 하락세를 이어갔다.iea는 오펙 회원국 외 산유국들의 일일 산유량이 35만 배럴 줄어들 것으로 예상했다. 최근 저유가로 인해 특히 북미 지역을 중심으로 생산량이 감소할 것이라고 본 것이다.이날 발표된 미국 소비자신뢰지수가 11년 만에 최고를 기록한 것도 유가에 긍정적인 영향을 미쳤다.이달 미국 톰슨-로이터/미시간대의 미국 소비자신뢰지수 예비치는 93.8을 기록했다. 2004년 이후 최고로, 지난달의 최종치인 93.8을 상회한 것이다. 예상치인 94.1도 웃돈다.향후 기대지수는 지난달 86.4에서 이달 91.6으로 올랐다. 이는 시장 예상치인 87.0을 상회한 것이다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-17 08:29:54",
+        "url": "https://www.news1.kr/articles/?2050932",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕개장] 그리스·주택지표 관망 속 약보합 출발",
+        "subtitle": "",
+        "content": "= 뉴욕증권거래소(nyse). © 로이터=news1뉴욕증시가 23일(현지시간) 약보합세로 출발했다.이날 주택지표 발표를 앞두고 그리스가 세부 개혁안을 국제 채권단(트로이카)에 제출한 것으로 알려진 가운데 3대 지수가 보합권 하락세를 나타내고 있다.개장 직후 다우존스산업평균지수는 전장 대비 9.6(0.05%) 하락한 1만8130.84를 기록 중이다.스탠다드앤푸어스(s&p) 500지수는 전장 대비 1.77(0.08%) 내린 2108.53을 나타내고 있다.나스닥종합지수는 전장 대비 3.25(0.07%) 밀린 4952.72에 거래 중이다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-02-23 23:41:25",
+        "url": "https://www.news1.kr/articles/?2105880",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir] 삼성전자 '1등의 결론은 oled보다 suhd tv '",
+        "subtitle": "",
+        "content": "= 삼성전자는 oled보다 양자점(퀀텀닷) tv가 현 시장 상황에 더 적합하다고 29일 2014년 4분기 실적 컨퍼런스콜을 통해 밝혔다. 삼성전자는 'oled tv 비중이 낮다'는 지적에 '업계 리더로서 기술은 다 확보돼 있다'며 '업계 리더가 고민할 부분은 기술 확보와 출시 문제가 아니라 실제 소비자들에게 얼마나 가치있는 제품을 접근성 있게 제공하는 것'이라고 강조했다. 이어 '두 기술을 따져볼 때 oled의 경우 기술은 확보했지만 시장이 수용 가능 수준이 아니라 상황을 더 봐야 한다'며 '대신 oled 장점으로 꼽히는 색감과 명암비, 밝기를 나노크리스탈 테크놀로지가 적용된 suhd가 기술구현을 했다고 본다'고 밝혔다. 삼성전자는 'suhd에 커브드 기술까지 합쳐 다양한 제품을 제공할 수 있다'고 덧붙였다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-29 10:58:39",
+        "url": "https://www.news1.kr/articles/?2069457",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "현대모비스, 2014년 매출액 36.2조원…전년比 5.8%↑(2보)",
+        "subtitle": "",
+        "content": "= 현대모비스(대표 (이름))는 '2014년 연간 경영실적'을 통해 지난해 매출액이 전년 대비 5.8% 증가한 36조1850억원을 기록했다고 23일 밝혔다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-23 11:33:31",
+        "url": "https://www.news1.kr/articles/?2060483",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "뉴욕 증시, 하락 출발…다우 0.28%↓",
+        "subtitle": "",
+        "content": "= 미국 뉴욕 증시가 17일(현지시간) 하락 출발했다. 다우존스 지수는 전 거래일 대비 0.28% 하락한 1만7969.65로 거래를 시작했다. 나스닥 지수는 0.15% 내린 4885.51로, s&p500 지수는 0.25% 하락한 2091.68로 출발했다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-02-17 23:37:31",
+        "url": "https://www.news1.kr/articles/?2101298",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[도쿄마감]美지표개선·엔弱에 닛케이, 0.9%↑",
+        "subtitle": "",
+        "content": "= 일본 증시가 미국의 지표 개선과 엔화 약세에 힘입어 19일 상승 마감했다. 이날 닛케이225지수 종가는 전거래일 대비 150.13(0.89%) 상승한 1만7014.29를 기록해 2거래일만에 1만7000대를 회복했다. 토픽스지수는 8.68(0.64%) 오른 1372.41로 거래를 마쳤다. 상하이증시 급락 등으로 주춤하는 모습도 있었지만 오후에 상승폭을 더 키웠다.지난주 마지막 거래일인 16일 뉴욕증시 3대 지수는 모두 유가 반등과 소비자신뢰지수 호조 등으로 인해 엿새 만에 1%대 반등했다.이날 엔/달러 환율은 지난주 마지막 거래일보다 0.5% 오른(엔화 약세) 117.15엔을 기록했다. 다만, 뉴욕증시가 19일 휴장인데다 주중에 일본은행(boj)의 금융정책결정회의와 유럽중앙은행(ecb)의 통화회의 등 중요한 일정을 예정돼 있어 거래량은 많지 않았다.종목별로는 혼다 등 수출주가 상세를 보인 반면 샤프는 8.8% 급락했다. 이날 샤프는 올해 실적 목표치를 달성하지 못할 수 있다고 밝혔다. 혼다는 0.98% 올랐다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-19 15:55:50",
+        "url": "https://www.news1.kr/articles/?2053344",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir]lg화학 '올해 中 남경 편광필름 공장 2500만㎥ 증설'",
+        "subtitle": "",
+        "content": "= lg화학이 올해 중국 남경 편광필름 생산공장을 증설한다. 조석제 lg화학 사장(cfo)은 26일 오후 서울 여의도 한국거래소에서 열린 '2014년 실적 관련 기업설명회'에서 '중국 남경 편광필름 공장에 2500만㎥ 규모의 라인을 추가하기로 했다'고 밝혔다. 조 사장은 '남경 공장에 올해 2500만㎥ 규모 라인을 추가해 국내외 내년도 생산능력을 총 1억5500만㎥에서 1억8000만㎥으로 늘릴 계획'이라고 말했다. 중국 남경공장 가동률은 현재 85% 수준이다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-26 17:22:14",
+        "url": "https://www.news1.kr/articles/?2064329",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir]네이버, '올해 실적 10% 내외 성장 기대'",
+        "subtitle": "",
+        "content": "= 네이버는 29일 2014년 4분기 실적발표 컨퍼런스콜을 통해 '2015년 실적 예상과 관련해 네이버는 지난해와 비슷한 10% 내외의 성장을 기대한다'며 '라인은 급속하게 성장해 왔고 분기마다 다른 모습을 보여 명확한 예상이 어렵다'고 밝혔다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-29 09:40:54",
+        "url": "https://www.news1.kr/articles/?2069144",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "한진重 '대륜발전·별내에너지 매각주간사 선정 중'",
+        "subtitle": "",
+        "content": "= 한진중공업은 계열사인 대륜발전과 별내에너지의 지분매각 추진과 관련한 조회공시 답변에서 '현재 매각주간사를 선정 중'이라고 12일 밝혔다. 한진중공업 측은 '추후 구체적인 사항이 확정되는 시점이나 6개월 이내에 재공시하겠다'고 덧붙였다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-12 16:14:05",
+        "url": "https://www.news1.kr/articles/?2042988",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美연준 12월 fomc 성명서 전문",
+        "subtitle": "",
+        "content": "= 미연방준비제도이사회(연준)는 17일(현지시간) '상당기간(considerable time)' 초저금리를 유지하겠다는 종전의 문구를 삭제하고 기준금리를 인상하는 데 '인내심을 가질 것'(be patient)이라는 문구로 변경했다.연준은 이날 이틀간의 연방공개시장위원회(fomc) 회의에서 이같이 결정했다.연준은 사실상 제로(0) 수준인 기준금리를 유지하기로 했다.다음은 연준이 이날 발표한 fomc 성명서 전문이다. information received since the federal open market committee met in october suggests that economic activity is expanding at a moderate pace. labor market conditions improved further, with solid job gains and a lower unemployment rate. on balance, a range of labor market indicators suggests that underutilization of labor resources continues to diminish. household spending is rising moderately and business fixed investment is advancing, while the recovery in the housing sector remains slow. inflation has continued to run below the committee's longer-run objective, partly reflecting declines in energy prices. market-based measures of inflation compensation have declined somewhat further; survey-based measures of longer-term inflation expectations have remained stable.consistent with its statutory mandate, the committee seeks to foster maximum employment and price stability. the committee expects that, with appropriate policy accommodation, economic activity will expand at a moderate pace, with labor market indicators moving toward levels the committee judges consistent with its dual mandate. the committee sees the risks to the outlook for economic activity and the labor market as nearly balanced. the committee expects inflation to rise gradually toward 2 percent as the labor market improves further and the transitory effects of lower energy prices and other factors dissipate. the committee continues to monitor inflation developments closely.to support continued progress toward maximum employment and price stability, the committee today reaffirmed its view that the current 0 to 1/4 percent target range for the federal funds rate remains appropriate. in determining how long to maintain this target range, the committee will assess progress--both realized and expected--toward its objectives of maximum employment and 2 percent inflation. this assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments. based on its current assessment, the committee judges that it can be patient in beginning to normalize the stance of monetary policy. the committee sees this guidance as consistent with its previous statement that it likely will be appropriate to maintain the 0 to 1/4 percent target range for the federal funds rate for a considerable time following the end of its asset purchase program in october, especially if projected inflation continues to run below the committee's 2 percent longer-run goal, and provided that longer-term inflation expectations remain well anchored. however, if incoming information indicates faster progress toward the committee's employment and inflation objectives than the committee now expects, then increases in the target range for the federal funds rate are likely to occur sooner than currently anticipated. conversely, if progress proves slower than expected, then increases in the target range are likely to occur later than currently anticipated.the committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing treasury securities at auction. this policy, by keeping the committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.when the committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent. the committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the committee views as normal in the longer run.voting for the fomc monetary policy action were: janet l. yellen, chair; william c. dudley, vice chairman; lael brainard; stanley fischer; loretta j. mester; jerome h. powell; and daniel k. tarullo.voting against the action were richard w. fisher, who believed that, while the committee should be patient in beginning to normalize monetary policy, improvement in the u.s. economic performance since october has moved forward, further than the majority of the committee envisions, the date when it will likely be appropriate to increase the federal funds rate; narayana kocherlakota, who believed that the committee's decision, in the context of ongoing low inflation and falling market-based measures of longer-term inflation expectations, created undue downside risk to the credibility of the 2 percent inflation target; and charles i. plosser, who believed that the statement should not stress the importance of the passage of time as a key element of its forward guidance and, given the improvement in economic conditions, should not emphasize the consistency of the current forward guidance with previous statements. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2014-12-18 06:50:31",
+        "url": "https://www.news1.kr/articles/?2006975",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[특징주]아이리버, skt 투자 확대에 상한가",
+        "subtitle": "",
+        "content": "= 아이리버가 sk텔레콤 투자 확대에 상한가를 기록하고 있다.22일 오전 9시30분 현재 아이리버는 전날보다 840원(15.00%) 오른 6440원에 거래되고 있다.아이리버는 지난 19일 sk텔레콤을 대상으로 50억원 규모의 전환사채(cb)를 발행키로 했다고 공시했다. 이날 오전에는 sk텔레콤 대상으로 249억9900만원 규모의 유상증자를 결정했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2014-12-22 09:37:59",
+        "url": "https://www.news1.kr/articles/?2012298",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir]sk하이닉스, 보유현금 4조원 넘어서",
+        "subtitle": "",
+        "content": "= sk하이닉스는 28일 2014년 연간 실적 컨퍼런스콜에서 지난해 말 보유 현금 규모가 4조550억원을 기록했다고 밝혔다.sk하이닉스 2013년말 현금 보유량은 2조7860억원 수준이었다. 1년사이에 1조2000억원이 넘는 현금 보유량이 늘었다. 4분기 영업활동으로 인한 현금 흐름은 1조2330억원에 달했고 투자활동으론 8970억원을 사용했다.sk하이닉스의 차입금 비율은 23%로 전년말 대비 12%p 하락했고 순차입금 비율은 1%로 전년 말 대비 12%p 줄었다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-28 15:39:56",
+        "url": "https://www.news1.kr/articles/?2068065",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "'日 인질, 요르단 사형수와 맞교환 합의'-일본 tbs",
+        "subtitle": "",
+        "content": "= 급진 수니파 무장세력 '이슬람국가(is)'에 억류돼 살해 위협을 받고 있는 일본인 고토 겐지(後藤健二·47)의 인질 교환과 관련해 익명의 요르단 정부 관계자가 비공식적으로 '곧 좋은 소식이 있을 것'이라고 말했다고 일본 tbs가 전했다. 이 방송사는 이에 대해 '고토와 요르단에 수감돼있는 사형수 사지다 알-리샤위를 교환하기로 합의했을 가능성이 있다'고 전했다. 다만 현재로선 사실 관계를 확인을 할 수는 없다고 덧붙였다.tv 아사히도 인질 교환 합의가 있었을 수 있다고 속보로 보도했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-28 17:44:54",
+        "url": "https://www.news1.kr/articles/?2068472",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "도레이케미칼, 지난해 영업이익 411억원…전년비 43% 증가",
+        "subtitle": "",
+        "content": "= 도레이케미칼은 지난해 연결기준 연간 영업이익이 411억9117만원으로 전년 대비 43.1% 증가했다고 11일 공시했다. 같은 기간 매출액은 9537억8655만원으로 전년과 비교해 7.7% 줄었고 당기순손실도 239억9778만원을 기록해 적자전환했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-02-11 17:14:02",
+        "url": "https://www.news1.kr/articles/?2091212",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "포스코켐텍, 지난해 4q 영업익 209억…전년비 6% 증가",
+        "subtitle": "",
+        "content": "= 포스코켐텍은 지난해 4분기 연결기준 영업이익 209억4000만원을 기록, 전년동기대비 6.7% 증가했다고 16일 잠정 공시했다.같은 기간 매출은 3514억1800만원으로 9.9% 줄었지만 당기순이익은 169억4700만원으로 18.9% 늘었다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-02-16 14:54:17",
+        "url": "https://www.news1.kr/articles/?2098357",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "현대미포조선 '올해 매출 3조5500억원 전망'",
+        "subtitle": "",
+        "content": "= 현대미포조선은 5일 올해 매출액을 3조5500억원으로 전망했다. 2015년 수주목표는 30억달러, 시설투자규모는 400억원으로 예상했다. 현대미포조선 관계자는 '2015년도 사업계획은 주요지표 예측치와 사업환경 등을 감안해 당사 내부기준에 근거해 작성됐다'고 설명했다.한편, 지난해 현대미포조선의 수주목표은 35억달러, 매출액 전망은 3조8000억원이었다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-05 09:07:18",
+        "url": "https://www.news1.kr/articles/?2031107",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[시황]코스닥, 2.72p(0.49%) 오른 556.45 출발",
+        "subtitle": "",
+        "content": "= 5일 코스닥 출발.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-05 09:01:39",
+        "url": "https://www.news1.kr/articles/?2031077",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[인도마감] 차익실현 매물 출회 속 '내림세'",
+        "subtitle": "",
+        "content": "= 인도 뭄바이의 봄베이증권거래소(bse). © 로이터=news1인도증시가 30일(현지시간) 하락으로 장을 마쳤다.은행주들을 중심으로 그동안의 상승분에 대한 차익매물이 쏟아져 양대 지수를 아래로 견인했다.이날 뭄바이증시의 센섹스지수는 전장 대비 498.82(1.68%) 하락한 2만9182.95에 거래를 마쳤다. 올 들어 2번째로 큰 1일 낙폭이다.니프티지수도 143.45(1.60%) 내린 8808.90에 장을 마감했다. 부문별로는 은행주, 제약주, 자동차주 등이 부진을 나타냈다.종목들 중에선 코울 인디아, 닥터 레디, hdfc 뱅크, tcs, 마힌드라앤드마힌드라(m&m), 타타 모터스, itc 등이 하락했다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-30 21:34:20",
+        "url": "https://www.news1.kr/articles/?2072773",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir]sk하이닉스, 4분기에 투자금 3천억 조기 집행",
+        "subtitle": "",
+        "content": "= sk하이닉스는 28일 실적 컨퍼런스콜을 통해 '지난해에 당초 4조8000억원의 투자를 계획했으나 4분기 올해 투자할 부분을 조기 집행한 부분이 3000억원 수준이었다'며 '당초 올해 투자할 규모 중 3000억원을 조기 집행한 것을 감안하고 올해 투자 규모는 5조2000억원을 예상하고 있다'고 밝혔다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-28 16:25:28",
+        "url": "https://www.news1.kr/articles/?2068200",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir]sk하이닉스, ddr4 서버 채택률 60% 기대",
+        "subtitle": "",
+        "content": "= sk하이닉스는 28일 컨퍼런스콜에서 '차세대 메모리 반도체인 ddr4에 대해 서버시장에선 지난해 4분기부터 채택이 시작됐고 올해 평균 40%, 연말이면 60%를 예상한다'며 '연말이면 ddr4가 메인스트림이 될 수 있는 분기점을 예상한다'고 밝혔다. 낸드플래시의 경우 '중저가 및 고사양 모바일 기기에서 tlc 낸드 채택이 시작됐다'며 '128gb 낸드 모바일 솔루션 제품을 2분기부터 양산할 예정이다'고 덧붙였다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-28 16:08:01",
+        "url": "https://www.news1.kr/articles/?2068151",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir]kt, '올해 1회성 비용 전년보다 줄어들 것'",
+        "subtitle": "",
+        "content": "= 신광석 kt 재무실장(cfo)은 30일 2014년 4분기 실적발표 컨퍼런스콜을 통해 '1회성 비용은 기술 발전에 따라 효율성 떨어지는 자산을 (이름)는 것'이라며 '2012에서 2014년에 걸쳐 이러한 자산 상당부분을 정리해 올해는 훨씬 줄어든 규모로 반영될 것'이라고 밝혔다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-30 16:42:23",
+        "url": "https://www.news1.kr/articles/?2072408",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[시황]코스피, 4.48p(0.23%) 내린 1921.96 출발",
+        "subtitle": "",
+        "content": "= 5일 코스피 출발.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-05 09:02:54",
+        "url": "https://www.news1.kr/articles/?2031085",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美 미시건 앰트랙 열차서 칼부림…용의자 체포",
+        "subtitle": "",
+        "content": "= 미국 미시건주를 지나던 앰트랙 열차에서 5일(현지시간) 한 남성이 승객들에 무차별적으로 칼을 휘두르는 사건이 발생했다.시카고 선타임스는 이날 저녁 시카고를 출발한 앰트랙 열차가 미시건주 소재 소도시 나일스를 지나던 중 칼부림 사건이 일어났다고 보도했다.용의자는 현장에서 즉시 체포돼 구금중인 것으로 알려졌다. 당시 열차에 타고 있던 한 승객은 자신이 타고 있는 열차 옆칸에서 신원미상의 남성이 4명의 승객을 찔렀다고 트위터에 게재했다.이 승객이 올린 사진에는 회색 재킷을 입은 남성이 수갑을 찬 채 열차 바닥에 엎드려 있다.나일스 경찰은 그러나 정확한 사상자 수를 언급하지 않았다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2014-12-06 11:42:01",
+        "url": "https://www.news1.kr/articles/?1989360",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕마감] 美 4분기 gdp 실망·그리스 우려 속 '1%대 하락'",
+        "subtitle": "",
+        "content": "= 뉴욕증권거래소(nyse) © 로이터=news1뉴욕증시는 30일(현지시간) 하락했다.이날 기대를 하회하는 지난해 4분기의 저조한 국내총생산(gdp) 성장률 발표와 유로존의 불안정성 우려 등에 따른 여파로 인해 투심이 위축됐다.다우존스산업평균지수는 전장 대비 251.90(1.45%) 하락한 1만7164.95를 기록했다.스탠다드앤푸어스(s&p) 500지수도 전장 대비 26.26(1.30%) 내린 1994.99에 거래됐다.나스닥종합지수는 전장 대비 48.17(1.03%) 하락한 4635.24를 나타냈다.주간 기준으론 다우지수가 2.8%, s&p500지수가 2.8%, 나스닥지수가 2.6% 하락했고, 또한 월간 기준으론 다우지수가 3.6%, s&p500지수가 3.1%, 나스닥지수가 2.1% 밀렸다.미국의 지난해 4분기 성장세는 기업 지출 부진과 무역 적자 확대로 인해 소비 지출이 2006년 이래 최고 속도임에도 불구하고 전문가 예상보다 둔화한 것으로 나타나 시장에 부정적인 영향을 미치고 있다.해외 요인으론 좌파 신정부의 야니스 바루파키스 그리스의 재무장관이 유럽연합(eu)와 국제통화기금(imf) 등 트로이카 채권단과 구제금융 조건을 협상하지 않을 것이라고 밝혔다. 이에 따른 여파로 투자자들 사이에서 유로존에 대한 불안감이 가중돼 시장을 압박하고 있다.로젠블라트 시큐러티스의 조셉 베난티 이사는 '미국 경제가 지난해 4분기에 부진을 나타낸 것으로 나온 결과가 다소 부정적으로 작용해 투자자들의 우려심을 키우고 있다'고 말했다.◇ 美 4q gdp 성장률 예비치 2.6% 이날 미국 상무부는 지난해 4분기 gdp(국내총생산) 성장률 예비치가 연율 기준으로 전년 대비 2.6% 상승을 기록했다고 발표했다.이는 3분기 기록인 5.0%보다 둔화한 것이며 전문가들의 전망치인 3.0%도 하회하는 수준이다.소비 지출이 2006년래 가장 빠른 속도를 나타냈음에도 기업 지출 부진과 전반적인 무역적자로 인해 gdp 상승세가 크게 둔화한 것으로 풀이된다.4분기의 gdp 성장률은 앞선 2분기와 3분기의 강력한 성장률에 미치지 못했지만 저유가의 여파로 인해 단기에 그칠 가능성이 있다.거의 대부분의 이코노미스트들은 미국의 기초체력(펀더멘탈)이 튼튼해서 글로벌 경제 부진에 따른 여파를 크게 받지 않을 것으로 보고 있다.미국 경제의 약 3분의 2를 차지하는 개인 소비 지출은 지난해 3분기의 3.2%에서 4분기엔 4.3%로 올랐다. 이는 2006년 1분기 이래 가장 빠른 속도다.4분기 물가상승률은 부진한 것으로 나타났다. 휘발유 가격 하락과 함께 분기 개인소비지출(pce) 가격지수는 연율 기준으로 0.5%에 그쳐 지난 2009년 1분기래 최저치 수준을 나타냈다. 이는 3분기의 1.2% 상승을 밑돈다.변동성이 큰 식품과 에너지를 제외한 4분기 근원 pce 가격지수는 연율 1.1% 상승했다. 이는 3분기의 1.4%를 하회하는 수준이다. 또한 2013년 2분기 이후 가장 둔화한 기록이다.◇ 미국 1월 소비자심리지수 확정치 98.1같은 날 미국 톰슨-로이터/미시간대는 이번 달 미국의 소비자심리지수 확정치가 98.1을 나타냈다고 발표했다.이는 확정치 기준으로 2004년 1월 이래 11년래 최고치로 직전월(지난해 12월)의 확정치인 93.6을 웃돌지만, 예비치이자 전문가 예상치인 98.2는 약간 밑돈다.꾸준한 일자리 상승, 유가 하락, 임금 상승 등에 힘입어 미국 가정들의 살림살이에 대한 전망이 밝아졌다는 의미다.향후 기대지수는 지난달의 86.4에서 이발엔 91.0으로 올랐다. 이는 예상치인 91.5를 하회하고 예비치인 91.6도 밑도는 수준이다.현재 상(이름)는 지난달의 104.8에서 이달엔 109.3으로 올랐으며, 전문가 예상인 108.0과 예비치인 108.3도 상회했다.1년 물가기대지수는 지난달의 2.8%에서 이달엔 2.5%로 하락했다.◇ 美 1월 시카고 pmi 59.4이날 시카고 구매관리자협회는 이달의 구매관리자지수(pmi)가 59.4을 기록했다고 밝혔다.이는 직전월(지난해 12월)에 기록한 58.3보다 1.1포인트 높고, 시장 전망치인 57.5를 웃도는 수준이다.pmi는 50을 기준으로 이를 웃돌면 경기 확장을, 이를 밑돌면 경기 위축을 의미한다.이로써 미 중서부 지역의 제조업 경기는 지난달의 확장세를 유지하고 확장 속도도 개선된 것으로 나타났다.◇셰이크r·아마존·구글·비자카드 선전..셰브런 부진아마존닷컴은 전장 대비 13.71% 상승했다. 앞서 이 업체는 월가의 기대치를 웃도는 강력한 판매 실적을 발표했다.구글은 4분기 매출이 15% 증가한 것으로 발표한 후 월가의 전망보다 저조한 기록임에도 전장 대비 4.74% 올랐다.비자카드는 전장 대비 2.79% 상승했다. 앞서 이 업체는 전망을 웃도는 전년 대비 11.5% 증가한 순익 실적 내놓고 주식을 4대1 비율로 분할하는 방안도 승인했다.반면에 셰브런은 전장 대비 0.46% 하락했다. 이 업체는 올해 석유와 가스 개발에 350억달러를 지출할 계획이라고 밝혔다. 이는 지난해보다 13% 줄어든 규모다. 이 가운데 234억달러는 미국 외 지역의 석유개발 사업에 사용될 예정이다.관심을 모은 뉴욕 명물 버거 체인 '셰이크r'(shake shack)은 118.6% 오르며 뉴욕증시 데뷔 첫날을 성공적으로 장식했다.30일(현지시간) 뉴욕증시 3대 지수. © 로이터=news1 <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-31 07:21:55",
+        "url": "https://www.news1.kr/articles/?2072884",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir]kt, '올해 유선 매출 2.3조원 예상'",
+        "subtitle": "",
+        "content": "= 신광석 kt 재무실장(cfo)은 30일 2014년 4분기 실적발표 컨퍼런스콜을 통해 '유선의 경우 가입자와 매출이 지속적인 감소 추세'라며 '올해 유선 매출은 지난해 2.6조원 대비 11%~12% 감소한 2.3조원으로 예상한다'고 밝혔다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-30 16:54:38",
+        "url": "https://www.news1.kr/articles/?2072438",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "동부제철, 1100억원 규모 손해배상청구 피소",
+        "subtitle": "",
+        "content": "= 동부제철은 에어리퀴드코리아가 계약중도 해지에 따른 1100억원 규모의 손해배상 청구 소송을 제기했다고 9일 공시했다.동부제철 측은 '에어리퀴드코리아는 당사 열연공장에 산소 및 질소를 공급하던 업체로 열연공장 가동 중단에 따라 계약 이행의 불가함을 설명하고 합의하려 했으나 합의하지 못했다'며 '소송 청구금액은 중재기관에서 중재비용 산출을 위해 추정한 금액으로 실제 신청인이 확정적으로 청구한 금액은 아니다'라고 설명했다.청구금액은 자기자본 대비 7.88%에 해당하며 동부제철은 대리인과 협의를 통해 중재에 대응할 예(이름)고 덧붙였다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-09 08:24:19",
+        "url": "https://www.news1.kr/articles/?2126805",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "허창수 gs 회장 '10년의 성공..고객 중심으로 다시 이어가야'",
+        "subtitle": "",
+        "content": "= 허창수 gs 회장은 2일 서울 강남구 논현로 gs타워에서 계열사 ceo를 비롯한 경영진 150 여 명이 참석한 가운데 열린 '2015년 gs신년모임'을 갖고 '10년간의 괄목할만한 성과를 이어 고객이 원하는 삶의 가치를 창조하기 위해 새로운 도약을 준비해야 한다'고 당부했다. 허 회장은 ' 고객과 현장 중심의 경쟁력을 강화할 것 유연한 조직문화를 정착해 나갈 것 기업의 사회적 역할을 다해야 할 것' 등을 주문했다. 허 회장은 '올해는 gs가 새로운 ci와 경영이념을 선포하고 첫발을 내디딘 지 10주년을 맞이하는 뜻 깊은 해'라고 언급하고, '그 동안 수많은 역경과 도전을 슬기롭게 이겨내고 성장을 거듭해 자산과 매출 규모가 세 배 이상 커졌고, 해외매출은 다섯 배 증가해 그 비중이 60%에 이르는 등 괄목할만한 성과를 이뤄냈다'고 강조했다. 이어 '지난 10년간 경영환경은 기술의 비약적 발전, 고객 니즈의 급격한 변화, 새로운 비즈니스 모델의 출현 등으로 급변해 왔다'며, 'gs의 사업구조와 포트폴리오도 더욱 고도화, 다변화하는 등 질적인 측면의 성장이 절실한 때'라고 주문했다. 또 '다시 gs의 경영이념의 의미를 되새기고, '고객이 원하는 삶의 가치를 창조'하기 위해 새로운 도약을 준비해야 한다.'고 강조했다. 허 회장은 새로운 도약을 준비하기 위해 먼저 고객과 현장 중심의 경쟁력과 유연한 조직문화 기업의 사회적 책임 등을 강조했다. 허 회장은 '어려울 때 성장하는 기업이야말로 진정한 경쟁력을 갖추었다고 할 수 있다'며 '그 경쟁력의 원천은 고객과 현장에 있다'고 강조했다. 특히 '한 가지 (이름) 일을 더 하는 것은 해로운 일을 제거하는 것만 못하다'는 옛말을 인용하며, '불필요한 일은 과감히 줄여야 한다'고 강조했다. 유연한 조직문화를 위해 '지금까지의 전략이나 관행에 대한 건설적인 비판을 장려하고, 새로운 아이디어나 혁신적인 경영방식을 수용하는 분위기를 만들어야 한다'며 '실패를 용인해야 과감한 도전이 가능하고, 그래야만 비록 작더라도 의미 있는 성공을 이루어 낼 수 있다'고 강조했다.허 회장은 'gs는 언제나 책임감을 가지고 정도를 걸어감으로써 사회로부터 존경 받는 자랑스러운 기업을 만들기 위해 노력해 왔다'며 '내 손으로 비전 달성을 앞당기겠다는 자부심을 가지고 새로운 10년, 나아가 위대한 100년을 향해 힘차게 나아가자'고 당부했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-02 09:02:00",
+        "url": "https://www.news1.kr/articles/?2028368",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕개장] 주택지표 등 관망 속 어닝실적 부진에 '약보합' 출발",
+        "subtitle": "",
+        "content": "= 뉴욕증권거래소(nyse). © 로이터=news1뉴욕증시가 23일(현지시간) 약보합으로 출발했다.투자자들이 주택지표와 경기선행지수 발표를 앞두고 기업들의 저조한 어닝 실적으로 인해 투심이 위축돼 3대 지수가 보합권에서 하락세를 나타내고 있다.개장 직후 다우존스산업평균지수는 전장 대비 12.2(0.07%) 하락한 1만7801.78을 기록 중이다.스탠다드앤푸어스(s&p) 500지수는 전장 대비 1.33(0.06%) 내린 2061.82를 나타내고 있다.나스닥종합지수는 전장 대비 2.87(0.06%) 하락한 4747.53에 거래 중이다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-23 23:54:49",
+        "url": "https://www.news1.kr/articles/?2061440",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕장중] 엇갈린 지표 결과·기업 어닝에 '혼조세'",
+        "subtitle": "",
+        "content": "= 뉴욕증권거래소(nyse). © 로이터=news1뉴욕증시는 23일(현지시간) 혼조세를 나타내고 있다.이날 증시는 지표들이 혼조를 나타내고 일부 기업들의 어닝실적 부진 속에서 3대 지수의 방향이 엇갈리고 있다.이날 현지시간으로 오후 12시45분 현재 다우존스산업평균지수는 전장 대비 29.51(0.17%) 하락한 1만7784.47을 기록하고 있다.스탠다드앤푸어스(s&p) 500지수도 전장 대비 1.80(0.09%) 내린 2061.35에 거래 중이다.반면에 나스닥종합지수는 전장 대비 13.23(0.28%) 상승한 4763.63을 나타내고 있다.시장은 유럽중앙은행(ecb)의 전면적인 양적완화에 대한 호재는 이미 소화하고 미국 기업들의 어닝 실적에 관심을 보이고 있다.ups는 기대를 밑도는 4분기 어닝 실적 전망을 발표한 후 하락 중이고, 페덱스 역시 부진한 실적으로 인해 밀리고 있다.이날 발표된 제조업 구매관리자지수(pmi) 예비치는 전망을 하회했으나 기존주택 판매건수와 경기선행지수는 전망을 웃돌았다.내틱시스 글로벌 애셋 매니지먼트의 데이비드 라퍼리 수석 시장전략가는 '기업들의 어닝 실적은 혼조를 나타냄에 따라 주가의 명암이 엇갈리고 있다'고 말했다.◇ 美 1월 제조업 pmi 예비치 53.7..12개월래 최저이날 시장조사기관 마르키트는 이번 달 미국 제조업 구매관리자지수(pmi) 예비치가 53.7을 기록했다고 발표했다.이는 시장 전망치인 54.0을 하회하고 전월 확정치인 53.9에도 미치지 못했다. 또한 12개월래 최저 수준이다.pmi는 50을 기준으로 이를 넘어서면 경기확장으로, 이를 밑돌면 경기위축으로 간주한다.마르키트는 보고서를 통해 신규 사업 성장세가 둔화를 나타내 이번 달 모든 부문이 압박을 받았다고 설명했다.이 보고서는 또한 일부 제조업체들은 석유와 가스 부문에서 고객들이 지출이 줄어들어 이번 달 신규 주문이 압박을 받은 점을 주목했다. 크리스 윌리엄슨 마르키트 수석연구원은 '올해 첫달 미국 제조업 부문에서 경제 상황은 지속적으로 개선되고 있다'면서도 '하지만 성장세는 지낸해 여름 보여준 확장세보다는 지속적으로 둔화했다'고 말했다.◇ 美12월 기존주택 판매 전월比 2.4% 증가..504만건같은 날 전미중개인협회(nar)는 지난달 미국의 기존주택매매 건수가 전월비로 2.4% 증가해 연율 기준으로 504만건을 기록했다고 밝혔다.이는 전문가들이 예상한 506만건을 밑돌지만 직전월(11월) 기록인 493만건은 웃도는 수준이다.이는 미국의 주택시장이 올해 호조를 나타낼 것이라는 긍정적인 신호다.지난해 전체의 기존주택 판매는 연율 기준으로 전년 대비 3.1% 감소한 493만건을 나타냈다. 이는 2010년 이후 첫 감소다.미국의 주택시장은 모기지 금리 상승에 따른 여파로 인해 2013년 하반기에 부진을 기록한 모멘텀을 유지하느라 안간힘을 써왔다.하지만 지난 수개월 간 모기지 금리 하락, 대출 기준 완화, 경제 회복세 등에 힘입어 주택시장에 대한 긍정적 분위기를 부추겼다.이에 올해 기존주택 판매 실적은 강화될 가능성이 있다. 특히 생애 최초 주택 구매자들 사이에서 주택 거래가 활발해질 전망이다. ◇ 美 12월 경기선행지수 0.5% 상승..전망 상회 이날 미 컨퍼런스보드는 11월 경기선행지수가 0.5% 상승했다고 밝혔다.이는 직전월(11월) 수정치인 0.4% 상승을 웃돌고 시장 전망치인 0.4%도 상회하는 수준이다. 11월 수치는 당초 0.6% 상승에서 0.4% 상승으로 하향 조정됐다.애터먼 오질디림 콘퍼런스보드 이코노미스트는 '지난달 경기선행지수의 상승은 대부분의 분야에서 나타났다'며 '이는 올 초에도 경제가 지속적으로 성장을 이어갈 것임을 보여준다'고 말했다.그는 '현재 경제 상태는 일부 산업생산이 부진을 보이고 있지만 고용과 소득이 개선돼 미국 경제의 확장세를 지속시킬 것'이라고 덧붙였다.현재 상황을 나타내는 12월 동행지수는 0.2% 상승했고, 후행지수도 0.3% 올랐다.◇ 달러 강세..국채수익률·금값·유가 약세주요 6개 통화 대비 달러 가치를 나타내는 ice 달러인덱스는 전장 대비 0.61% 상승한 94.94를 기록하고 있다.엔/달러 환율은 전장 대비 0.6010% 하락한 118.0970엔을 나타내고 있다. 미국의 10년물 국채 수익률은 전장 대비 5bp(1bp=0.01%) 하락한 1.82%를 기록 중이다.금선물은 하락세를 보이고 있다. 2월 인도분 금선물은 전장 대비 0.83% 하락한 온스당 1289.90달러를 나타내고 있다.국제유가는 하락세를 보이고 있다. 내년 2월 인도분 서부 텍사스산 원유(wti) 선물은 전장 대비 0.93% 하락한 배럴당 45.88달러에 거래되고 있다. ◇ ups·페덱스 부진..ge·스타벅스 호조부진한 어닝 실적 속에서 ups는 전장 대비 9.8% 하락 중이며, 페덱스 역시 2.2% 밀리고 있다.제너럴 일렉트릭(ge)은 석유와 가스 사업부의 매출은 부진했으나 발전 터빈과 제트 엔진 부문의 호조에 힘입어 4분기 실적이 증가했다고 밝혔다. 이에 ge 주가는 전장 대비 2.18% 상승 중이다.스타벅스는 미국의 동일매장 매출 실적이 기대를 웃돌았다고 발표한 후 전장 대비 6.53% 상승세를 기록 중이다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-24 03:18:55",
+        "url": "https://www.news1.kr/articles/?2061462",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "바누아투서 규모 6.8 강진…쓰나미 위협 없어",
+        "subtitle": "",
+        "content": "= 태평양 섬나라 바누아투에서 23일(현지시간) 규모 6.8의 (이름) 발생했다고 미국 지질조사국(usgs)이 밝혔다.지진은 수도 포트빌라에서 약 84km 떨어진 해저 218km 지점에서 일어났다.태평양 쓰나미경보센터에 따르면 지진으로 인한 쓰나미 위험은 감지되지 않았다.usgs는 당초 지진 규모를 6.9라고 발표했다가 이후 하향 조정했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-23 13:30:02",
+        "url": "https://www.news1.kr/articles/?2060620",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "is, 일본인 인질 살해 '카운트다운 시작됐다' 경고",
+        "subtitle": "",
+        "content": "= 수니파 급진 무장조직 이슬람국가(is) 연관 무(이름)들이 23일(현지시간) 일본인 인질들에 대한 협상 시한이 만료된 후 웹사이트를 통해 인질 살해에 대한 '카운트다운이 시작됐다'는 경고 메시지를 내보냈다. 이날 허핑턴포스트에 따르면 이 경고문엔 is가 이미 참수한 다른 인질들의 끔찍한 모습을 담은 사진과 함께 '제로(0)'을 향하는 시계 (이름)를 첨부했다. 일본 ntv가 이 같은 내용의 경고문이 게재된 웹사이트에 대해 최초로 보도했다. 다만 이 경고문엔 일본인 인질들의 사진은 나오지 않았다고 전해졌다.is는 지난 20일 공개한 영상에서 72시간 내 몸값 2억달러(약 2167억원)를 내놓지 않으면 일본인 고토 겐지(後藤健二·47)와 유카와 하루나(湯川?菜·42)를 살해하겠다고 협박했다.afp통신에 따르면 일본 정부는 동영상 배포 시점을 기준으로 협상 마감 시간을 23일 오후 2시50분으로 보고 있다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-23 21:01:41",
+        "url": "https://www.news1.kr/articles/?2061378",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "is, 리비아 시르테서 국립大 등 도시 주요 시설 접수",
+        "subtitle": "",
+        "content": "= 수니파 극단주의 무장단체 이슬람국가(is) 소속 지하디스트들이 리비아 중부 도시 시르테에 위치한 국립대학을 접수했다고 afp통신이 이 대학 소속 교수의 말을 인용해 20일(현지시간) 보도했다.이 교수의 말에 따르면 지하디스트들은 19일 대학을 점령했고, 이 때문에 학생들의 시험이 연기됐다.사우디아라비아 일간지인 알와사트는 is가 시르테를 완전히 점령했다는 보도를 내보내기도 한 가운데 이 도시의 주요 시설과 건물들이 is에 접수됐다는 소식이 계속 나오고 있다. 앞서 하루 전인 18일엔 무(이름) 수십명이 수도 트리폴리 동쪽 450km 지점에 위치한 지중해 연안 시르테의 거리에서 행진을 벌였다. 소셜미디어들은 두건을 쓴 무(이름)들이 대공화기를 탑재하고 is의 상징인 검은 깃발을 매단 채 픽업트럭과 4x4 차량에 탄 사진을 내보냈다. is는 시리아와 이라크 북부지역을 점령 중이며 북아프리카까지 세력을 확장하고 있는 것으로 보인다.또한 이슬람 반군 단체로 수도인 트리폴리와 서부 지역을 장악하고 있는 '리비아의 새벽'(fajr libya)가 도시의 치안을 회복하기 위해 시르테에 대원들을 보냈다고 전하기도 했다.증인들에 따르면 리비아 독재자로 군림하다 축출돼 지난 2011년 10월 사망한 무아마르 카다피의 고향인 시르테의 와가두구 센터도 이들 무(이름)들에게 접수됐다.시르테에서 활동 중인 afp통신 사진기자에 따르면 '리비아의 새벽'과 is 반군은 서로 적당한 거리를 유지하고 있으며 상호 적대적인 낌새는 없다.지하디스트들은 지난주엔 라디오 시르테와 몇몇 정부시설들을 점령했다. 시르테는 지난 2011년 이래로 이슬람 급진주의자들의 거점이 됐다.시르테는 특히 유엔이 테러 단체로 지정한 안사르 알샤리아의 거점이다. 안사르 알샤리아는 is와 연계하고 있는 것으로 추정된다.is는 지난 15일 대부분 이집트인인 콥트교도 21명에 대한 참수 영상을 공개했다. 이로 인해 이집트는 리비아 내 is에 대한 공습을 시작했으며 추가 공격도 경고하고 있다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-02-20 09:49:05",
+        "url": "https://www.news1.kr/articles/?2102374",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美연준 1월 fomc 성명서 전문",
+        "subtitle": "",
+        "content": "= 미연방준비제도이사회(연준)는 28일(현지시간) 이틀간의 공개시장위원회(fomc) 통화정책회의를 끝내고 성명을 발표했다.연준은 이 성명에서 '상당기간(considerable time)' 초저금리를 유지하겠다는 종전의 문구를 완전히 삭제하고 지난해 12월 성명에 이어 기준금리를 인상하는 데 '인내심을 가질 것'(be patient)이라는 문구를 반복했다.또한 '완만한 성장세'(moderate pace) 대신 '견고한 성장세'(solid pace)라는 표현으로 대체하며 미국의 지속적인 경기 회복세를 낙관했다. 연준은 또한 사실상 제로(0) 수준인 기준금리를 그대로 유지하고 오는 6월 이후에나 금리인상에 나설 것임을 재차 밝혔다.다음은 연준이 이날 발표한 fomc 성명서 전문이다. information received since the federal open market committee met in december suggests that economic activity has been expanding at a solid pace. labor market conditions have improved further, with strong job gains and a lower unemployment rate. on balance, a range of labor market indicators suggests that underutilization of labor resources continues to diminish. household spending is rising moderately; recent declines in energy prices have boosted household purchasing power. business fixed investment is advancing, while the recovery in the housing sector remains slow. inflation has declined further below the committee’s longer-run objective, largely reflecting declines in energy prices. market-based measures of inflation compensation have declined substantially in recent months; survey-based measures of longer-term inflation expectations have remained stable. consistent with its statutory mandate, the committee seeks to foster maximum employment and price stability. the committee expects that, with appropriate policy accommodation, economic activity will expand at a moderate pace, with labor market indicators continuing to move toward levels the committee judges consistent with its dual mandate. the committee continues to see the risks to the outlook for economic activity and the labor market as nearly balanced. inflation is anticipated to decline further in the near term, but the committee expects inflation to rise gradually toward 2 percent over the medium term as the labor market improves further and the transitory effects of lower energy prices and other factors dissipate. the committee continues to monitor inflation developments closely.to support continued progress toward maximum employment and price stability, the committee today reaffirmed its view that the current 0 to 1/4 percent target range for the federal funds rate remains appropriate. in determining how long to maintain this target range, the committee will assess progress--both realized and expected--toward its objectives of maximum employment and 2 percent inflation. this assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments. based on its current assessment, the committee judges that it can be patient in beginning to normalize the stance of monetary policy.however, if incoming information indicates faster progress toward the committee’s employment and inflation objectives than the committee now expects, then increases in the target range for the federal funds rate are likely to occur sooner than currently anticipated. conversely, if progress proves slower than expected, then increases in the target range are likely to occur later than currently anticipated.the committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing treasury securities at auction. this policy, by keeping the committee’s holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.when the committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent. the committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the committee views as normal in the longer run.voting for the fomc monetary policy action were: janet l. yellen, chair; william c. dudley, vice chairman; lael brainard; charles l. evans; stanley fischer; jeffrey m. lacker; dennis p. lockhart; jerome h. powell; daniel <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-29 05:31:51",
+        "url": "https://www.news1.kr/articles/?2068803",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[유럽마감] 그리스 재협상 난항에 '하락세'",
+        "subtitle": "",
+        "content": "= 독일 프랑크푸르트에 위치한 유럽중앙은행(ecb) 본부. © 로이터=news1유럽증시는 11일(현지시간) 하락세로 장을 마감했다.이날 그리스의 구제금융 재협상에 대한 비관론이 확산돼 주요 증시를 일제히 아래로 끌어내렸다.범유럽지수인 스톡스600지수는 전장 대비 0.24% 하락한 372.04에 거래를 마쳤고, 범유럽 우량주인 스톡스50지수는 0.27% 하락한 3374.14에 마감했다.영국 ftse100지수는 전장 대비 0.16% 하락한 6818.17을 기록했고, ftse유로퍼스트300지수는 전장대비 0.32% 내린 1483.69에 거래를 마쳤다. 독일 dax30지수는 전장 대비 0.02% 하락한 1만752.11을 나타냈고, 프랑스 cac40지수는 전장대비 0.35% 내린 4679.38에 장을 마감했다.이날 벨기에 브뤼셀에서 열린 유로존 재무장관 회의에서 독일의 강력한 반대로 인해 그리스의 구제금융 재협상 타결이 어려운 것으로 (이름)면서 주요 증시가 일제히 하락했다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-02-12 03:35:05",
+        "url": "https://www.news1.kr/articles/?2091690",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir]기아차 '올해 배당 보통주 1주당 1000원…배당성향 13.5%'",
+        "subtitle": "",
+        "content": "= 한천수 기아자동차 재경본부장(부사장)은 23일 서울 양재동 본사에서 가진 '2014년 연간 경영실적 컨퍼런스콜'에서 '올해 주주가치 실현을 위해서 보통주 1주당 1000원으로 배당할 예정'이라며 '시가배당률은 2%, 배당성향은 13.5%로 지난해보다 크게 증가한 것'이라고 말했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-23 14:43:51",
+        "url": "https://www.news1.kr/articles/?2060776",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕장중] fomc 회의 결과 긍정적 기대감 속 '상승세'",
+        "subtitle": "",
+        "content": "= 뉴욕증권거래소(nyse). © 로이터=news1뉴욕증시는 28일(현지시간) 상승세를 나타내고 있다.투자자들이 미연방준비제도이사회(연준)의 공개시장위원회(fomc) 통화정책회의 결과를 기다리고 있는 가운데 애플과 보잉 등의 어닝실적 호조에 힘입어 투심이 부양되고 있다.이날 현지시간으로 오후 12시33분 현재 다우존스산업평균지수는 전장 대비 82.33(0.47%) 상승한 1만7469.54를 기록하고 있다.스탠다드앤푸어스(s&p) 500지수도 전장 대비 6.37(0.31%) 오른 2035.92에 거래 중이다.나스닥종합지수는 전장 대비 31.77(0.68%) 상승한 4713.26을 나타내고 있다.이날 발표되는 주요 경제지표는 없는 가운데 투자자들은 fomc 회의 결과에 주목하고 있다. 회의 결과는 현지시간 기준으로 28일 오후 2시(한국시간 29일 오전 4시)에 발표된다.투자자들은 이번에 연준이 기준금리 인상 시점을 내비칠 것인지에 촉각을 곤두세우고 있다. 다만, 이번 회의에서 큰 정책 변화는 없을 것으로 예상하고 있다.연준은 올해 하반기에 기준금리 인상에 나설 것이란 종전의 신호를 되풀이할 것으로 보고 있다. 또한 낮은 인플레와 외부의 리스크 요인들이 있지만 미국 경제의 회복세엔 영향을 주진 않을 것이란 자신감도 내비칠 것으로 관측된다.다만, 연준이 임금 상승세 둔화, 유가 하락에 따른 인플레이션 상승률 둔화 등을 언급할 가능성도 있다.전문가들은 이번 fomc보다는 오는 30일 발표되는 4분기 국내총생산(gdp)과 다음달 6일 나오는 1월 고용지표가 증시 흐름에 더 큰 영향을 미칠 것으로 보고 있다.이날 s&p 500지수의 에너지 부문은 유가 하락과 바클레이즈와 골드만삭스의 유가 하락 전망에 따라 약 2% 하락세를 나타내고 있다. 데스티네이션 자산운용의 마이클 요시카미 최고경영자(ceo)는 '글로벌 경제는 여전히 약하다'며 골드만 삭스의 유가 전망 보고서를 인용해 '에너지 부문의 부진은 놀랍지 않다'고 말했다.◇ 달러 강세..국채수익률·금값·유가 약세주요 6개 통화 대비 달러 가치를 나타내는 ice 달러인덱스는 전장 대비 0.19% 상승한 94.43을 기록하고 있다.엔/달러 환율은 전장 대비 0.0535% 하락한 117.8040엔을 나타내고 있다. 미국의 10년물 국채 수익률은 전장 대비 3bp(1bp=0.01%) 하락한 1.79%를 기록 중이다.금선물은 하락세를 보이고 있다. 4월 인도분 금선물은 전장 대비 0.50% 하락한 온스당 1286.60달러를 나타내고 있다.국제유가는 하락세를 보이고 있다. 3월 인도분 서부 텍사스산 원유(wti) 선물은 전장 대비 2.47% 하락한 배럴당 45.07달러에 거래되고 있다. ◇ 실적 호조에 애플·야후·보잉·us 스틸 상승세..알리바바 하락세애플은 전장 대비 7.66% 상승하며 나스닥의 랠리를 견인 중이다. 이에 앞서 애플은 2015회계연도 1분기(2014년10월~12월) 180억2000만달러(약 19조5000억원)로 전년동기 130억7000만달러에서 크게 개선됐다고 밝혔다. 이는 전 세계 공개기업 기준으로 역대 최고다. 매출도 746억달러로 전년 동기 576억달러에서 29.5% 증가했다.보잉은 전장 대비 6.22% 상승 중이다. 이에 앞서 보잉은 시장의 전망치를 웃도는 어닝실적과 향후 전망을 발표했다.us 스틸은 전장 대비 14.67% 오르고 있다. 앞서 이 업체가 발표한 순익 실적은 시장의 전망을 웃돌았다. us 스틸은 저유가와 미 달러화 강세로 인해 올해 사업 전망엔 부정적인 여파가 나타날 수도 있다고 경고했지만, 반면에 소비자 지출이 수요를 증가시킬 가능성도 있다고 밝혔다. 야후는 전장 대비 1.88% 오르고 있다. 앞서 야후는 세금을 (이름)하기 위해 자사의 알라바바 보유 지분 분사 계획으로 지분 15%를 스핀코(spinco)로 이전하겠다고 밝혔다. 이에 따라 스핀코는 현재 야후가 보유하고 있는 400억달러 규모의 알리바바 주식 3억8400만주를 모두 소유하게 된다.반면에 알리바바는 전장 대비 4% 하락 중이다. 이에 앞서 중국 규제 당국인 국무원 산하 '국가공상행정관리총국'(공상총국)은 '알리바바 그룹에 대한 행정지도 작업 진행 현황 백서'라는 보고서를 통해 알리바바가 전자상거래 플랫폼에서 발생하고 있는 위법 경영 행위를 해결하지 않고 있다고 지적했다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-29 03:04:23",
+        "url": "https://www.news1.kr/articles/?2068777",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[특징주]현대상선, 유상증자 추진설에 '급락'",
+        "subtitle": "",
+        "content": "= . 현대상선이 유상증자 추진설에 급락하고 있다.2일 오전 9시 37분 기준 유가증권시장에서 현대상선은 전거래일 대비 8.20% 내린 9180원에 거래되고 있다.전날 한국거래소는 현대상선에 유상증자 추진설 관련 조회공시를 요구했다. 답변시한은 이날 낮 12시까지다.. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2014-12-02 09:41:20",
+        "url": "https://www.news1.kr/articles/?1981473",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[ir]기아차 'k5·k7 디젤 출시한다'",
+        "subtitle": "",
+        "content": "= 한천수 기아자동차 재경본부장(부사장)은 23일 서울 양재동 본사에서 가진 '2014년 연간 경영실적 컨퍼런스콜'에서 'k5, k7 승용 디젤차량을 출시해서 수입차에 적극 대응할 것'이라며 '향후 연비기술 및 새로운 파워트레인 개발로 주요 시장의 연비규제 강화에 대응할 것'이라고 말했다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-23 14:41:57",
+        "url": "https://www.news1.kr/articles/?2060773",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "美 2월 고용추세지수 127.76…전년比 6.7% 상승",
+        "subtitle": "",
+        "content": "= 직업 박람회에서 직장을 찾고 있는 미국 구직자들. © 로이터=news1지난달 미국의 고용추세지수(eti)가 전년대비 6.7% 오른 127.76을 기록했다고 미국 민간 경제조사기관 컨퍼런스보드가 9일(현지시각) 밝혔다.이는 직전월인 1월의 수정치 기록인 127.62보다 약간 높은 수준으로 미국 고용시장의 호전 추세가 지속됐다는 의미다.컨퍼런스보드의 개드 레바논 매크로이코노믹 리서치 디렉터는 '고용 상태가 14개월 때 꾸준하게 호전되고 있다'며 '이는 30년래 최장 기간 호조세'라고 설명했다.그는 '일자리 증가와 실업률 하락이 지속될 가능성이 있다'라며 '임금 상승 가속화도 이제 시간 문제'라고 덧붙였다.eti는 미국 고용시장의 추세를 가늠하게 만드는 지표다.eti를 구성하는 8개 요소는 취업의 어려움을 호소하는 응답자 수, 신규실업수당청구건수, 즉각적인 채용은 불가능하지만 일자리 여유가 있는 기업 수의 비율, 임시직 고용자 수, 총 임시고용자 수 대비 비자발적 임시고용자 수의 비율, 구인, 산업생산, 실질 생산 및 무역 매출 등이다.컨퍼런스보드에 따르면 이 가운데 5개 요소가 호조를 나타나 지수를 끌어올리는 데 일조했다. 5개 요소는 즉각적인 채용은 불가능하지만 일자리 여유가 있는 기업 수의 비율, 총 임시고용자 수 대비 비자발적 임시고용자 수의 비율, 실질 생산 및 무역 매출, 산업생산, 구인 등의 순이다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-03-09 23:27:12",
+        "url": "https://www.news1.kr/articles/?2128561",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "예멘의회, '대통령 사임 논의' 비상회의 연기",
+        "subtitle": "",
+        "content": "= 예멘 의회가 압드라부 만수르 하디 대통령의 사임을 논의하기 위해 마련한 특별 회의를 연기한다고 25일(현지시간) 밝혔다.예멘 사바통신은 의회가 '25일로 예정된 비상회의를 연기하기로 결정했다'며 '모든 의원들이 참석할 수 있는 날짜로 추후 결정하겠다'고 보도했다.시아파 반군 세력 후티의 쿠데타 시도에 하디 대통령은 지난 22일 의회에 사임 의사를 전달했다.의회는 하디 대통령의 사퇴 여부를 논의하기 위해 23일 만날 예정이었지만 현재 의회가 휴회중인데다 다수 의원이 수도 사나에 머물고 있지 않은 것으로 알려져 25일로 한 차례 연기했다.야히야 알 라예 의회의장은 압둘라 전 사우디아라비아 국왕에게 애도를 표하기 위해 사우디를 방문했으며 귀국 여부는 확인되지 않고 있다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-25 20:56:33",
+        "url": "https://www.news1.kr/articles/?2062705",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "stx중공업, 8대1 감자 결정…감자비율 87.51%",
+        "subtitle": "",
+        "content": "= stx중공업은 결손금 보전을 통한 재무구조를 개선하기 위해 보통주 8주를 동일한 액면주식 1주로 병합하는 방식으로 감자를 결정했다고 15일 공시했다. 감자기준일은 오는 3월16일이며 감자비율은 87.51%다. 자기주식 12만6801주는 무상소각하기로 했다. 이번 감자로 stx중공업의 자본금은 2857억7254만2500원에서 356억8194만2500원으로 줄어든다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-15 18:18:33",
+        "url": "https://www.news1.kr/articles/?2049101",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "스페인 마드리드 전철역서 의심 물체 발견…소개령",
+        "subtitle": "",
+        "content": "= 스페인 전철역에서 의심스러운 소포가 발견돼 일대 대피령이 내려졌다고 afp통신이 8일(현지시간) 보도했다.현지 경찰에 따르면 이날 오후 6시께 마드리드의 누에보스 미니스테리오스역 입구에서 의심스러운 소포가 발견됐다.누에보스 미니스테리오스역은 3개 지하철 노선과 6개의 지역 통근열차 노선이 만나 유동인구가 많은 곳으로 소포가 발견된 시점은 직장인들의 퇴근으로 인해 혼잡한 시간이었다.경찰 대변인은 구체적인 내용은 밝히지 않은 채 '해당 역에 대피령을 내리고 수사에 착수했다'고 밝혔다.스페인은 전날 프랑스 파리의 풍자 전문 주간지 '샤를리엡도' 건물에서 이슬람 극단주의자들의 테러 사건이 발생한 직후 대테러 안보 수준을 한 단계 격상했다.당국은 아울러 전날 샤를리엡도 사건 발생 2시간 뒤 스페인 일간 엘파이스 사무실에 한 남성이 의심스러운 소포를 배달하면서 직원 300명을 대피시킨 바 있다.당시 소포를 배달한 남성이 뒷문이 아닌 정문에 소포를 두고 가겠다고 고집하면서 벌어진 소동이었지만 확인 결과 위험물질이 아닌 것으로 밝혀졌다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-01-09 03:50:06",
+        "url": "https://www.news1.kr/articles/?2038618",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[인도마감] 모디 총리 개혁 가속화 기대감에 이틀째 '오름세'",
+        "subtitle": "",
+        "content": "= 인도 뭄바이의 봄베이증권거래소(bse). © 로이터=news1인도증시가 11일(현지시간) 상승 마감했다.지난 7일 치른 델리주 선거에서 패배한 집권당이 오히려 개혁에 박차를 가할 것이란 기대감으로 인해 우량주들이 선전, 양대 지수가 이틀째 상승세를 이어갔다.이날 뭄바이증시의 센섹스지수는 전장 대비 178.35(0.63%) 상승한 2만8533.97에 거래를 마쳤다. 니프티지수도 61.85(0.72%) 오른 8627.40에 장을 마감했다.야당인 보통사람당(aap·암아드미당)은 델리주 선거에서 나렌드라 모디 총리가 이끄는 국민의회를 누르고 압승을 거뒀다. 하지만 이로 인해 모디 정권이 현재 추진 중인 개혁정책의 속도를 높일 것이라는 기대감이 높아져 이날 증시를 부양했다. 투자자들은 다음날 나오는 산업생산지수(iip)와 소비자물가지수(cpi)에 주목하고 있다. 전문가들은 지난해 12월의 iip가 1.8% 증가할 것으로 보고 있다. 이는 직전월의 3.8% 증가보다 둔화한 것이다. 또한 지난달 cpi는 5.5% 증가를 나타내 지난해 12월의 5.0%보다 약간 높아질 것으로 보고 있다. 부문별로는 자본재주가 전장대비 2.0% 상승해 가장 선전했다. 이어서 금속주가 1.68% 올랐다.종목별로는 악시스 뱅크가 전장 대비 2.87% 상승해 가장 선전했다. 이어서 엔지니어업체인 라르센 앤 투브로(l&t)가 2.57%, 마루티 스즈키 인디아가 2.10% 올랐다. 반면에 국영 석유천연가스공사(ongc)는 전장 대비 2.63% 하락해 가장 부진했다. 또한 바라트중전기는 2.41% 밀렸다. <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-02-11 20:32:12",
+        "url": "https://www.news1.kr/articles/?2091545",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "[뉴욕마감] 그리스 난항·우크라이나 주시 속 '혼조' 마감",
+        "subtitle": "",
+        "content": "= 뉴욕증권거래소(nyse). ⓒ 로이터=news1뉴욕증시는 11일(현지시간) 혼조로 마감했다.이날 발표되는 주요 지표는 없는 가운데 그리스 부채 문제를 논의하기 위한 유로그룹(유로존 재무장관 협의체) 긴급회의와 우크라이나 사태 해결을 위한 4개국 정상회담 등이 가장 큰 화두가 됐다.이날 현지시간으로 오후 12시25분 현재 다우존스산업평균지수는 전장 대비 6.62(0.04%) 하락한 1만7862.14를 기록했다.스탠다드앤푸어스(s&p) 500지수도 전장 대비 0.06(0%) 내린 2068.53에 거래됐다. 반면에 나스닥종합지수는 전장 대비 13.54(0.28%) 상승한 4801.18을 나타냈다.이날 러시아와 우크라이나, 프랑스, 독일 등 4개국 정상들은 벨라루스의 수도 민스크에서 사태 해결을 위한 정상회담에 나섰다.이날 벨기에 브뤼셀에서 열린 유로존 재무장관 회의에서 독일의 강력한 반대로 인해 그리스의 구제금융 재협상 타결이 어려운 것으로 전해져 시장을 압박했다.버락 오바마 대통령은 수니파 극단주의 무장단체 '이슬람국가'(is)를 격퇴하기 위해 의회에 무력사용권 승인을 요청해 제한적 시장군 투입을 예고하고 있다.미국의 지난주 원유재고가 예상보다 큰 폭으로 증가한 점도 에너지 기업들의 주가를 압박했다. 포트 피트 캐피털의 킴 포리스트 선임 증시 리서치 애널리스트는 '이날 가장 큰 화두는 그리스가 유로존에서 탈퇴할 경우 유럽연합(eu) 전체에 혼란이 가중된다는 것이다'고 말했다.◇ 우크라 해결 위한 4개국 정상회담 돌입프랑스와 독일, 러시아, 우크라이나 정상들이 이날 벨라루스 민스크에서 열리는 우크라이나 평화협상에 참석하기 위해 도착해 협상에 들어갔다.이번 회담에서 중재자 역할을 하고 있는 프랑수아 올랑드 프랑스 대통령이 밝힌 평화협정 초안은 지난해 민스크에서 합의된 비무장지대의 범위를 50~70㎞로 늘리는 방안을 포함하고 있다.로랑 파비우스 프랑스 외무장관은 몇몇 장애물들이 도사리고 있지만 이날 회담에서 우크라이나 평화안이 도출될 가능성이 높다고 전망했다.전날 버락 오바마 미국 대통령은 블라디미르 푸틴 러시아 대통령에 대해 서방측이 제시하는 평화안에 합의할 것을 촉구했다.앞서 오바마 대통령은 필요 시 우크라이나 정부군에 대한 '방어용 살상무기' 제공을 검토하겠다는 입장을 거듭 표명하며 러시아를 압박했다.◇ 오바마, is 격퇴 '제한적' 지상군 투입 추진오바마 대통령이 이날 is를 격퇴하기 위해 무력사용권(aumf)의 승인을 요청했다. 이는 is 격퇴작전에서 미국의 지상군 파견을 않겠다던 종전의 입장을 뒤집은 것이다.다만, 오바마 대통령은 대규모 지상군을 사용하는 일은 억제할 것이라고 밝혀 제한적 지상군 투입이 될 것임을 시사했다.이라크 정부가 수개월 내 is에 대한 대대적인 지상군 공세를 준비 중인 가운데 오바마 대통령의 이 같은 요청은 is에 대한 압박 수위를 높이는 신호다.오바마 대통령이 의회에 보낸 문서엔 '장기적인 지상전엔 미군을 투입하는 일을 허용하지는 않을 것이다'고 명시됐다.이 같은 문구는 미군을 인질구출이나 is 지도부 타격 등의 특수작전엔 참여시킬 수 있지만 대대적인 지상군 공격이나 평화강제 임무엔 동원하지 못한다는 의미다.이 무력사용권에 대한 승인은 재승인이 없는 한 시행한 날로부터 3년이 지나면 자동으로 폐기되며 오바마 대통령은 매 6개월마다 의회에 보고할 의무를 지닌다.다만, 군사작전의 범위에 대한 지리적 제한은 두지 않는다.◇ 美 주간 원유 재고 증가에 유가 급락세미국 에너지정보청(eia)은 지난주(~2월6일까지) 원유재고가 490만배럴 증가했다고 발표했다.이는 시장 전망치인 340만배럴을 크게 웃도는 기록이다.휘발유 재고는 200만배럴 증가했으며, 반면에 정제유 재고는 330만배럴 감소했다.미국의 원유 재고가 예상보다 큰 폭으로 증가하면서 전날 배럴당 55달러 밑으로 내려선 국제유가는 낙폭을 확대하며 하락세를 이어가고 있다.◇ 애플·라이트 에이드·펩시 선전..피어 1 임포츠 급락전날 미국 기업 최초로 시가총액이 7000억달러를 돌파한 애플은 에너지 비용 절감과 애플 캠퍼스와 사무실에 대한 에너지 공급을 위해 퍼스트 솔라를 8억5000만달러에 인수할 것이라고 발표한 직후 전장 대비 2.34% 올랐다. 퍼스트 솔라도 0.47% 상승했다.미국의 약국 및 잡화점 체인 라이트 에이드는 약국 이윤 관리업체(pbm)인 엔비전rx를 20억달러에 인수할 것이라고 밝힌 데 힘입어 전장 대비 6.60% 올랐다.펩시콜라는 지난해 4분기 수익이 예상을 웃돌았다고 발표하고 2018년까지 120억달러 규모의 바이백(주식환매) 계획을 발표한 데 힘입어 전장 대비 2.46% 상승했다.반면에 가구업체인 피어 1 임포츠는 지난달과 이번 달 판매 실적이 부진했다며 올해 수익 전망을 하향 조정한 직후 24.34% 급락했다.11일(현지시간) 뉴욕증시 3대 지수. © 로이터=news1 <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-02-12 06:46:35",
+        "url": "https://www.news1.kr/articles/?2091749",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "스리랑카서 홍수와 산사태…최소 14명 사망",
+        "subtitle": "",
+        "content": "= 스리랑카에서 이틀간 내린 폭우로 인한 홍수와 산사태가 일어나 최소한 14명이 숨졌다고 afp통신이 26일(현지시간) 보도했다.현지 경찰과 관리들에 따르면 인도양 쓰나미가 발생한 지 10년째인 이날 현재 폭우로 인해 (이름)도 약 8만명이 발생한 것으로 집계됐다. 경찰은 중부지역에서 10명이 발생한 산사태로 숨졌다고 설명했다. 이 지역은 지난 10월에서 비슷한 산사태로 인해 38명이 목숨을 잃었다. 경찰은 당국이 몇몇 댐들의 수압을 낮추기 위해 많은 수문을 개방한 후 물이 방류되면서 발생한 홍수로 인해 4명이 익사했다고 덧붙였다.스리랑카 정부 당국은 (이름)들을 돕기 우해 군대를 파견했다. 스리랑카에선 지난 2004년 인도양에서 발생한 쓰나미로 인해 3만1000명이 사망한 바 있다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2014-12-26 23:01:28",
+        "url": "https://www.news1.kr/articles/?2020274",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "불의 고리 칠레-아르헨 국경서 규모 6.7 강진…쓰나미 無",
+        "subtitle": "",
+        "content": "= 페루와 아르헨티나 국경지대에서 규모 6.7의 (이름) 발생했다고 미국 지질조사국(usgs)이 11일(현지시간) 밝혔다.usgs에 따르면 지진은 이날 오후 3시57분(한국시간 12일 오전 3시57분) 칠레 국경 부근 아르헨티나 엘 아길라에서 서쪽으로 93km 떨어진 곳의 깊이 190km 지점에서 지진이 발생했다고 밝혔다.첼레대학교의 국립지질조사센터는 이번 지진 규모가 리히터 기준으로 6.6이라고 밝혔다. usgs는 지진 강도 측정에서 모멘트 규모(moment magnitude)를 사용한다.칠레 국립재난관리청(onemi)은 '사상자나 재산 피해 상황은 알려진 게 없다'고 밝혔다.칠레 해군은 쓰나미 위험은 없다고 전했다. 이른바 '불의 고리'(ring of fire)에 해당하는 이 지역에선 수시간 전에도 규모 5.8의 지진이 일어났다.불의 고리는 환태평양 지진대 가리키는 말로 칠레~알래스카에 이르는 남미와 북미 해안, 일본과 동남아를 연결하는 고리 모양의 화산대다.<저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2015-02-12 05:28:38",
+        "url": "https://www.news1.kr/articles/?2091699",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "쌍용차, 11월 1만222대 판매…전년比 27.5%↓",
+        "subtitle": "",
+        "content": "= . . . . . . 쌍용자동차가 지난달 내수와 수출시장에서 모두 감소한 판매량을 기록했다.쌍용차(대표 (이름))는 지난 11월 내수시장에서 5806대, 수출 4416대 등 총 1만222대를 판매해 전년 동월 대비 27.5% 감소한 판매실적을 기록했다고 1일 밝혔다.지난달 내수시장에서 쌍용차는 전년 동월 대비 11.2% 감소한 판매량을 기록했다. 주력모델인 코란도스포츠(2389대)의 판매량이 17.6% 가량 줄어드는 등 전체 스포츠유틸리티차량(suv) 판매량이 전년 동월 대비 10.3% 감소했기 때문이다. 다목적차량(mpv)인 코란도투리스모도 전년 동월 대비 18.8% 감소한 541대를 판매하는데 그쳤다.쌍용차는 지난달 수출시장에서 전년 동월 대비 41.5% 감소한 4416대를 판매했다. 우크라이나 사태 장기화 등 주력시장의 물량감소 때문이다. 중국 및 유럽지역으로 수출 다변화를 시도하고 있지만 큰 효과는 없는 것으로 분석된다.(이름) 쌍용차 대표이사는 '대외적인 여건으로 인한 수출물량 감소에도 불구하고 지난 2009년 이후 지속되고 있는 내수 판매 증가세는 큰 의미가 있는 것'이라며 '이러한 소비자들의 신뢰 회복에 부응하기 위해 내년 1월 예정된 '티볼리' 출시 준비에 만전을 기하고 있다'고 말했다.한편 쌍용차는 올들어 11월까지 내수 6만775대, 수출 6만7292대 등 총 12만8067대를 판매해 지난해 같은 기간보다 3.3% 줄어든 판매량을 기록했다.. . . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2014-12-01 15:59:13",
+        "url": "https://www.news1.kr/articles/?1980393",
+        "source_site": "뉴스1"
+      },
+      {
+        "title": "현대중공업 부분파업 돌입…울산공장 생산 중단",
+        "subtitle": "",
+        "content": "= 현대중공업은 울산지역 사업장이 임금·단체협상 관련 부분파업으로 인해 생산을 중단한다고 27일 공시했다. 생산분야의 매출액은 24조2827억3718만3000원이며 이는 현대중공업의 최근 매출액 대비 44.81%에 해당한다. 현대중공업 노조는 이날 오후 1시부터 부분파업에 돌입했다. . <저작권자 © 뉴스1코리아, 무단전재 및 재배포 금지>",
+        "board": "기타_기타",
+        "writer": "(이름)",
+        "write_date": "2014-11-27 14:42:57",
+        "url": "https://www.news1.kr/articles/?1975066",
+        "source_site": "뉴스1"
+      }
+    ]
+  }
+}
